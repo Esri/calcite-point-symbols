@@ -1,0 +1,1 @@
+export const tempSourceLocationRegulatorStation21: string;

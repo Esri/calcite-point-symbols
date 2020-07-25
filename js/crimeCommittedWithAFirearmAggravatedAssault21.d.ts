@@ -1,0 +1,1 @@
+export const crimeCommittedWithAFirearmAggravatedAssault21: string;

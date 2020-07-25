@@ -1,0 +1,1 @@
+export const custodyTransferToTransmissionMeter21: string;

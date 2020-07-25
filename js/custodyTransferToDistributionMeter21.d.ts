@@ -1,0 +1,1 @@
+export const custodyTransferToDistributionMeter21: string;

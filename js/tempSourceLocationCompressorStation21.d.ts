@@ -1,0 +1,1 @@
+export const tempSourceLocationCompressorStation21: string;

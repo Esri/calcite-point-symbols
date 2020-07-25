@@ -1,0 +1,1 @@
+export const naturalDisasterIncident21: CalciteMultiPathEntry;

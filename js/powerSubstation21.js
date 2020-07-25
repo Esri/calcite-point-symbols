@@ -1,0 +1,1 @@
+export const powerSubstation21 = "M15 8.998v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h-1v1h-1v1h1v1h-1v1h1v1h-1v1h1v1h-3v-1h1v-1h-1v-1h1v-1h-1v-1h1v-1h-1v-1h-1v1H9v1h1v1H9v1h1v1H9v1h1v1H7v-1h1v-1H7v-1h1v-1H7v-1h1v-1H7v-1H6v1H5v1h1v1H5v1h1v1H5v1h1v1H4v10h13v-10zm-6.2 9.1l1.303-4.1H7.6l1.705-4H12.5l-2.602 3H13.5z";

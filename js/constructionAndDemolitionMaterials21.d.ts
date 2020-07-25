@@ -1,0 +1,1 @@
+export const constructionAndDemolitionMaterials21: string;

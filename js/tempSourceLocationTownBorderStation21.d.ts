@@ -1,0 +1,1 @@
+export const tempSourceLocationTownBorderStation21: string;

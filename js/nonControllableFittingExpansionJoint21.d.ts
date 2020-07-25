@@ -1,0 +1,1 @@
+export const nonControllableFittingExpansionJoint21: string;

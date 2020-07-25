@@ -1,0 +1,1 @@
+export const pointsOfDistributionPublicAssistance21: string;

@@ -1,0 +1,1 @@
+export const damageAssessmentElectricHighDamage21: string;
