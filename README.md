@@ -8,7 +8,7 @@ A collection of SVG illustrations for map symbology.
 
 ## Description
 
-Most provided symbols exist in three sizes:
+Provided symbols exist in one or more of the following three sizes:
 
 * **13x13**
 * **17x17**
@@ -27,9 +27,9 @@ Constructing these symbols on an odd-numbered pixel grid means that they can be 
 Icons are made available as named ES6 exports. This way you can import just the icons you need into your app:
 
 ```js
-import { age48 } from "calcite-point-sybols";
+import { campground21 } from "calcite-point-sybols";
 
-console.log(age48); // => "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.536l-5 5z"
+console.log(campground21); // => "M12.402 16.976H19L10.503 2.998 2 16.976h6.626l1.888-8.94z"
 ```
 
 The icon names will be lower camel case. If the icon name starts with a number, prefix the name with `i`. This is due to the fact that JavaScript variables cannot begin with a number.
@@ -37,7 +37,7 @@ The icon names will be lower camel case. If the icon name starts with a number, 
 If your build system does not perform tree shaking and dead code removal, there is a chance that importing the icons using this syntax will make your bundle extremely large. If that is the case, you can also import icons directly:
 
 ```js
-import { age48 } from "@esri/calcite-ui-icons/js/age48.js";
+import { campground21 } from "@esri/calcite-ui-icons/js/campground21.js";
 ```
 
 Some icons use multiple paths and opacity in their construction, for these the data structure will be an array of path data as follows:
@@ -69,11 +69,10 @@ This will give you an object containing all the icons in the library at all size
 {
   version: '{current version number}',
   icons: {
-    "3d": {
-      alias: ['cube'],
-      category: 'GIS Generic',
-      48:['M23.756...'],
-      64:['M31.618...']
+    "a": {
+      alias: [],
+      category: '',
+      21:['M23.756...']
     },
     ...
   }
@@ -86,11 +85,11 @@ Most icons will have simple strings as path data, but some will be more complex 
 ### Individual icons structure
 All the individual SVG icons have a common file structure.
 
-This is what the `close-16.svg` looks like:
+This is what the `shoplifting-21.svg` looks like:
 
 ```html
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <path d="M35.096 11.578a2.898 2.898 0 0 0-5.058 0L7.477 51.869A2.709 2.709 0 0 0 9.839 55.9h45.455a2.709 2.709 0 0 0 2.363-4.032zM56.94 54.156a1.918 1.918 0 0 1-1.647.944H9.839a1.91 1.91 0 0 1-1.665-2.842L30.735 11.97a2.1 2.1 0 0 1 3.663 0L56.96 52.26a1.918 1.918 0 0 1-.019 1.897zM32.1 27h.8v14h-.8zm0 18h.8v4h-.8z" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21">
+  <path d="M15 10V7.5A2.5 2.5 0 0 0 12.5 5c-.106 0-.208.018-.31.031l.368.975c.8.031 1.442.687 1.442 1.494V10H9.575s.482.835.555 1H11v1h-.648c-.017.435-.204.802-.567 1.049-.441.3-.845.444-1.234.444a1.46 1.46 0 0 1-.551-.11V18h9v-8h-2zm0 2h-1v-1h1v1zm-6-1s.611.958.222 1.222c-.853.579-1.055.111-1.41-.284-.798-.893-1.86-2.247-2.302-2.818a.99.99 0 0 1-.208-.61V6.827L4 5l3.75-2.5 1.125 1.75 2.01.952a1 1 0 0 1 .508.55L12.622 9h-2.368L8.981 7.294a.775.775 0 0 0-1.092-.005 1.204 1.204 0 0 0-.196 1.464L9 11z"/>
 </svg>
 ```
 
