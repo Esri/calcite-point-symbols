@@ -1,1 +1,1 @@
-export const weeds21: string;
+export const weeds21: CalciteMultiPathEntry;

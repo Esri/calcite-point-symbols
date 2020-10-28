@@ -1,0 +1,1 @@
+export const monument21 = "M18.05 1.998v1h-1.133v1H4.083v-1H2.95v-1h15.1zM6 14.998v-9h-.917v-1h10.834v1H15v9h.917v1H5.083v-1H6zm7-9v9h1v-9h-1zm-2 0v9h1v-9h-1zm-2 0v9h1v-9H9zm-2 9h1v-9H7v9zm9.917 2H4.083v1h-.958v1h14.75v-1h-.958v-1z";

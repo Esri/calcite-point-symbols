@@ -1,1 +1,1 @@
-export const wildFire21: string;
+export const wildfire21: string;
