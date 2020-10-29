@@ -1,1 +1,1 @@
-export const square13 = "M4 3.998h5v5H4z";
+export const square13 = "M2 1.998h9v9H2z";

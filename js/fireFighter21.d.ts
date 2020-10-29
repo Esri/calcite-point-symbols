@@ -1,1 +1,1 @@
-export const fireFighter21: string;
+export const firefighter21: string;
