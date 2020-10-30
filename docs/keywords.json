@@ -304,10 +304,8 @@
       "emergency management",
       "lightning strike",
       "act of nature",
-      "act of god",
-      "thor ragnarok",
-      "thunder",
-      "act of nature"
+      "act of God",
+      "thunder"
     ],
     "category":"Emergency Management",
     "release":"2.0.0"
@@ -326,8 +324,7 @@
   "ambulance":{
     "alias":[
       "emergency management",
-      "ambulance siren",
-      ""
+      "ambulance siren"
     ],
     "category":"Emergency Management",
     "release":"2.0.0"
@@ -1162,7 +1159,7 @@
       "state park",
       "state forest",
       "protected land",
-      "treeline",
+      "tree line",
       "pine tree",
       "evergreen tree",
       "christmas tree",
@@ -1844,7 +1841,7 @@
       "automated external defibrillator",
       "first aid",
       "emergency aid",
-      "emt",
+      "EMT",
       "medical"
     ],
     "category":"Health and Human Services",
@@ -1864,7 +1861,8 @@
       "unconventional medicine",
       "natural medicine",
       "natural remedies",
-      "folk medicine"
+      "folk medicine",
+      "alternative medicine"
     ],
     "category":"Health and Human Services",
     "release":"2.0.0"
@@ -1894,11 +1892,11 @@
       "nursery",
       "newborns",
       "child care",
-      "nicu",
+      "NICU",
       "neonatal intensive care unit",
       "delivery room",
       "day care",
-      "childrens hospital",
+      "children's hospital",
       "changing room",
       "baby diaper station",
       "mothers room",
@@ -2079,7 +2077,7 @@
       "hallucinogens",
       "mushrooms",
       "hallucinogenic",
-      "psychadelic",
+      "psychedelic",
       "disassociative drugs"
     ],
     "category":"Health and Human Services",
@@ -2103,7 +2101,7 @@
       "mutual aid",
       "non-profit organization",
       "nonprofit organization",
-      "ngo",
+      "NGO",
       "non-governmental organization"
     ],
     "category":"Health and Human Services",
@@ -2228,7 +2226,7 @@
       "emergency",
       "surgery",
       "operation",
-      "icu",
+      "ICU",
       "health service",
       "patient"
     ],
@@ -2239,7 +2237,7 @@
     "alias":[
       "health and human services",
       "clinic",
-      "icu",
+      "ICU",
       "emergency",
       "heartbeat",
       "medical center",
@@ -2250,7 +2248,7 @@
       "healthcare",
       "doctor",
       "medical professional",
-      "emt",
+      "EMT",
       "nurse"
     ],
     "category":"Health and Human Services",
@@ -2263,7 +2261,7 @@
       "marijuana",
       "weed",
       "hemp",
-      "cbd",
+      "CBD",
       "herbalism",
       "alternative medicine",
       "herb",
@@ -2426,7 +2424,7 @@
       "narcotics",
       "dosage",
       "dose",
-      "synthetic opiode",
+      "synthetic opioid",
       "synthetic drugs"
     ],
     "category":"Health and Human Services",
@@ -2458,7 +2456,7 @@
       "infectious",
       "infection",
       "virus",
-      "covid",
+      "COVID",
       "dangerous",
       "exposure",
       "warning",
@@ -2485,7 +2483,7 @@
       "health and human services",
       "paramedic",
       "emergency medical professional",
-      "emt",
+      "EMT",
       "emergency medical technician",
       "medic",
       "search and rescue",
@@ -2569,7 +2567,7 @@
       "cortisone steroid",
       "hormones",
       "synthetic drug",
-      "anibolic steroid"
+      "anabolic steroid"
     ],
     "category":"Health and Human Services",
     "release":"2.0.0"
@@ -2627,7 +2625,7 @@
       "humanitarian aid",
       "nonprofit",
       "non-profit",
-      "ngo",
+      "NGO",
       "gifts",
       "provider",
       "volunteer service",
@@ -2647,7 +2645,7 @@
       "disaster relief",
       "nonprofit",
       "non-profit",
-      "ngo",
+      "NGO",
       "first responder",
       "community service"
     ],
@@ -3100,7 +3098,7 @@
     "category":"Law Enforcement",
     "release":"2.0.0"
   },
-  "sabatoge":{
+  "sabotoge":{
     "alias":[
       "law enforcement",
       "explosion",
@@ -3546,7 +3544,7 @@
       "attack",
       "incoming fire",
       "rockets",
-      "rpg",
+      "RPG",
       "anti-air fire",
       "tank shell",
       "firearms",
@@ -3584,7 +3582,7 @@
       "torpedo",
       "nuclear",
       "guided missile",
-      "icbm",
+      "ICBM",
       "warhead",
       "mortar",
       "grenade",
@@ -3601,12 +3599,12 @@
       "national security",
       "device location",
       "internet access location",
-      "vpn",
-      "ip address",
+      "VPN",
+      "IP address",
       "mac address",
       "login location",
       "internet activity location",
-      "url"
+      "URL"
     ],
     "category":"National Security",
     "release":"2.0.0"
@@ -3614,7 +3612,7 @@
   "tech-support":{
     "alias":[
       "national security",
-      "it facility",
+      "IT facility",
       "tech support",
       "internet support",
       "computer repair",
@@ -3676,7 +3674,7 @@
       "bomb specialist",
       "bomb defuser",
       "bomb disposal",
-      "eod",
+      "EOD",
       "explosive ordinance disposal",
       "bomb technician",
       "terrorist attack",
@@ -3715,7 +3713,7 @@
     "alias":[
       "national security",
       "battle damage assessment point",
-      "icap"
+      "ICAP"
     ],
     "category":"National Security",
     "release":"2.0.0"
@@ -3902,8 +3900,7 @@
       "street light",
       "street lamp",
       "streetlight",
-      "electricity",
-      "lightpost"
+      "electricity"
     ],
     "category":"Planning and Development",
     "release":"2.0.0"
@@ -4035,7 +4032,7 @@
       "extermination",
       "insects",
       "fumigator",
-      "cockcroaches",
+      "cockroaches",
       "termites"
     ],
     "category":"Planning and Development",
@@ -5008,7 +5005,7 @@
       "payment",
       "money",
       "withdraw",
-      "atm",
+      "ATM",
       "credit card",
       "wallet",
       "lost card",
@@ -5016,7 +5013,6 @@
       "fraud",
       "debit card",
       "cash machine",
-      "withdrawl",
       "deposit",
       "transaction",
       "finances",
@@ -5035,7 +5031,7 @@
   "cash":{
     "alias":[
       "points of interest",
-      "atm",
+      "ATM",
       "purchase",
       "cash machine",
       "withdrawl",
@@ -5199,7 +5195,7 @@
     "alias":[
       "points of interest",
       "tombstone",
-      "cemetary",
+      "cemetery",
       "graveyard",
       "memorial",
       "burial ground",
@@ -5350,7 +5346,7 @@
       "filming site",
       "lens",
       "slideshow",
-      "dslr"
+      "DSLR"
     ],
     "category":"Points of Interest",
     "release":"2.0.0"
@@ -5440,7 +5436,7 @@
       "harbour",
       "coast",
       "bay",
-      "warf",
+      "wharf",
       "shipyard",
       "boatyard",
       "yacht club",
@@ -5455,7 +5451,8 @@
       "water vehicle",
       "transportation",
       "ocean",
-      "sea"
+      "sea",
+      "quay"
     ],
     "category":"Points of Interest",
     "release":"2.0.0"
@@ -5502,7 +5499,7 @@
       "indigenous peoples",
       "native americans",
       "indian americans",
-      "indegenous landmarks",
+      "indigenous landmarks",
       "indigenous burial grounds",
       "indigenous reservation",
       "indigenous land",
@@ -5586,7 +5583,7 @@
       "play structure",
       "play area",
       "elementary school",
-      "childrens park",
+      "children's park",
       "daycare",
       "recess",
       "recreation"
@@ -5602,7 +5599,7 @@
       "washroom",
       "bathroom",
       "water closet",
-      "wc"
+      "WC"
     ],
     "category":"Points of Interest",
     "release":"2.0.0"
@@ -5616,7 +5613,7 @@
       "bathroom",
       "water closet",
       "gender neutral restroom",
-      "wc"
+      "WC"
     ],
     "category":"Points of Interest",
     "release":"2.0.0"
@@ -5629,7 +5626,7 @@
       "washroom",
       "bathroom",
       "water closet",
-      "wc"
+      "WC"
     ],
     "category":"Points of Interest",
     "release":"2.0.0"
@@ -5642,7 +5639,7 @@
       "washroom",
       "bathroom",
       "water closet",
-      "wc"
+      "WC"
     ],
     "category":"Points of Interest",
     "release":"2.0.0"
@@ -5653,7 +5650,7 @@
       "elementary school",
       "high school",
       "middle school",
-      "k-12 school",
+      "K-12 school",
       "college",
       "education",
       "academy",
@@ -5670,7 +5667,7 @@
     "alias":[
       "points of interest",
       "sports complex",
-      "colliseum",
+      "Colosseum",
       "stadium",
       "sports arena",
       "sporting event",
@@ -5680,8 +5677,8 @@
       "auditorium",
       "concert hall",
       "music event",
-      "ampitheater",
-      "ampitheatre",
+      "amphitheatre",
+      "amphitheater",
       "music festival",
       "live event",
       "live show",
@@ -5763,7 +5760,7 @@
       "elementary school",
       "high school",
       "middle school",
-      "k-12 school",
+      "K-12 school",
       "college",
       "education",
       "academy",
@@ -5792,7 +5789,7 @@
       "student",
       "intellectual",
       "masters",
-      "phd",
+      "PhD",
       "graduated"
     ],
     "category":"Points of Interest",
@@ -5900,7 +5897,7 @@
       "ocean fish",
       "marine life",
       "aquatic center",
-      "fishtank",
+      "fish tank",
       "fish pet store",
       "snorkelling site",
       "animals",
@@ -6030,7 +6027,7 @@
     "category":"Public Works",
     "release":"2.0.0"
   },
-  "anomally":{
+  "anomaly":{
     "alias":[
       "public works",
       "utility and pipeline"
@@ -7395,7 +7392,7 @@
       "aviation",
       "runway",
       "hangar",
-      "aeronautical enginnering",
+      "aeronautical engineering",
       "international trade",
       "vehicle"
     ],
@@ -7724,7 +7721,7 @@
     "alias":[
       "transportation",
       "rail incident",
-      "railroard",
+      "railroad",
       "metro",
       "vehicle",
       "bullet train",
