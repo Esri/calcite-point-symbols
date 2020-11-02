@@ -452,7 +452,7 @@
       "building decay",
       "damages",
       "neglected building",
-      "run down"
+      "run-down"
     ],
     "category":"Emergency Management",
     "release":"2.0.0"
@@ -469,7 +469,7 @@
       "building decay",
       "damages",
       "neglected building",
-      "run down"
+      "run-down"
     ],
     "category":"Emergency Management",
     "release":"2.0.0"
@@ -488,7 +488,7 @@
       "disaster recovery center",
       "homeless shelter",
       "quarantine",
-      "self isolation"
+      "self-isolation"
     ],
     "category":"Emergency Management",
     "release":"2.0.0"
@@ -612,7 +612,7 @@
     "alias":[
       "emergency management"
     ],
-    "category":"emergency managemen",
+    "category":"Emergency Management",,
     "release":"2.0.0"
   },
   "landslide":{
@@ -812,77 +812,77 @@
     "alias":[
       "emoji eyes crossed"
     ],
-    "category":"Emoji eyes crosse",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-eyes-hearts":{
     "alias":[
       "emoji eyes hearts"
     ],
-    "category":"Emoji eyes heart",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-eyes-plain":{
     "alias":[
       "emoji eyes plain"
     ],
-    "category":"Emoji eyes plai",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-eyes-stars":{
     "alias":[
       "emoji eyes stars"
     ],
-    "category":"Emoji eyes star",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-eyes-surprised":{
     "alias":[
       "emoji eyes surprised"
     ],
-    "category":"Emoji eyes surprise",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-hat-cowboy":{
     "alias":[
       "emoji hat cowboy"
     ],
-    "category":"Emoji hat cowbo",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-hat-police":{
     "alias":[
       "emoji hat police"
     ],
-    "category":"Emoji hat polic",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-apple":{
     "alias":[
       "emoji apple"
     ],
-    "category":"Emoji appl",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-mouth-frown":{
     "alias":[
       "emoji mouth frown"
     ],
-    "category":"Emoji mouth frow",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-mouth-plain":{
     "alias":[
       "emoji mouth plain"
     ],
-    "category":"Emoji mouth plai",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "emoji-mouth-smiling":{
     "alias":[
       "emoji mouth smiling"
     ],
-    "category":"Emoji mouth smilin",
+    "category":"Emoji",
     "release":"2.0.0"
   },
   "ocean":{
@@ -1162,7 +1162,7 @@
       "tree line",
       "pine tree",
       "evergreen tree",
-      "christmas tree",
+      "Christmas tree",
       "lumberyard",
       "timber",
       "natural resources",
@@ -1492,7 +1492,7 @@
       "generic",
       "driver license",
       "identification",
-      "drivers license",
+      "driver’s license",
       "passport",
       "permit",
       "badge",
@@ -2011,7 +2011,7 @@
       "treatment",
       "prescription",
       "medical",
-      "rx drug",
+      "RX drug",
       "medication",
       "cure",
       "healthcare",
@@ -2047,7 +2047,7 @@
       "treatment",
       "prescription",
       "medical",
-      "rx drug",
+      "RX drug",
       "medication",
       "cure",
       "healthcare",
@@ -2078,7 +2078,7 @@
       "mushrooms",
       "hallucinogenic",
       "psychedelic",
-      "disassociative drugs"
+      "dissociative drugs"
     ],
     "category":"Health and Human Services",
     "release":"2.0.0"
@@ -2114,7 +2114,7 @@
       "health alert",
       "heart attack",
       "health incident",
-      "well being",
+      "well-being",
       "health issue",
       "unhealthy",
       "medical condition",
@@ -2284,7 +2284,7 @@
       "alternative medicine",
       "plant extract",
       "plant concentrates",
-      "thc oil"
+      "THC oil"
     ],
     "category":"Health and Human Services",
     "release":"2.0.0"
@@ -2542,7 +2542,7 @@
       "treatment",
       "prescription",
       "medical",
-      "rx drug",
+      "RX drug",
       "medication",
       "cure",
       "healthcare",
@@ -2603,7 +2603,7 @@
       "infection",
       "disease",
       "pests",
-      "west nile virus",
+      "west Nile virus",
       "bug",
       "insect",
       "insecticide",
@@ -2864,7 +2864,7 @@
     "alias":[
       "law enforcement",
       "cyber incident",
-      "cyber attack",
+      "cyber-attack",
       "hacked device",
       "technical issue",
       "troubleshooting",
@@ -3098,7 +3098,7 @@
     "category":"Law Enforcement",
     "release":"2.0.0"
   },
-  "sabotoge":{
+  "sabotage":{
     "alias":[
       "law enforcement",
       "explosion",
@@ -3338,7 +3338,7 @@
       "dot",
       "container"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "diamond":{
@@ -3347,7 +3347,7 @@
       "point",
       "square diamond"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "diamond-two":{
@@ -3356,14 +3356,14 @@
       "point",
       "oblong diamond"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "hexagon":{
     "alias":[
       "shapes"
     ],
-    "category":"shape",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "circle-ring-sections":{
@@ -3372,7 +3372,7 @@
       "near repeat incident",
       "crime analyst"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "octagon":{
@@ -3380,7 +3380,7 @@
       "shapes",
       "stop"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "circle-ring-hollow":{
@@ -3389,7 +3389,7 @@
       "originator incident",
       "crime analyst"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "circle-ellipse":{
@@ -3398,7 +3398,7 @@
       "other incident",
       "crime analyst"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "circle-ring":{
@@ -3407,7 +3407,7 @@
       "repeat incident",
       "crime analyst"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "rounded-square":{
@@ -3415,7 +3415,7 @@
       "shapes",
       "rounded square"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "square-small":{
@@ -3423,7 +3423,7 @@
       "shapes",
       "square small"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "square":{
@@ -3431,7 +3431,7 @@
       "shapes",
       ""
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "star":{
@@ -3442,7 +3442,7 @@
       "rated",
       "starred"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "triangle":{
@@ -3451,7 +3451,7 @@
       "warning",
       "alert"
     ],
-    "category":"shapes",
+    "category":"Shapes",
     "release":"2.0.0"
   },
   "assassination":{
@@ -3586,7 +3586,7 @@
       "warhead",
       "mortar",
       "grenade",
-      "molotov cocktail",
+      "Molotov cocktail",
       "weapons",
       "attack",
       "incoming fire"
@@ -4619,8 +4619,8 @@
       "food court",
       "meal",
       "fast food",
-      "asian food",
-      "chinese food"
+      "Asian food",
+      "Chinese food"
     ],
     "category":"Restaurant",
     "release":"2.0.0"
@@ -4680,7 +4680,7 @@
       "diner",
       "grill",
       "fast food",
-      "american",
+      "American",
       "sandwich",
       "sandwich shop",
       "deli"
@@ -4701,7 +4701,7 @@
       "food court",
       "meal",
       "fast food",
-      "indian food"
+      "Indian food"
     ],
     "category":"Restaurant",
     "release":"2.0.0"
@@ -4719,7 +4719,7 @@
       "food court",
       "meal",
       "fast food",
-      "italian food",
+      "Italian food",
       "pasta",
       "spaghetti"
     ],
@@ -4739,7 +4739,7 @@
       "food court",
       "meal",
       "fast food",
-      "mediterranean food"
+      "Mediterranean food"
     ],
     "category":"Restaurant",
     "release":"2.0.0"
@@ -4757,7 +4757,7 @@
       "food court",
       "meal",
       "fast food",
-      "mexican food",
+      "Mexican food",
       "tacos"
     ],
     "category":"Restaurant",
@@ -4863,7 +4863,7 @@
       "food court",
       "meal",
       "fast food",
-      "japanese food",
+      "Japanese food",
       "sushi restaurant"
     ],
     "category":"Restaurant",
@@ -4881,7 +4881,7 @@
       "lunch",
       "food court",
       "meal",
-      "thai food",
+      "Thai food",
       "fast food"
     ],
     "category":"Restaurant",
@@ -4939,7 +4939,6 @@
       "lunch",
       "food court",
       "meal",
-      "thai food",
       "vineyard",
       "orchard",
       "winery",
@@ -4985,7 +4984,7 @@
     "alias":[
       "points of interest",
       "amusement park",
-      "ferris wheel",
+      "Ferris wheel",
       "carnival",
       "county fair",
       "theme park",
@@ -5034,7 +5033,7 @@
       "ATM",
       "purchase",
       "cash machine",
-      "withdrawl",
+      "withdrawal",
       "deposit",
       "transaction",
       "finances",
@@ -5411,7 +5410,7 @@
       "purchase",
       "take out",
       "takeaway",
-      "curbside pick up",
+      "curbside pick-up",
       "purse",
       "supermarket",
       "department store",
@@ -5497,8 +5496,8 @@
       "aboriginal peoples",
       "native peoples",
       "indigenous peoples",
-      "native americans",
-      "indian americans",
+      "native Americans",
+      "Indian Americans",
       "indigenous landmarks",
       "indigenous burial grounds",
       "indigenous reservation",
@@ -5803,7 +5802,7 @@
       "wildlife sanctuary",
       "zoo",
       "white elephant",
-      "indian elephant",
+      "Indian elephant",
       "endangered animals",
       "tusks",
       "ivory",
@@ -5899,7 +5898,7 @@
       "aquatic center",
       "fish tank",
       "fish pet store",
-      "snorkelling site",
+      "snorkeling site",
       "animals",
       "conservation"
     ],
@@ -7414,7 +7413,7 @@
       "bike racing",
       "mountain biking trail",
       "share the road",
-      "eco friendly transportation",
+      "eco-friendly transportation",
       "zero emissions",
       "zero carbon",
       "commute",
@@ -7759,17 +7758,17 @@
       "archway",
       "boring"
     ],
-    "category":"Transportation",
+    "category": "Transportation",
     "release":"2.0.0"
   },
   "u-turn-left":{
     "alias":[
       "transportation",
       "turning radius",
-      "u-turn",
-      "u turn"
+      "U-turn",
+      "U turn"
     ],
-    "category":"Transportation",
+    "category": "Transportation",
     "release":"2.0.0"
   }
 }
