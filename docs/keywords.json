@@ -1747,16 +1747,14 @@
   },
   "pin-tear-two":{
     "alias":[
-      "generic",
-      ""
+      "generic"
     ],
     "category":"Generic",
     "release":"2.0.0"
   },
   "pin-tear":{
     "alias":[
-      "generic",
-      ""
+      "generic"
     ],
     "category":"Generic",
     "release":"2.0.0"
@@ -2654,8 +2652,7 @@
   },
   "generic":{
     "alias":[
-      " dumpster",
-      ""
+      "dumpster"
     ],
     "category":" dumpster",
     "release":"2.0.0"
@@ -3428,8 +3425,7 @@
   },
   "square":{
     "alias":[
-      "shapes",
-      ""
+      "shapes"
     ],
     "category":"Shapes",
     "release":"2.0.0"
@@ -4562,8 +4558,7 @@
       "home",
       "residential zoning",
       "address",
-      "suburbs",
-      ""
+      "suburbs"
     ],
     "category":"Planning and Development",
     "release":"2.0.0"
@@ -6332,8 +6327,7 @@
   },
   "drip":{
     "alias":[
-      "public works",
-      ""
+      "public works"
     ],
     "category":"Public Works",
     "release":"2.0.0"
@@ -6851,7 +6845,8 @@
     "alias":[
       "public works",
       "power plant",
-      "electrical"
+      "electrical",
+      "building"
     ],
     "category":"Public Works",
     "release":"2.0.0"
