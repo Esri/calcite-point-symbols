@@ -659,7 +659,7 @@ export {robberyWithFirearm21} from "./js/robberyWithFirearm21.js";
 export {roundedSquare13} from "./js/roundedSquare13.js";
 export {roundedSquare17} from "./js/roundedSquare17.js";
 export {roundedSquare21} from "./js/roundedSquare21.js";
-export {sabotoge21} from "./js/sabotoge21.js";
+export {sabotage21} from "./js/sabotage21.js";
 export {safetyAndCommunication21} from "./js/safetyAndCommunication21.js";
 export {school13} from "./js/school13.js";
 export {school17} from "./js/school17.js";

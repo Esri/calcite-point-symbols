@@ -666,7 +666,7 @@ export const robberyWithFirearm21: string;
 export const roundedSquare13: string;
 export const roundedSquare17: string;
 export const roundedSquare21: string;
-export const sabotoge21: string;
+export const sabotage21: string;
 export const safetyAndCommunication21: string;
 export const school13: string;
 export const school17: string;
