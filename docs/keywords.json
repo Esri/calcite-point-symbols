@@ -1,18 +1,16 @@
 {
   "cow":{
     "alias":[
-      "agriculture",
       "agricultural animal health debris",
       "animal",
       "livestock",
       "beef"
     ],
     "category":"Agriculture",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "agriculture":{
     "alias":[
-      "agriculture",
       "wheat",
       "barley",
       "grains",
@@ -21,20 +19,18 @@
       "rye"
     ],
     "category":"Agriculture",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "horse":{
     "alias":[
-      "agriculture",
       "animal feeding operation",
       "trough"
     ],
     "category":"Agriculture",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "farming-structure":{
     "alias":[
-      "agriculture",
       "barn",
       "farming structure",
       "silo",
@@ -42,11 +38,10 @@
       "agricultural zoning"
     ],
     "category":"Agriculture",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "bleacher":{
     "alias":[
-      "community events",
       "sporting event",
       "sport event",
       "spectators",
@@ -54,30 +49,27 @@
       "fans"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "water-fountain":{
     "alias":[
-      "community events",
       "water fountain",
       "drinking water"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fireworks":{
     "alias":[
-      "community events",
       "fireworks launch site",
       "fireworks show",
       "celebration"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "first-aid":{
     "alias":[
-      "community events",
       "health kit",
       "first aid",
       "emergency",
@@ -86,11 +78,10 @@
       "defibrillator"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "food":{
     "alias":[
-      "community events",
       "food concessions",
       "food stand",
       "beverage",
@@ -103,11 +94,10 @@
       "meal"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pot":{
     "alias":[
-      "community events",
       "food preparation equipment",
       "cooking",
       "kitchen",
@@ -115,11 +105,10 @@
       "pots and pans"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "grandstand":{
     "alias":[
-      "community events",
       "sporting event",
       "sport event",
       "spectators",
@@ -127,11 +116,10 @@
       "fans"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "guest-services":{
     "alias":[
-      "community events",
       "front desk",
       "guest services",
       "reception desk",
@@ -140,11 +128,10 @@
       "service desk"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "handicap-access":{
     "alias":[
-      "community events",
       "accessible",
       "accessibility",
       "disability",
@@ -153,35 +140,32 @@
       "handicap access"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "jersey-barrier":{
     "alias":[
-      "community events",
-      "jersey wall",
-      "jersey barrier",
+      "Jersey wall",
+      "Jersey barrier",
       "road block",
       "blockade",
       "road closed",
       "road barrier"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "laser":{
     "alias":[
-      "community events",
       "stage",
       "performance",
       "lighting",
       "light show"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "stage-lighting":{
     "alias":[
-      "community events",
       "stage lighting",
       "lighting truss",
       "performance",
@@ -189,20 +173,18 @@
       "light show"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "lost-and-found":{
     "alias":[
-      "community events",
       "lost and found",
       "missing items"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "stage":{
     "alias":[
-      "community events",
       "mobile stage",
       "performance",
       "concert",
@@ -214,11 +196,10 @@
       "mobile stage"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "mounted-horse":{
     "alias":[
-      "community events",
       "mounted horse",
       "horse riding",
       "horse rider",
@@ -229,11 +210,10 @@
       "park ranger"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "sound":{
     "alias":[
-      "community events",
       "audio",
       "volume",
       "sound stage",
@@ -242,21 +222,19 @@
       "loudspeaker"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "area":{
     "alias":[
-      "community events",
       "staging area",
       "stage area",
       "setup area"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "strobe-light":{
     "alias":[
-      "community events",
       "police siren",
       "fire siren",
       "ambulance siren",
@@ -265,11 +243,10 @@
       "attention"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "tent":{
     "alias":[
-      "community events",
       "festival tent",
       "circus",
       "outdoor event",
@@ -283,11 +260,10 @@
       "local fair"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "ticket":{
     "alias":[
-      "community events",
       "ticket office",
       "arcade",
       "games",
@@ -297,44 +273,37 @@
       "ticket booth"
     ],
     "category":"Community Events",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "lightning-strike":{
     "alias":[
-      "emergency management",
       "lightning strike",
-      "act of nature",
-      "act of god",
-      "thor ragnarok",
+      "act of God",
       "thunder",
       "act of nature"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "entry-point-alternative":{
     "alias":[
-      "emergency management",
       "alternative entry point",
       "entrance",
       "alternative entrance",
       "alternative exit"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "ambulance":{
     "alias":[
-      "emergency management",
-      "ambulance siren",
-      ""
+      "ambulance siren"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "animal-safety":{
     "alias":[
-      "emergency management",
       "animal health emergency response team",
       "animal protection",
       "veterinarian office",
@@ -344,30 +313,27 @@
       "badge"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "refrigerator":{
     "alias":[
-      "emergency management",
       "appliances debris",
       "appliance"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "avalanche":{
     "alias":[
-      "emergency management",
       "natural disaster",
       "hazard sign",
       "warning sign"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "barricade":{
     "alias":[
-      "emergency management",
       "road closed",
       "road barrier",
       "construction zone",
@@ -376,11 +342,10 @@
       "blockade"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "call-dropped":{
     "alias":[
-      "emergency management",
       "call canceled",
       "call cancelled",
       "call disabled",
@@ -389,21 +354,19 @@
       "call dropped"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "call-hung-up":{
     "alias":[
-      "emergency management",
       "call hung up",
       "call ended",
       "call completed"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "clothes":{
     "alias":[
-      "emergency management",
       "clothing distribution",
       "shirt",
       "attire",
@@ -414,39 +377,35 @@
       "shopping"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "coast":{
     "alias":[
-      "emergency management",
       "coastal erosion",
       "coastal damage",
       "coast town",
       "coastal home"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "damaged-dam":{
     "alias":[
-      "emergency management",
       "dam failure"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "damaged-electrical":{
     "alias":[
-      "emergency management",
       "damaged electrical",
       "damage assessment electric high damage"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "damaged-building":{
     "alias":[
-      "emergency management",
       "damaged commercial building",
       "damaged office building",
       "damaged building",
@@ -455,14 +414,13 @@
       "building decay",
       "damages",
       "neglected building",
-      "run down"
+      "run-down"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "damaged-house":{
     "alias":[
-      "emergency management",
       "damaged residential building",
       "damaged home",
       "damaged house",
@@ -475,80 +433,72 @@
       "run down"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "debris":{
     "alias":[
-      "emergency management",
       "debris mixed"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "shelter":{
     "alias":[
-      "emergency management",
       "disaster recovery center",
       "homeless shelter",
       "quarantine",
-      "self isolation"
+      "self-isolation"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "earthquake":{
     "alias":[
-      "emergency management",
       "damaged house",
       "natural disaster"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "electronics":{
     "alias":[
-      "emergency management",
       "electronics debris",
       "microwave",
       "appliance"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "assistance":{
     "alias":[
-      "emergency management",
       "emergency assistance",
       "disaster relief",
       "helping hand",
       "aid"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "medical":{
     "alias":[
-      "emergency management",
       "emergency medical services",
       "EMT",
       "emergency medical technician"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "sign-arrow":{
     "alias":[
-      "emergency management",
       "event sign",
       "arrow sign",
       "directional sign"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cog":{
     "alias":[
-      "emergency management",
       "gear",
       "equipment failure",
       "failure of equipment",
@@ -556,40 +506,36 @@
       "equipment"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "call-false-alarm":{
     "alias":[
-      "emergency management",
       "call false alarm",
       "call incorrect",
       "call wrong number",
       "call redirect"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "false-alarm":{
     "alias":[
-      "emergency management",
       "false alarm incident",
       "cancel response"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "flooding":{
     "alias":[
-      "emergency management",
       "natural disaster",
       "damaged house"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "food-storage":{
     "alias":[
-      "emergency management",
       "food storage",
       "grain storage",
       "grain silo",
@@ -598,64 +544,58 @@
       "food pantry"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "hurricane":{
     "alias":[
-      "emergency management",
       "natural disaster",
       "tropical storm",
       "cyclone",
       "typhoon"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "incident-command-post":{
     "alias":[
-      "emergency management"
+      "incident command post"
     ],
-    "category":"emergency managemen",
-    "release":"2.0.0"
+    "category":"Emergency Management",
+    "release":"2.1.0"
   },
   "landslide":{
     "alias":[
-      "emergency management",
       "natural disaster",
       "hazard sign",
       "warning sign"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "natural-disaster":{
     "alias":[
-      "emergency management",
       "natural disaster"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "personal-property":{
     "alias":[
-      "emergency management",
       "personal property debris"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "dog":{
     "alias":[
-      "emergency management",
       "pet collection area",
       "animal"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "distribution":{
     "alias":[
-      "emergency management",
       "public assistance",
       "supply distribution",
       "supplies",
@@ -664,32 +604,29 @@
       "aid"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "entry-point-primary":{
     "alias":[
-      "emergency management",
       "entry point primary",
       "primary exit",
       "primary entrance"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "seaplane":{
     "alias":[
-      "emergency management",
       "seaplane base",
       "seaplane landing area",
       "seaplane storage",
       "seaplane takeoff area"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "safety-and-communication":{
     "alias":[
-      "emergency management",
       "search and rescue",
       "safety and communication",
       "construction",
@@ -697,86 +634,77 @@
       "walkie talkie"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "debris-sediment":{
     "alias":[
-      "emergency management",
       "debris sediment",
       "sediment and mud debris"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "shelter-closed":{
     "alias":[
-      "emergency management",
       "shelter closed"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "shelter-open":{
     "alias":[
-      "emergency management",
       "shelter open"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "stream-gauge":{
     "alias":[
-      "emergency management",
       "stream gauge",
       "water mark",
       "flooding measurement"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "tornado":{
     "alias":[
-      "emergency management",
       "twister",
       "tornado",
       "natural disaster"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "train-derailment":{
     "alias":[
-      "emergency management",
       "train derailment",
       "train accident",
       "metro accident",
       "metro derailment"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "tsunami":{
     "alias":[
-      "emergency management",
       "natural disaster"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "volcanic-eruption":{
     "alias":[
-      "emergency management",
       "volcanic eruption",
       "natural disaster",
       "volcano",
       "volcanic ash"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "water-faucet":{
     "alias":[
-      "emergency management",
       "water distribution center",
       "water supply",
       "water faucet",
@@ -785,11 +713,10 @@
       "water consumption"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "wildfire":{
     "alias":[
-      "emergency management",
       "wild fire",
       "natural disaster",
       "forest fire",
@@ -797,11 +724,10 @@
       "intentional burning"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "warehouse":{
     "alias":[
-      "emergency management",
       "storage unit",
       "disposal transfer station",
       "storage facility",
@@ -809,88 +735,87 @@
       "distribution center"
     ],
     "category":"Emergency Management",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "emoji-eyes-crossed":{
     "alias":[
-      "emoji eyes crossed"
+      ""
     ],
-    "category":"Emoji eyes crosse",
-    "release":"2.0.0"
+    "category":"Emoji Eyes Crossed",
+    "release":"2.1.0"
   },
   "emoji-eyes-hearts":{
     "alias":[
-      "emoji eyes hearts"
+      ""
     ],
-    "category":"Emoji eyes heart",
-    "release":"2.0.0"
+    "category":"Emoji Eyes Hearts",
+    "release":"2.1.0"
   },
   "emoji-eyes-plain":{
     "alias":[
-      "emoji eyes plain"
+      ""
     ],
-    "category":"Emoji eyes plai",
-    "release":"2.0.0"
+    "category":"Emoji Eyes Plain",
+    "release":"2.1.0"
   },
   "emoji-eyes-stars":{
     "alias":[
-      "emoji eyes stars"
+      ""
     ],
-    "category":"Emoji eyes star",
-    "release":"2.0.0"
+    "category":"Emoji Eyes Stars",
+    "release":"2.1.0"
   },
   "emoji-eyes-surprised":{
     "alias":[
-      "emoji eyes surprised"
+      ""
     ],
-    "category":"Emoji eyes surprise",
-    "release":"2.0.0"
+    "category":"Emoji Eyes Surprised",
+    "release":"2.1.0"
   },
   "emoji-hat-cowboy":{
     "alias":[
-      "emoji hat cowboy"
+      ""
     ],
-    "category":"Emoji hat cowbo",
-    "release":"2.0.0"
+    "category":"Emoji Hat Cowboy",
+    "release":"2.1.0"
   },
   "emoji-hat-police":{
     "alias":[
-      "emoji hat police"
+      ""
     ],
-    "category":"Emoji hat polic",
-    "release":"2.0.0"
+    "category":"Emoji Hat Police",
+    "release":"2.1.0"
   },
   "emoji-apple":{
     "alias":[
-      "emoji apple"
+      ""
     ],
-    "category":"Emoji appl",
-    "release":"2.0.0"
+    "category":"Emoji Apple",
+    "release":"2.1.0"
   },
   "emoji-mouth-frown":{
     "alias":[
-      "emoji mouth frown"
+      ""
     ],
-    "category":"Emoji mouth frow",
-    "release":"2.0.0"
+    "category":"Emoji Mouth Frown",
+    "release":"2.1.0"
   },
   "emoji-mouth-plain":{
     "alias":[
-      "emoji mouth plain"
+      ""
     ],
-    "category":"Emoji mouth plai",
-    "release":"2.0.0"
+    "category":"Emoji Mouth Plain",
+    "release":"2.1.0"
   },
   "emoji-mouth-smiling":{
     "alias":[
-      "emoji mouth smiling"
+      ""
     ],
-    "category":"Emoji mouth smilin",
-    "release":"2.0.0"
+    "category":"Emoji Mouth Smiling",
+    "release":"2.1.0"
   },
   "ocean":{
     "alias":[
-      "environment and natural resources",
       "water",
       "lake",
       "body of water",
@@ -901,24 +826,22 @@
       "nature",
       "aquatic"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "coral":{
     "alias":[
-      "environment and natural resources",
       "artificial reef site",
       "coral reef",
       "underwater",
       "ocean floor",
       "nature"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "plant":{
     "alias":[
-      "environment and natural resources",
       "leaf",
       "botanical",
       "nature",
@@ -929,12 +852,11 @@
       "foliage",
       "vegetation"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "composter":{
     "alias":[
-      "environment and natural resources",
       "waste management",
       "environmental",
       "green",
@@ -942,12 +864,11 @@
       "recycle",
       "fertilizer"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "snowflake":{
     "alias":[
-      "environment and natural resources",
       "cooling center",
       "cold",
       "freezing",
@@ -959,21 +880,19 @@
       "winter",
       "weather"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "drought":{
     "alias":[
-      "environment and natural resources",
       "famine",
       "dead plant"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "extreme-heat":{
     "alias":[
-      "environment and natural resources",
       "hot",
       "extreme heat",
       "high temperature",
@@ -983,21 +902,19 @@
       "heatwave",
       "weather"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "fog":{
     "alias":[
-      "environment and natural resources",
       "smog",
       "weather"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "dig":{
     "alias":[
-      "environment and natural resources",
       "geological incident",
       "geologist",
       "hammer",
@@ -1006,13 +923,12 @@
       "paleontologist",
       "mining tool"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "globe":{
     "alias":[
-      "environment and natural resources",
-      "planet earth",
+      "planet Earth",
       "conservation",
       "environmentalism",
       "ecology",
@@ -1020,22 +936,20 @@
       "global",
       "international"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "hail":{
     "alias":[
-      "environment and natural resources",
       "sleet",
       "hailstorm",
       "severe weather"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "hot-cold":{
     "alias":[
-      "environment and natural resources",
       "hot cold",
       "cold hot",
       "temperature",
@@ -1045,34 +959,31 @@
       "meteorology",
       "climate"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "rain":{
     "alias":[
-      "environment and natural resources",
       "downpour",
       "storm",
       "weather"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "liquid":{
     "alias":[
-      "environment and natural resources",
       "water",
       "chemicals",
       "corrosive",
       "oil",
       "liquid"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "mining":{
     "alias":[
-      "environment and natural resources",
       "equipment",
       "shovel",
       "pickaxe",
@@ -1080,54 +991,50 @@
       "mine",
       "ore"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "mountain":{
     "alias":[
-      "environment and natural resources",
       "land",
       "hiking",
       "nature",
       "trail",
-      "alps",
+      "Alps",
       "landscape",
       "peaks",
       "mountain range",
       "national park",
       "elevation"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "thunderstorm":{
     "alias":[
-      "environment and natural resources",
       "rain",
       "downpour",
       "lightning storm",
       "severe weather",
       "weather"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "reeds":{
     "alias":[
-      "environment and natural resources",
-      "typha",
+      "Typha",
       "water plants",
       "cattails",
       "swamp",
       "pond",
       "wetlands"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "sun":{
     "alias":[
-      "environment and natural resources",
       "warming center",
       "summer",
       "hot",
@@ -1136,12 +1043,11 @@
       "daytime",
       "weather"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "wind":{
     "alias":[
-      "environment and natural resources",
       "gust",
       "windstorm",
       "high winds",
@@ -1151,21 +1057,20 @@
       "air current",
       "weather"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "pine-tree":{
     "alias":[
-      "environment and natural resources",
       "national forest",
       "national park",
       "state park",
       "state forest",
       "protected land",
-      "treeline",
+      "tree line",
       "pine tree",
       "evergreen tree",
-      "christmas tree",
+      "Christmas tree",
       "lumberyard",
       "timber",
       "natural resources",
@@ -1174,12 +1079,11 @@
       "tree plantation",
       "woods"
     ],
-    "category":"Environment and Natural Resources",
-    "release":"2.0.0"
+    "category":"Environment And Natural Resources",
+    "release":"2.1.0"
   },
   "fire":{
     "alias":[
-      "fire service",
       "flames",
       "burning",
       "fire damage",
@@ -1187,32 +1091,28 @@
       "flammable"
     ],
     "category":"Fire Service",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fire-extinguisher":{
     "alias":[
-      "fire service",
       "fire safety",
       "fire extinguisher"
     ],
     "category":"Fire Service",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "firefighter":{
     "alias":[
-      "fire service",
-      "fireman",
       "fire fighter",
       "firefighter",
       "fire department",
       "fire rescue"
     ],
     "category":"Fire Service",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fire-alarm":{
     "alias":[
-      "fire service",
       "fire alarm",
       "fire safety survey",
       "fire prevention",
@@ -1222,22 +1122,20 @@
       "emergency"
     ],
     "category":"Fire Service",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fire-station":{
     "alias":[
-      "fire service",
       "fire department",
       "fire station",
       "fire shield",
       "fire protection"
     ],
     "category":"Fire Service",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fire-truck":{
     "alias":[
-      "fire service",
       "fire truck",
       "fire siren",
       "emergency",
@@ -1247,42 +1145,38 @@
       "first responder"
     ],
     "category":"Fire Service",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "hydrant":{
     "alias":[
-      "public works",
       "water and sewer",
       "fire hydrant"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pin-box":{
     "alias":[
-      "generic",
       "pin box",
       "box pin",
       "comment",
       "marker"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "person":{
     "alias":[
-      "generic",
       "person",
       "customer",
       "user",
       "individual"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "conversation":{
     "alias":[
-      "generic",
       "talking",
       "communication",
       "socializing",
@@ -1294,11 +1188,10 @@
       "meeting"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "thumb-down":{
     "alias":[
-      "generic",
       "dissatisfied customer",
       "thumb down",
       "thumbs down",
@@ -1312,17 +1205,16 @@
       "rating"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "file-text":{
     "alias":[
-      "generic",
       "text",
       "file text",
       "paper",
       "records",
       "document",
-      "pdf",
+      "PDF",
       "attachment",
       "form",
       "report",
@@ -1333,16 +1225,15 @@
       "crime report"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "file":{
     "alias":[
-      "generic",
       "file",
       "paper",
       "records",
       "document",
-      "pdf",
+      "PDF",
       "attachment",
       "form",
       "report",
@@ -1350,11 +1241,10 @@
       "note"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "envelope":{
     "alias":[
-      "generic",
       "email address",
       "envelope",
       "mail",
@@ -1367,29 +1257,26 @@
       "message"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pin-esri-two":{
     "alias":[
-      "generic",
       "marker",
       "location"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pin-esri":{
     "alias":[
-      "generic",
       "marker",
       "location"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "flag":{
     "alias":[
-      "generic",
       "marker",
       "high priority",
       "warning",
@@ -1397,11 +1284,10 @@
       "country"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "official-document":{
     "alias":[
-      "generic",
       "foreclosure",
       "lease",
       "official document",
@@ -1415,11 +1301,10 @@
       "legal"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "people":{
     "alias":[
-      "generic",
       "people",
       "members",
       "users",
@@ -1432,11 +1317,10 @@
       "group"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "lock":{
     "alias":[
-      "generic",
       "no access",
       "permissions",
       "private",
@@ -1447,11 +1331,10 @@
       "restricted"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "warning":{
     "alias":[
-      "generic",
       "incident",
       "warning",
       "error",
@@ -1463,11 +1346,10 @@
       "exclamation point"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "information":{
     "alias":[
-      "generic",
       "details",
       "about",
       "read more",
@@ -1475,11 +1357,10 @@
       "circle"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "information-two":{
     "alias":[
-      "generic",
       "details",
       "about",
       "read more",
@@ -1488,14 +1369,13 @@
       "character"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "id":{
     "alias":[
-      "generic",
       "driver license",
       "identification",
-      "drivers license",
+      "driver's license",
       "passport",
       "permit",
       "badge",
@@ -1504,11 +1384,10 @@
       "library card"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "megaphone":{
     "alias":[
-      "generic",
       "megaphone",
       "propaganda",
       "activism",
@@ -1528,11 +1407,10 @@
       "action"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "lightbulb":{
     "alias":[
-      "generic",
       "participatory budgeting",
       "lighting",
       "energy",
@@ -1542,11 +1420,10 @@
       "lights"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "phone":{
     "alias":[
-      "generic",
       "cell service",
       "phone call",
       "text message",
@@ -1556,11 +1433,10 @@
       "communication"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "phone-number":{
     "alias":[
-      "generic",
       "phone call",
       "contact information",
       "dial",
@@ -1568,11 +1444,10 @@
       "phone number"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "box":{
     "alias":[
-      "generic",
       "package",
       "product",
       "delivery",
@@ -1587,29 +1462,26 @@
       "warehouse"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pushpin":{
     "alias":[
-      "generic",
       "marker",
       "location"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pushpin-two":{
     "alias":[
-      "generic",
       "marker",
       "location"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "question":{
     "alias":[
-      "generic",
       "character",
       "inquiry",
       "answers",
@@ -1622,11 +1494,10 @@
       "unnamed"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "question-two":{
     "alias":[
-      "generic",
       "character",
       "inquiry",
       "answers",
@@ -1639,11 +1510,10 @@
       "unnamed"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "point-end":{
     "alias":[
-      "generic",
       "point end",
       "route end",
       "finish",
@@ -1654,11 +1524,10 @@
       "landing"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "point-start":{
     "alias":[
-      "generic",
       "point start",
       "route start",
       "beginning",
@@ -1667,11 +1536,10 @@
       "origin"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "exclamation-point":{
     "alias":[
-      "generic",
       "incident",
       "warning",
       "error",
@@ -1688,16 +1556,15 @@
       "situation"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "social-media":{
     "alias":[
-      "generic",
       "hashtag",
       "social media",
       "chat",
       "direct message",
-      "tweet",
+      "Tweet",
       "message",
       "communication",
       "announcement",
@@ -1712,11 +1579,10 @@
       "trending"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "exclamation-point-two":{
     "alias":[
-      "generic",
       "special incident",
       "warning",
       "error",
@@ -1733,11 +1599,10 @@
       "situation"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "bell":{
     "alias":[
-      "generic",
       "notification",
       "alert",
       "warning",
@@ -1746,27 +1611,24 @@
       "announcement"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pin-tear-two":{
     "alias":[
-      "generic",
       ""
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pin-tear":{
     "alias":[
-      "generic",
       ""
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "magnifying-glass":{
     "alias":[
-      "generic",
       "magnifying glass",
       "investigate",
       "search",
@@ -1779,11 +1641,10 @@
       "examined"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "video-camera":{
     "alias":[
-      "generic",
       "video camera",
       "video store",
       "media",
@@ -1797,11 +1658,10 @@
       "recording site"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "person-walking":{
     "alias":[
-      "generic",
       "suspicious activity",
       "pedestrian",
       "walking",
@@ -1812,20 +1672,18 @@
       "hiking trail"
     ],
     "category":"Generic",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "work-order":{
     "alias":[
-      "public works",
       "work order",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "wheelchair-assistance":{
     "alias":[
-      "health and human services",
       "adult care",
       "nursing home",
       "physical therapy",
@@ -1835,24 +1693,22 @@
       "senior living",
       "hospice"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "aed":{
     "alias":[
-      "health and human services",
       "automated external defibrillator",
       "first aid",
       "emergency aid",
-      "emt",
+      "EMT",
       "medical"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "alternative-medicine":{
     "alias":[
-      "health and human services",
       "herbalism",
       "herbal medicine",
       "essential oils",
@@ -1866,12 +1722,11 @@
       "natural remedies",
       "folk medicine"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "animal-treatment":{
     "alias":[
-      "health and human services",
       "animal disease outbreak",
       "veterinarian",
       "veterinary office",
@@ -1884,21 +1739,20 @@
       "animal treatment",
       "vaccine"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "baby":{
     "alias":[
-      "health and human services",
       "birth services",
       "nursery",
       "newborns",
       "child care",
-      "nicu",
+      "NICU",
       "neonatal intensive care unit",
       "delivery room",
       "day care",
-      "childrens hospital",
+      "children's hospital",
       "changing room",
       "baby diaper station",
       "mothers room",
@@ -1906,24 +1760,22 @@
       "children",
       "child"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "cocaine":{
     "alias":[
-      "health and human services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
       "dangerous substances",
       "overdose"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "dangerous-substance":{
     "alias":[
-      "health and human services",
       "lethal drugs",
       "skull",
       "syringe",
@@ -1937,12 +1789,11 @@
       "drug addiction",
       "lethal injection"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "overdose-death":{
     "alias":[
-      "health and human services",
       "overdose death",
       "drug related death",
       "poisoned",
@@ -1950,12 +1801,11 @@
       "tombstone",
       "syringe"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "death":{
     "alias":[
-      "health and human services",
       "skull and crossbones",
       "die",
       "dead",
@@ -1974,24 +1824,21 @@
       "jolly roger",
       "pirate"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "designer-drug":{
     "alias":[
-      "health and human services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
-      "dangerous substances",
-      "designer drug"
+      "dangerous substances"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "kidneys":{
     "alias":[
-      "health and human services",
       "dialysis treatment",
       "medical treatment",
       "kidney replacement",
@@ -1999,12 +1846,11 @@
       "organs",
       "organ failure"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "drug":{
     "alias":[
-      "health and human services",
       "pharmaceutical",
       "pharmacy",
       "pharmacist",
@@ -2013,7 +1859,7 @@
       "treatment",
       "prescription",
       "medical",
-      "rx drug",
+      "Rx drug",
       "medication",
       "cure",
       "healthcare",
@@ -2021,13 +1867,11 @@
       "dosage",
       "medicine"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "drug-seizure":{
     "alias":[
-      "health and human services",
-      "drug seizure",
       "law enforcement",
       "narcotics officers",
       "drug bust",
@@ -2037,19 +1881,18 @@
       "dangerous substances",
       "smuggling"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "pill":{
     "alias":[
-      "health and human services",
       "pharmaceutical",
       "pharmacy",
       "pills",
       "treatment",
       "prescription",
       "medical",
-      "rx drug",
+      "Rx drug",
       "medication",
       "cure",
       "healthcare",
@@ -2058,36 +1901,33 @@
       "drug",
       "medicine"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "drug-waste":{
     "alias":[
-      "health and human services",
       "pharmaceutical drug waste",
       "drug wastage",
       "dosage limit",
       "drug disposal",
       "medicine disposal"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "mushroom":{
     "alias":[
-      "health and human services",
       "hallucinogens",
       "mushrooms",
       "hallucinogenic",
-      "psychadelic",
-      "disassociative drugs"
+      "psychedelic",
+      "dissociative drugs"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "health-and-human-services":{
     "alias":[
-      "health and human services",
       "healthcare",
       "hospital",
       "physical therapy",
@@ -2103,15 +1943,14 @@
       "mutual aid",
       "non-profit organization",
       "nonprofit organization",
-      "ngo",
+      "NGO",
       "non-governmental organization"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "health-alert":{
     "alias":[
-      "health and human services",
       "health problems",
       "health alert",
       "heart attack",
@@ -2124,14 +1963,14 @@
       "health condition",
       "heart condition",
       "health emergency",
+      "9-1-1",
       "911"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "ear":{
     "alias":[
-      "health and human services",
       "hearing",
       "deaf assistance",
       "hearing aid",
@@ -2147,12 +1986,11 @@
       "eavesdrop",
       "listening"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "syringe":{
     "alias":[
-      "health and human services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2170,12 +2008,11 @@
       "testing site",
       "medicine"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "home-with-heart":{
     "alias":[
-      "health and human services",
       "in home care",
       "health care",
       "residential care",
@@ -2194,12 +2031,11 @@
       "house insurance",
       "house"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "home-support":{
     "alias":[
-      "health and human services",
       "housing assistance",
       "residential care",
       "community center",
@@ -2210,12 +2046,11 @@
       "affordable housing",
       "house insurance"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "medical-bed":{
     "alias":[
-      "health and human services",
       "medical bed",
       "hospice",
       "treatment",
@@ -2228,18 +2063,17 @@
       "emergency",
       "surgery",
       "operation",
-      "icu",
+      "ICU",
       "health service",
       "patient"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "hospital":{
     "alias":[
-      "health and human services",
       "clinic",
-      "icu",
+      "ICU",
       "emergency",
       "heartbeat",
       "medical center",
@@ -2250,20 +2084,19 @@
       "healthcare",
       "doctor",
       "medical professional",
-      "emt",
+      "EMT",
       "nurse"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "cannabis":{
     "alias":[
-      "health and human services",
       "cannabis",
       "marijuana",
       "weed",
       "hemp",
-      "cbd",
+      "CBD",
       "herbalism",
       "alternative medicine",
       "herb",
@@ -2272,12 +2105,11 @@
       "plant",
       "leaf"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "plant-concentrates":{
     "alias":[
-      "health and human services",
       "cannabis concentrates",
       "tinctures",
       "marijuana concentrates",
@@ -2286,14 +2118,13 @@
       "alternative medicine",
       "plant extract",
       "plant concentrates",
-      "thc oil"
+      "THC oil"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "medical-professional":{
     "alias":[
-      "health and human services",
       "medical professional",
       "nurse",
       "surgeon",
@@ -2311,12 +2142,11 @@
       "pharmacist",
       "veterinarian"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "medical-helicopter":{
     "alias":[
-      "health and human services",
       "medivac site",
       "medevac site",
       "emergency rescue",
@@ -2325,12 +2155,11 @@
       "search and rescue",
       "medical helicopter"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "mental-health":{
     "alias":[
-      "health and human services",
       "psychologist",
       "psychiatrist",
       "mental health professional",
@@ -2345,12 +2174,11 @@
       "mental illness",
       "suicide prevention"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "methamphetamine":{
     "alias":[
-      "health and human services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2358,12 +2186,11 @@
       "overdose",
       "crystal meth"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "overdose-treatment":{
     "alias":[
-      "health and human services",
       "naloxone distribution",
       "naloxone treatment",
       "overdose treatment",
@@ -2372,12 +2199,11 @@
       "rehabilitation",
       "narcotic overdose treatment"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "opiates":{
     "alias":[
-      "health and human services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2386,12 +2212,11 @@
       "plant",
       "poppy plant"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "patient":{
     "alias":[
-      "health and human services",
       "outpatient",
       "injury",
       "injured",
@@ -2401,12 +2226,11 @@
       "treated",
       "medicated"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "medicine":{
     "alias":[
-      "health and human services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2426,15 +2250,14 @@
       "narcotics",
       "dosage",
       "dose",
-      "synthetic opiode",
+      "synthetic opioid",
       "synthetic drugs"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "overdose":{
     "alias":[
-      "health and human services",
       "overdose drug",
       "narcotics",
       "dangerous substances",
@@ -2444,12 +2267,11 @@
       "opiates",
       "medical emergency"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "skull":{
     "alias":[
-      "health and human services",
       "death",
       "disease",
       "pandemic",
@@ -2458,7 +2280,7 @@
       "infectious",
       "infection",
       "virus",
-      "covid",
+      "COVID-19",
       "dangerous",
       "exposure",
       "warning",
@@ -2477,22 +2299,21 @@
       "mass grave",
       "lethal"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "emergency-medical-professional":{
     "alias":[
-      "health and human services",
       "paramedic",
       "emergency medical professional",
-      "emt",
+      "EMT",
       "emergency medical technician",
       "medic",
       "search and rescue",
       "doctor",
       "veterinarian",
       "emergency medical services",
-      "ems",
+      "EMS",
       "visiting physician",
       "emergency medical responder",
       "first responder",
@@ -2500,12 +2321,11 @@
       "first aid",
       "humanitarian aid"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "pharmaceuticals":{
     "alias":[
-      "health and human services",
       "medical research",
       "pharmaceutical research",
       "medicine development",
@@ -2519,23 +2339,21 @@
       "chemist",
       "medical researcher"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "prescription-drug-drop-off":{
     "alias":[
-      "health and human services",
       "prescription drug drop off",
       "drug delivery",
       "drug mail",
       "medicine"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "prescription":{
     "alias":[
-      "health and human services",
       "pharmaceutical",
       "pharmacy",
       "pharmacist",
@@ -2544,7 +2362,7 @@
       "treatment",
       "prescription",
       "medical",
-      "rx drug",
+      "Rx drug",
       "medication",
       "cure",
       "healthcare",
@@ -2553,12 +2371,11 @@
       "medicine",
       "drug"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "steroids":{
     "alias":[
-      "health and human services",
       "pharmaceutical",
       "pharmacy",
       "prescription",
@@ -2569,43 +2386,40 @@
       "cortisone steroid",
       "hormones",
       "synthetic drug",
-      "anibolic steroid"
+      "anabolic steroid"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "substance-abuse":{
     "alias":[
-      "health and human services",
       "substance abuse",
       "alcohol abuse",
       "alcohol addiction",
       "drug abuse",
       "drug addiction"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "unknown-drug":{
     "alias":[
-      "health and human services",
       "unknown drug",
       "mystery drug",
       "missing drug"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "mosquito":{
     "alias":[
-      "health and human services",
       "vector control problems",
       "malaria",
       "dengue fever",
       "infection",
       "disease",
       "pests",
-      "west nile virus",
+      "West Nile virus",
       "bug",
       "insect",
       "insecticide",
@@ -2614,12 +2428,11 @@
       "mosquito larvicide sites",
       "infestation "
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "care":{
     "alias":[
-      "health and human services",
       "emergency assistance",
       "disaster relief",
       "helping hand",
@@ -2627,7 +2440,7 @@
       "humanitarian aid",
       "nonprofit",
       "non-profit",
-      "ngo",
+      "NGO",
       "gifts",
       "provider",
       "volunteer service",
@@ -2635,36 +2448,26 @@
       "love",
       "service"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "volunteer-service":{
     "alias":[
-      "health and human services",
       "volunteer service",
       "volunteers",
       "aid",
       "disaster relief",
       "nonprofit",
       "non-profit",
-      "ngo",
+      "NGO",
       "first responder",
       "community service"
     ],
-    "category":"Health and Human Services",
-    "release":"2.0.0"
-  },
-  "generic":{
-    "alias":[
-      " dumpster",
-      ""
-    ],
-    "category":" dumpster",
-    "release":"2.0.0"
+    "category":"Health And Human Services",
+    "release":"2.1.0"
   },
   "assault":{
     "alias":[
-      "law enforcement",
       "aggravated assault",
       "attack",
       "punch",
@@ -2683,11 +2486,10 @@
       "school and workplace violence"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "handcuffs":{
     "alias":[
-      "law enforcement",
       "crime",
       "arrest",
       "captured",
@@ -2698,11 +2500,10 @@
       "criminal activity incident"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "attack":{
     "alias":[
-      "law enforcement",
       "battle map",
       "blast",
       "explosion",
@@ -2716,11 +2517,10 @@
       "warfare"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "burglary":{
     "alias":[
-      "law enforcement",
       "broken window",
       "theft",
       "raid",
@@ -2732,11 +2532,10 @@
       "breaking and entering"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "violence":{
     "alias":[
-      "law enforcement",
       "civil disturbance",
       "civil disorder",
       "threat",
@@ -2744,11 +2543,10 @@
       "hostile person"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "assault-with-firearm":{
     "alias":[
-      "law enforcement",
       "aggravated assault",
       "attack",
       "punch",
@@ -2766,11 +2564,10 @@
       "gun"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "homicide-with-firearm":{
     "alias":[
-      "law enforcement",
       "murdered",
       "dead body",
       "criminal homicide",
@@ -2787,11 +2584,10 @@
       "wounded"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "rape-with-firearm":{
     "alias":[
-      "law enforcement",
       "rape whistle",
       "protection",
       "sexual assault",
@@ -2813,11 +2609,10 @@
       "gun"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "robbery-with-firearm":{
     "alias":[
-      "law enforcement",
       "theft",
       "mask",
       "burglar",
@@ -2835,22 +2630,20 @@
       "gun"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "offender":{
     "alias":[
-      "law enforcement",
       "criminal",
       "thief",
       "robber",
       "convict"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "homicide":{
     "alias":[
-      "law enforcement",
       "murdered",
       "dead body",
       "criminal homicide",
@@ -2860,13 +2653,12 @@
       "violence"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "technical-issue":{
     "alias":[
-      "law enforcement",
       "cyber incident",
-      "cyber attack",
+      "cyber-attack",
       "hacked device",
       "technical issue",
       "troubleshooting",
@@ -2885,11 +2677,10 @@
       "insider threat"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "detained":{
     "alias":[
-      "law enforcement",
       "convict",
       "prisoner",
       "suspect",
@@ -2899,12 +2690,11 @@
       "custody"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "swerve":{
     "alias":[
-      "law enforcement",
-      "dui",
+      "DUI",
       "driving under influence",
       "car",
       "slippery",
@@ -2914,11 +2704,10 @@
       "drunk driving"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "arson":{
     "alias":[
-      "law enforcement",
       "intentional",
       "wildfire origin",
       "matchstick",
@@ -2933,11 +2722,10 @@
       "flammable"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "knife":{
     "alias":[
-      "law enforcement",
       "violence",
       "kitchen knife",
       "weapon",
@@ -2948,11 +2736,10 @@
       "fight"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "larceny":{
     "alias":[
-      "law enforcement",
       "pickpocket",
       "stealing",
       "theft",
@@ -2961,11 +2748,10 @@
       "crime"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "police-badge":{
     "alias":[
-      "law enforcement",
       "officer post",
       "police badge",
       "police precinct",
@@ -2976,11 +2762,10 @@
       "state trooper"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "police-car":{
     "alias":[
-      "law enforcement",
       "patrol car",
       "security car",
       "highway patrol",
@@ -2991,11 +2776,10 @@
       "state trooper"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "police-officer":{
     "alias":[
-      "law enforcement",
       "police officer",
       "sheriff",
       "deputy",
@@ -3004,11 +2788,10 @@
       "security guard"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "police-officer-two":{
     "alias":[
-      "law enforcement",
       "police officer two",
       "sheriff",
       "deputy",
@@ -3017,11 +2800,10 @@
       "security guard"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "police-officer-three":{
     "alias":[
-      "law enforcement",
       "traffic check point",
       "traffic checkpoint",
       "security checkpoint",
@@ -3034,11 +2816,10 @@
       "state trooper"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "shield":{
     "alias":[
-      "law enforcement",
       "protection",
       "security",
       "firewall",
@@ -3047,11 +2828,10 @@
       "private security"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "rape-whistle":{
     "alias":[
-      "law enforcement",
       "rape whistle",
       "protection",
       "sexual assault",
@@ -3069,21 +2849,19 @@
       "force"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "recovered-vehicle":{
     "alias":[
-      "law enforcement",
       "recovered vehicle",
       "recovered car",
       "stolen vehicle"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "robbery":{
     "alias":[
-      "law enforcement",
       "theft",
       "mask",
       "burglar",
@@ -3098,11 +2876,10 @@
       "force"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
-  "sabatoge":{
+  "sabotage":{
     "alias":[
-      "law enforcement",
       "explosion",
       "explosive",
       "attack",
@@ -3113,11 +2890,10 @@
       "arson"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "security-check":{
     "alias":[
-      "law enforcement",
       "security checkpoint",
       "entrance control",
       "airport security",
@@ -3125,11 +2901,10 @@
       "security gate"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "shoplifting":{
     "alias":[
-      "law enforcement",
       "pickpocket",
       "stealing",
       "theft",
@@ -3137,11 +2912,10 @@
       "crime"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "gun":{
     "alias":[
-      "law enforcement",
       "small arms fire",
       "pistol",
       "handgun",
@@ -3152,11 +2926,10 @@
       "crime"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "smuggling":{
     "alias":[
-      "law enforcement",
       "drugs",
       "drug trafficking",
       "suitcase",
@@ -3167,11 +2940,10 @@
       "black market"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "crosshair":{
     "alias":[
-      "law enforcement",
       "sniper",
       "assassination",
       "scope",
@@ -3189,36 +2961,33 @@
       "firing range"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "swat-team":{
     "alias":[
-      "law enforcement",
       "police",
       "special task force",
       "special forces",
       "special weapons and tactics",
-      "swat team",
+      "SWAT team",
       "militarized",
       "military police"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "vehicle-theft":{
     "alias":[
-      "law enforcement",
       "vehicle theft",
       "stolen vehicle",
       "grand theft auto",
       "carjacking"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "spray-paint":{
     "alias":[
-      "law enforcement",
       "tagging",
       "spray paint",
       "graffiti",
@@ -3226,239 +2995,213 @@
       "mural"
     ],
     "category":"Law Enforcement",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "a":{
     "alias":[
-      "letters and numbers",
       "characters",
       "alphabet"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Letters",
+    "release":"2.1.0"
   },
   "b":{
     "alias":[
-      "letters and numbers",
       "characters",
       "alphabet"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Letters",
+    "release":"2.1.0"
   },
   "c":{
     "alias":[
-      "letters and numbers",
       "characters",
       "alphabet"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Letters",
+    "release":"2.1.0"
   },
   "d":{
     "alias":[
-      "letters and numbers",
       "characters",
       "alphabet"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Letters",
+    "release":"2.1.0"
   },
   "e":{
     "alias":[
-      "letters and numbers",
       "characters",
       "alphabet"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Letters",
+    "release":"2.1.0"
   },
   "f":{
     "alias":[
-      "letters and numbers",
       "characters",
       "alphabet"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Letters",
+    "release":"2.1.0"
   },
   "g":{
     "alias":[
-      "letters and numbers",
       "characters",
       "alphabet"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Letters",
+    "release":"2.1.0"
   },
   "k":{
     "alias":[
-      "letters and numbers",
       "characters",
       "alphabet",
       "key terrain"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Letters",
+    "release":"2.1.0"
   },
   "1":{
     "alias":[
-      "numbers",
       "team 1"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Numbers",
+    "release":"2.1.0"
   },
   "2":{
     "alias":[
-      "numbers",
       "team 2"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Numbers",
+    "release":"2.1.0"
   },
   "3":{
     "alias":[
-      "numbers",
       "team 3"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Numbers",
+    "release":"2.1.0"
   },
   "4":{
     "alias":[
-      "numbers",
       "team 4"
     ],
-    "category":"Letters and Numbers",
-    "release":"2.0.0"
+    "category":"Numbers",
+    "release":"2.1.0"
   },
   "circle":{
     "alias":[
-      "shapes",
       "point",
       "dot",
       "container"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "diamond":{
     "alias":[
-      "shapes",
       "point",
       "square diamond"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "diamond-two":{
     "alias":[
-      "shapes",
       "point",
       "oblong diamond"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "hexagon":{
     "alias":[
-      "shapes"
+      ""
     ],
-    "category":"shape",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "circle-ring-sections":{
     "alias":[
-      "shapes",
       "near repeat incident",
       "crime analyst"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "octagon":{
     "alias":[
-      "shapes",
       "stop"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "circle-ring-hollow":{
     "alias":[
-      "shapes",
       "originator incident",
       "crime analyst"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "circle-ellipse":{
     "alias":[
-      "shapes",
       "other incident",
       "crime analyst"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "circle-ring":{
     "alias":[
-      "shapes",
       "repeat incident",
       "crime analyst"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "rounded-square":{
     "alias":[
-      "shapes",
       "rounded square"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "square-small":{
     "alias":[
-      "shapes",
       "square small"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "square":{
     "alias":[
-      "shapes",
       ""
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "star":{
     "alias":[
-      "shapes",
       "favorite",
       "rating",
       "rated",
       "starred"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "triangle":{
     "alias":[
-      "shapes",
       "warning",
       "alert"
     ],
-    "category":"shapes",
-    "release":"2.0.0"
+    "category":"Shapes",
+    "release":"2.1.0"
   },
   "assassination":{
     "alias":[
-      "national security",
       "target",
       "crosshair",
       "person",
@@ -3475,11 +3218,10 @@
       "lethal"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "biohazard":{
     "alias":[
-      "national security",
       "biological attack",
       "virus",
       "pandemic",
@@ -3501,11 +3243,10 @@
       "danger"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "bomb":{
     "alias":[
-      "national security",
       "bombing",
       "explosives",
       "attack",
@@ -3518,11 +3259,10 @@
       "lethal"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "chemical-weapons":{
     "alias":[
-      "national security",
       "chemical attack",
       "chemical weapons sign",
       "terrorism",
@@ -3533,11 +3273,10 @@
       "danger"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "direct-fire":{
     "alias":[
-      "national security",
       "bullet",
       "direct fire",
       "missile",
@@ -3546,7 +3285,7 @@
       "attack",
       "incoming fire",
       "rockets",
-      "rpg",
+      "RPG",
       "anti-air fire",
       "tank shell",
       "firearms",
@@ -3556,11 +3295,10 @@
       "guns"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "explosive":{
     "alias":[
-      "national security",
       "bombing",
       "attack",
       "terrorism",
@@ -3575,46 +3313,43 @@
       "lethal"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "indirect-fire":{
     "alias":[
-      "national security",
       "bombing",
       "torpedo",
       "nuclear",
       "guided missile",
-      "icbm",
+      "ICBM",
       "warhead",
       "mortar",
       "grenade",
-      "molotov cocktail",
+      "Molotov cocktail",
       "weapons",
       "attack",
       "incoming fire"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "ip-address":{
     "alias":[
-      "national security",
       "device location",
       "internet access location",
-      "vpn",
-      "ip address",
-      "mac address",
+      "VPN",
+      "IP address",
+      "MAC address",
       "login location",
       "internet activity location",
-      "url"
+      "URL"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "tech-support":{
     "alias":[
-      "national security",
-      "it facility",
+      "IT facility",
       "tech support",
       "internet support",
       "computer repair",
@@ -3626,11 +3361,10 @@
       "hardware issue"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "person-waving":{
     "alias":[
-      "national security",
       "last known location",
       "person waving",
       "person gesturing",
@@ -3640,11 +3374,10 @@
       "hello"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "nuclear":{
     "alias":[
-      "national security",
       "radiological",
       "radiology lab",
       "radioactive",
@@ -3666,17 +3399,16 @@
       "radiological attack"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "bomb-technician":{
     "alias":[
-      "national security",
       "explosive specialist",
       "suicide bomber",
       "bomb specialist",
       "bomb defuser",
       "bomb disposal",
-      "eod",
+      "EOD",
       "explosive ordinance disposal",
       "bomb technician",
       "terrorist attack",
@@ -3684,11 +3416,10 @@
       "terrorist threat"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "explosion":{
     "alias":[
-      "national security",
       "unknown explosion",
       "blast",
       "attack",
@@ -3696,11 +3427,10 @@
       "explosive"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "suspect":{
     "alias":[
-      "national security",
       "watch list",
       "wanted poster",
       "wanted criminals",
@@ -3709,20 +3439,18 @@
       "person of interest"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "battle-damage-assessment-point":{
     "alias":[
-      "national security",
       "battle damage assessment point",
-      "icap"
+      "ICAP"
     ],
     "category":"National Security",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "blight":{
     "alias":[
-      "planning and development",
       "blight problems",
       "building",
       "damaged building",
@@ -3735,31 +3463,28 @@
       "run down",
       "abandoned property"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "boat-ramp":{
     "alias":[
-      "planning and development",
       "boat launch",
       "boat dock",
       "boat ramp"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "bridge":{
     "alias":[
-      "planning and development",
       "infrastructure",
       "overpass"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "chemicals":{
     "alias":[
-      "planning and development",
       "chemical plant",
       "pharmaceuticals",
       "research facility",
@@ -3771,12 +3496,11 @@
       "vial",
       "test tubes"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "community-center":{
     "alias":[
-      "planning and development",
       "community center",
       "disaster recovery center",
       "homeless shelter",
@@ -3789,12 +3513,11 @@
       "gathering",
       "camp"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "detour":{
     "alias":[
-      "planning and development",
       "road closed",
       "road repair",
       "construction site",
@@ -3807,12 +3530,11 @@
       "road detour",
       "reroute"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "hammer":{
     "alias":[
-      "planning and development",
       "tools",
       "construction",
       "repair",
@@ -3820,12 +3542,11 @@
       "construction and demolition materials",
       "hardware shop"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "buildings":{
     "alias":[
-      "planning and development",
       "corporate headquarters",
       "corporate complex",
       "workplace",
@@ -3847,12 +3568,11 @@
       "town",
       "village"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "wheelchair-ramp":{
     "alias":[
-      "planning and development",
       "handicap ramps",
       "curb ramps",
       "wheelchair ramp",
@@ -3864,23 +3584,21 @@
       "handicap incline",
       "amenities"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "dam":{
     "alias":[
-      "planning and development",
       "infrastructure",
       "water bank",
       "water reservoir",
       "levy"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "event":{
     "alias":[
-      "planning and development",
       "calendar",
       "holiday events",
       "occasion",
@@ -3890,27 +3608,24 @@
       "program",
       "schedule"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "street-lamp":{
     "alias":[
-      "planning and development",
       "gas lamp",
       "lighting",
       "light post",
       "street light",
       "street lamp",
       "streetlight",
-      "electricity",
-      "lightpost"
+      "electricity"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "gas-station":{
     "alias":[
-      "planning and development",
       "petrol station",
       "gas station",
       "gasoline",
@@ -3923,12 +3638,11 @@
       "refueling station",
       "fuel depot"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "gateway":{
     "alias":[
-      "planning and development",
       "entry",
       "entrance",
       "exit",
@@ -3943,12 +3657,11 @@
       "closed",
       "open"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "key-access":{
     "alias":[
-      "planning and development",
       "key access",
       "entry",
       "entrance",
@@ -3962,12 +3675,11 @@
       "open",
       "restricted"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "key-no-access":{
     "alias":[
-      "planning and development",
       "key no access",
       "key access",
       "no entry",
@@ -3982,12 +3694,11 @@
       "open",
       "restricted"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "for-sale":{
     "alias":[
-      "planning and development",
       "real estate",
       "house for sale",
       "property for sale",
@@ -3999,12 +3710,11 @@
       "property listed",
       "property listing"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "permit":{
     "alias":[
-      "planning and development",
       "individual permit",
       "certificate",
       "contract",
@@ -4019,12 +3729,11 @@
       "eviction notice",
       "declaration"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "infestation":{
     "alias":[
-      "planning and development",
       "infestation incident",
       "bugs",
       "ants",
@@ -4035,15 +3744,14 @@
       "extermination",
       "insects",
       "fumigator",
-      "cockcroaches",
+      "cockroaches",
       "termites"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "neighborhood":{
     "alias":[
-      "planning and development",
       "land use problem",
       "land use violation",
       "property violation",
@@ -4054,12 +3762,11 @@
       "town",
       "neighborhood"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "dump-truck":{
     "alias":[
-      "planning and development",
       "garbage truck",
       "garbage dump",
       "dumping ground",
@@ -4071,12 +3778,11 @@
       "landfill",
       "construction truck"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "mortgage":{
     "alias":[
-      "planning and development",
       "property taxes",
       "mortgage check",
       "rent check",
@@ -4089,12 +3795,11 @@
       "home loan",
       "home equity"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "treatment-exemptions":{
     "alias":[
-      "planning and development",
       "mosquito treatment exemptions",
       "pesticide exemptions",
       "insecticide exemptions",
@@ -4102,12 +3807,11 @@
       "no pesticides",
       "pesticide free"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "building":{
     "alias":[
-      "planning and development",
       "workplace",
       "business",
       "office building",
@@ -4120,21 +3824,19 @@
       "commercial zoning",
       "urban development"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "park-tree-problem":{
     "alias":[
-      "planning and development",
       "park tree problem",
       "park foliage problem"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "city-planning":{
     "alias":[
-      "planning and development",
       "planning limits",
       "city planning",
       "city design",
@@ -4147,12 +3849,11 @@
       "landscape architecture",
       "landscaping"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "polling-place":{
     "alias":[
-      "planning and development",
       "polls",
       "voting place",
       "voting center",
@@ -4169,12 +3870,11 @@
       "voter access",
       "voter suppression"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "recycling":{
     "alias":[
-      "planning and development",
       "recycling facilities",
       "recycling center",
       "sustainability",
@@ -4187,12 +3887,11 @@
       "climate change",
       "reduce reuse recycle"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "road-problems":{
     "alias":[
-      "planning and development",
       "pothole",
       "road problems",
       "road erosion",
@@ -4204,12 +3903,11 @@
       "dangerous road",
       "road repair"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "service-request":{
     "alias":[
-      "planning and development",
       "service request",
       "repair",
       "service ticket",
@@ -4222,12 +3920,11 @@
       "restore",
       "fix"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "signpost":{
     "alias":[
-      "planning and development",
       "signs",
       "sign post",
       "street signs",
@@ -4237,12 +3934,11 @@
       "road intersection",
       "direction"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "plow":{
     "alias":[
-      "planning and development",
       "de-icing road",
       "salting road",
       "snowplow",
@@ -4256,12 +3952,11 @@
       "ice removal",
       "street cleaning"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "government-permit":{
     "alias":[
-      "planning and development",
       "state operating permit",
       "state authorization",
       "official documentation",
@@ -4275,29 +3970,28 @@
       "government regulation",
       "government owned"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "stormwater":{
     "alias":[
-      "planning and development",
       "stormwater multisector permit",
       "stormwater pipe",
       "drainage pipe",
       "disposal",
-      "greywater",
+      "graywater",
+      "gray water",
       "sewage",
       "sewer water",
       "rainwater",
       "water management",
       "overflow"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "bench":{
     "alias":[
-      "planning and development",
       "street bench",
       "park",
       "street furniture",
@@ -4307,12 +4001,11 @@
       "urban furniture",
       "bus stop"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "tree":{
     "alias":[
-      "planning and development",
       "street trees",
       "greenery",
       "foliage",
@@ -4324,24 +4017,22 @@
       "landscaping",
       "arborist"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "streetlight":{
     "alias":[
-      "planning and development",
       "electricity",
       "street lamp",
       "street lighting",
       "lamppost",
       "lamp post"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "property-value":{
     "alias":[
-      "planning and development",
       "tax parcel appeal",
       "property value",
       "house value",
@@ -4364,12 +4055,11 @@
       "house ownership",
       "homeowner"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "telecom":{
     "alias":[
-      "planning and development",
       "telecommunications tower",
       "cell tower",
       "telecom tower",
@@ -4387,12 +4077,11 @@
       "broadcast tower",
       "communication"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "dumpster":{
     "alias":[
-      "planning and development",
       "trash dumpster",
       "waste management",
       "garbage",
@@ -4401,12 +4090,11 @@
       "discard",
       "rubbish"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "litter":{
     "alias":[
-      "planning and development",
       "trash problem submitted",
       "garbage can",
       "trash can",
@@ -4418,12 +4106,11 @@
       "rubbish",
       "waste bin"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "trash":{
     "alias":[
-      "planning and development",
       "trash receptacle",
       "rubbish",
       "garbage",
@@ -4435,24 +4122,22 @@
       "trash can",
       "disposal"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "vacant-lot":{
     "alias":[
-      "planning and development",
       "vacant land site",
       "vacant lot",
       "undeveloped land",
       "vacant area",
       "vacant property"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "clipboard":{
     "alias":[
-      "planning and development",
       "parking ticket",
       "inspection note",
       "review",
@@ -4465,12 +4150,11 @@
       "violation",
       "audit"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "water-recycling":{
     "alias":[
-      "planning and development",
       "water recycling",
       "water reclamation",
       "water treatment plant",
@@ -4485,12 +4169,11 @@
       "water cycle",
       "liquid"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "water-source":{
     "alias":[
-      "planning and development",
       "water quality advisory",
       "water source",
       "reservoir",
@@ -4504,12 +4187,11 @@
       "rainwater",
       "irrigation"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "weeds":{
     "alias":[
-      "planning and development",
       "weed observations",
       "dandelion",
       "plant",
@@ -4522,12 +4204,11 @@
       "weed management",
       "landscaping"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "wire-down":{
     "alias":[
-      "planning and development",
       "wire down",
       "power line down",
       "electrical hazard",
@@ -4540,12 +4221,11 @@
       "exposed wire",
       "electrical safety"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "work-zone":{
     "alias":[
-      "planning and development",
       "road repair",
       "construction site",
       "roadworks",
@@ -4556,40 +4236,35 @@
       "construction zone",
       "road work ahead"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "house":{
     "alias":[
-      "planning and development",
       "home",
       "residential zoning",
       "address",
-      "suburbs",
-      ""
+      "suburbs"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "pesticide-discharge":{
     "alias":[
-      "planning and development",
       "pesticide discharge"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "ready-mix-concrete-facilities":{
     "alias":[
-      "planning and development",
       "ready mix concrete facilities"
     ],
-    "category":"Planning and Development",
-    "release":"2.0.0"
+    "category":"Planning And Development",
+    "release":"2.1.0"
   },
   "breakfast":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4607,11 +4282,10 @@
       "pancake house"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "chinese":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4622,15 +4296,14 @@
       "food court",
       "meal",
       "fast food",
-      "asian food",
-      "chinese food"
+      "Asian food",
+      "Chinese food"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cocktail":{
     "alias":[
-      "restaurant",
       "cocktail bar",
       "mixed drinks",
       "alcohol",
@@ -4649,11 +4322,10 @@
       "jazz bar"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "coffee":{
     "alias":[
-      "restaurant",
       "coffee shop",
       "coffeehouse",
       "coffee house",
@@ -4666,11 +4338,10 @@
       "drinkery"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "hamburger":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4683,17 +4354,16 @@
       "diner",
       "grill",
       "fast food",
-      "american",
+      "American",
       "sandwich",
       "sandwich shop",
       "deli"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "indian":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4704,14 +4374,13 @@
       "food court",
       "meal",
       "fast food",
-      "indian food"
+      "Indian food"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "italian":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4722,16 +4391,15 @@
       "food court",
       "meal",
       "fast food",
-      "italian food",
+      "Italian food",
       "pasta",
       "spaghetti"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "mediterranean":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4742,14 +4410,13 @@
       "food court",
       "meal",
       "fast food",
-      "mediterranean food"
+      "Mediterranean food"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "mexican":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4760,15 +4427,14 @@
       "food court",
       "meal",
       "fast food",
-      "mexican food",
+      "Mexican food",
       "tacos"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pizza":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4782,11 +4448,10 @@
       "pizzeria"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "beer":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4807,11 +4472,10 @@
       "fermentation"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "restaurant":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4825,11 +4489,10 @@
       "fast food"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "steak":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4851,11 +4514,10 @@
       "beef"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "sushi":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4866,15 +4528,14 @@
       "food court",
       "meal",
       "fast food",
-      "japanese food",
+      "Japanese food",
       "sushi restaurant"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "thai":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4884,15 +4545,14 @@
       "lunch",
       "food court",
       "meal",
-      "thai food",
+      "Thai food",
       "fast food"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "bottle":{
     "alias":[
-      "restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4927,11 +4587,10 @@
       "fermentation"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "grapes":{
     "alias":[
-      "restaurant",
       "drinkery",
       "cooking",
       "cuisine",
@@ -4942,7 +4601,6 @@
       "lunch",
       "food court",
       "meal",
-      "thai food",
       "vineyard",
       "orchard",
       "winery",
@@ -4955,24 +4613,21 @@
       "fermentation"
     ],
     "category":"Restaurant",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "accessibility":{
     "alias":[
-      "points of interest",
       "accessibility disability",
       "wheelchair",
-      "disabled",
-      "handicapped",
-      "handicap access",
-      "disabled person"
+      "person with disability",
+      "person who is handicapped",
+      "handicap access"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "aerial-tram":{
     "alias":[
-      "points of interest",
       "aerial tram",
       "cable car",
       "ski lift",
@@ -4981,14 +4636,13 @@
       "tramway",
       "transportation"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "ferris-wheel":{
     "alias":[
-      "points of interest",
       "amusement park",
-      "ferris wheel",
+      "Ferris wheel",
       "carnival",
       "county fair",
       "theme park",
@@ -4999,24 +4653,17 @@
       "state fair",
       "local fair"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "credit-card":{
     "alias":[
-      "points of interest",
-      "payment",
-      "money",
-      "withdraw",
-      "atm",
+      "ATM",
       "credit card",
-      "wallet",
-      "lost card",
       "purchase",
-      "fraud",
       "debit card",
       "cash machine",
-      "withdrawl",
+      "withdrawal",
       "deposit",
       "transaction",
       "finances",
@@ -5027,18 +4674,24 @@
       "buy",
       "sell",
       "cashier",
-      "commerce"
+      "money",
+      "commerce",
+      "law enforcement",
+      "fraud",
+      "payment",
+      "wallet",
+      "money",
+      "lost card"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "cash":{
     "alias":[
-      "points of interest",
-      "atm",
+      "ATM",
       "purchase",
       "cash machine",
-      "withdrawl",
+      "withdrawal",
       "deposit",
       "transaction",
       "finances",
@@ -5064,12 +4717,11 @@
       "value",
       "commerce"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "bank-account":{
     "alias":[
-      "points of interest",
       "bank account",
       "brick and mortar bank",
       "finances",
@@ -5088,12 +4740,11 @@
       "assets",
       "bank building"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "beach":{
     "alias":[
-      "points of interest",
       "ocean",
       "recreation",
       "water",
@@ -5106,12 +4757,11 @@
       "vacation",
       "relaxation"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "bike-parking":{
     "alias":[
-      "points of interest",
       "bicycle parking",
       "bike parking",
       "bike station",
@@ -5120,12 +4770,11 @@
       "bike locked",
       "transportation"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "bike-sharing":{
     "alias":[
-      "points of interest",
       "tourism",
       "transportation",
       "rent bike",
@@ -5133,12 +4782,11 @@
       "bicycle sharing",
       "bike rental"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "border-crossing":{
     "alias":[
-      "points of interest",
       "border crossing",
       "border checkpoint",
       "border security",
@@ -5147,12 +4795,11 @@
       "crossing point",
       "border control"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "campground":{
     "alias":[
-      "points of interest",
       "camping tent",
       "outdoor recreation",
       "backpacking campsite",
@@ -5161,12 +4808,11 @@
       "camping spot",
       "camping reservation"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "car-rental":{
     "alias":[
-      "points of interest",
       "car rental",
       "vehicle",
       "transportation",
@@ -5177,12 +4823,11 @@
       "car ownership",
       "car locked"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "dice":{
     "alias":[
-      "points of interest",
       "dice",
       "gambling",
       "board games",
@@ -5192,14 +4837,13 @@
       "hobby",
       "hobbies"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "tombstone":{
     "alias":[
-      "points of interest",
       "tombstone",
-      "cemetary",
+      "cemetery",
       "graveyard",
       "memorial",
       "burial ground",
@@ -5208,12 +4852,11 @@
       "death",
       "dead"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "government-building":{
     "alias":[
-      "points of interest",
       "city hall",
       "government building",
       "state government",
@@ -5226,12 +4869,11 @@
       "house of representatives",
       "assembly"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "courthouse":{
     "alias":[
-      "points of interest",
       "hearing",
       "judges",
       "courtroom",
@@ -5244,12 +4886,11 @@
       "court ruling",
       "jury duty"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "embassy":{
     "alias":[
-      "points of interest",
       "embassy building",
       "consular services",
       "diplomacy",
@@ -5258,12 +4899,11 @@
       "naturalization",
       "citizenship"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "golf-course":{
     "alias":[
-      "points of interest",
       "golf course",
       "golfing course",
       "golf club",
@@ -5275,12 +4915,11 @@
       "driving range",
       "putt putt golf"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "shopping-cart":{
     "alias":[
-      "points of interest",
       "shopping cart",
       "grocery store",
       "shop",
@@ -5289,12 +4928,11 @@
       "business retail",
       "online shopping"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "hotel":{
     "alias":[
-      "points of interest",
       "motel",
       "inn",
       "hostel",
@@ -5311,14 +4949,13 @@
       "lodging",
       "homestay",
       "vacation",
-      "travelling"
+      "traveling"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "factory":{
     "alias":[
-      "points of interest",
       "industrial complex",
       "industrial zoning",
       "industry",
@@ -5329,12 +4966,11 @@
       "polluters",
       "industrialization"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "camera":{
     "alias":[
-      "points of interest",
       "landmark",
       "photography",
       "photoshoot",
@@ -5350,14 +4986,13 @@
       "filming site",
       "lens",
       "slideshow",
-      "dslr"
+      "DSLR"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "book":{
     "alias":[
-      "points of interest",
       "library",
       "bookstore",
       "reading",
@@ -5373,12 +5008,11 @@
       "schooling",
       "training"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "microphone":{
     "alias":[
-      "points of interest",
       "music",
       "concert",
       "live music venue",
@@ -5398,12 +5032,11 @@
       "presenter",
       "public speaker"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "shopping":{
     "alias":[
-      "points of interest",
       "shopping mall",
       "retail",
       "commercial zoning",
@@ -5426,12 +5059,11 @@
       "budget",
       "shopping center"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "anchor":{
     "alias":[
-      "points of interest",
       "ship anchor",
       "port",
       "marina",
@@ -5440,7 +5072,7 @@
       "harbour",
       "coast",
       "bay",
-      "warf",
+      "wharf",
       "shipyard",
       "boatyard",
       "yacht club",
@@ -5457,12 +5089,11 @@
       "ocean",
       "sea"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "camp":{
     "alias":[
-      "points of interest",
       "military base",
       "military camp",
       "outpost",
@@ -5470,12 +5101,11 @@
       "summer camp",
       "compound"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "monument":{
     "alias":[
-      "points of interest",
       "archaeology",
       "ruins",
       "archives",
@@ -5488,21 +5118,20 @@
       "monument",
       "museum"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "indigenous":{
     "alias":[
-      "points of interest",
       "native reservation",
       "first people",
       "first nations",
       "aboriginal peoples",
       "native peoples",
       "indigenous peoples",
-      "native americans",
-      "indian americans",
-      "indegenous landmarks",
+      "Native Americans",
+      "Indian Americans",
+      "indigenous landmarks",
       "indigenous burial grounds",
       "indigenous reservation",
       "indigenous land",
@@ -5515,23 +5144,21 @@
       "cultural sites",
       "treaty"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "parking":{
     "alias":[
-      "points of interest",
       "parking garage",
       "parking lot",
       "car port",
       "valet services"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "pay-station":{
     "alias":[
-      "points of interest",
       "drive through",
       "drive thru",
       "drive-through",
@@ -5545,12 +5172,11 @@
       "valet services",
       "ticket station"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "place-of-worship":{
     "alias":[
-      "points of interest",
       "mosque",
       "cathedral",
       "church",
@@ -5575,85 +5201,79 @@
       "religious monuments",
       "historical landmark"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "playground":{
     "alias":[
-      "points of interest",
       "kids park",
       "seesaw",
       "play structure",
       "play area",
       "elementary school",
-      "childrens park",
+      "children's park",
       "daycare",
       "recess",
       "recreation"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "restroom":{
     "alias":[
-      "points of interest",
       "public restroom",
       "toilet",
       "washroom",
       "bathroom",
       "water closet",
-      "wc"
+      "WC"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "gender-neutral-restroom":{
     "alias":[
-      "points of interest",
       "public restroom",
       "toilet",
       "washroom",
       "bathroom",
       "water closet",
       "gender neutral restroom",
-      "wc"
+      "WC"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "washroom":{
     "alias":[
-      "points of interest",
       "public restroom",
       "toilet",
       "washroom",
       "bathroom",
       "water closet",
-      "wc"
+      "WC"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "toilet":{
     "alias":[
-      "points of interest",
       "public restroom",
       "toilet",
       "washroom",
       "bathroom",
       "water closet",
-      "wc"
+      "WC"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "school":{
     "alias":[
-      "points of interest",
       "elementary school",
       "high school",
       "middle school",
-      "k-12 school",
+      "K-12 school",
       "college",
       "education",
       "academy",
@@ -5663,14 +5283,13 @@
       "junior college",
       "primary school"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "arena":{
     "alias":[
-      "points of interest",
       "sports complex",
-      "colliseum",
+      "Colosseum",
       "stadium",
       "sports arena",
       "sporting event",
@@ -5680,8 +5299,8 @@
       "auditorium",
       "concert hall",
       "music event",
-      "ampitheater",
-      "ampitheatre",
+      "amphitheater",
+      "amphitheatre",
       "music festival",
       "live event",
       "live show",
@@ -5695,12 +5314,11 @@
       "hobby",
       "hobbies"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "theater":{
     "alias":[
-      "points of interest",
       "theater",
       "theatre",
       "drama",
@@ -5724,12 +5342,11 @@
       "hobby",
       "hobbies"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "trail":{
     "alias":[
-      "points of interest",
       "person walking",
       "trailhead",
       "hiking trail",
@@ -5751,19 +5368,18 @@
       "hobby",
       "hobbies"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "graduation-cap":{
     "alias":[
-      "points of interest",
       "university",
       "graduation cap",
       "education",
       "elementary school",
       "high school",
       "middle school",
-      "k-12 school",
+      "K-12 school",
       "college",
       "education",
       "academy",
@@ -5792,21 +5408,20 @@
       "student",
       "intellectual",
       "masters",
-      "phd",
+      "PhD",
       "graduated"
     ],
-    "category":"Points of Interest",
-    "release":"2.0.0"
+    "category":"Points Of Interest",
+    "release":"2.1.0"
   },
   "elephant":{
     "alias":[
-      "wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
       "zoo",
       "white elephant",
-      "indian elephant",
+      "Indian elephant",
       "endangered animals",
       "tusks",
       "ivory",
@@ -5821,11 +5436,10 @@
       "animals"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "rhino":{
     "alias":[
-      "wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5844,11 +5458,10 @@
       "animals"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "frog":{
     "alias":[
-      "wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5864,11 +5477,10 @@
       "conservation"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pawprint":{
     "alias":[
-      "wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5884,11 +5496,10 @@
       "conservation"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fish":{
     "alias":[
-      "wildlife",
       "habitat",
       "tropical fish",
       "angelfish",
@@ -5900,18 +5511,17 @@
       "ocean fish",
       "marine life",
       "aquatic center",
-      "fishtank",
+      "fish tank",
       "fish pet store",
-      "snorkelling site",
+      "snorkeling site",
       "animals",
       "conservation"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "bird":{
     "alias":[
-      "wildlife",
       "habitat",
       "animals",
       "bird observations",
@@ -5926,11 +5536,10 @@
       "nature reserve"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fishing":{
     "alias":[
-      "wildlife",
       "habitat",
       "fishery",
       "fishing site",
@@ -5957,11 +5566,10 @@
       "seafood"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "bear":{
     "alias":[
-      "wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5982,11 +5590,10 @@
       "bear crossing"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "turtle":{
     "alias":[
-      "wildlife",
       "habitat",
       "wildlife sanctuary",
       "nature reserve",
@@ -5995,11 +5602,10 @@
       "tortoise"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "deer":{
     "alias":[
-      "wildlife",
       "habitat",
       "wildlife sanctuary",
       "nature reserve",
@@ -6019,302 +5625,268 @@
       "venison"
     ],
     "category":"Wildlife",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "access-valve":{
     "alias":[
-      "public works",
       "water and sewer",
       "access valve"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
-  "anomally":{
+  "anomaly":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "arrester":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "arrester-bank":{
     "alias":[
-      "public works",
       "electrical",
       "arrester bank"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "backflow":{
     "alias":[
-      "public works",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "breaker":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "breaker-bank":{
     "alias":[
-      "public works",
       "electrical",
       "breaker bank"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cabinet":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "calibration-point":{
     "alias":[
-      "public works",
       "utility and pipeline",
       "calibration point"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "capacitor":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "capacitor-bank":{
     "alias":[
-      "public works",
       "electrical",
       "capacitor bank"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "catch-basins":{
     "alias":[
-      "public works",
       "water and sewer",
       "catch basins"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "circuit-breaker":{
     "alias":[
-      "public works",
       "electrical",
       "circuit breaker"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "circuit-breaker-bank":{
     "alias":[
-      "public works",
       "electrical",
       "circuit breaker bank"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "clean-out":{
     "alias":[
-      "public works",
       "water and sewer",
       "clean out"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "coating":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "compressor":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "compressor-station":{
     "alias":[
-      "public works",
       "utility and pipeline",
       "compressor station"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "connection-point":{
     "alias":[
-      "public works",
       "dot",
       "electrical",
       "connection point"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "connection-point-two":{
     "alias":[
-      "public works",
       "dot",
       "electrical",
       "connection point two"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "controllable-fitting-3-way-tee":{
     "alias":[
-      "public works",
       "controllable fitting 3 way tee",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "controllable-fitting-short-stop":{
     "alias":[
-      "public works",
       "utility and pipeline",
       "controllable fitting short stop"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cooling-system":{
     "alias":[
-      "public works",
       "cooling system",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cp-anode":{
     "alias":[
-      "public works",
       "utility and pipeline",
-      "cp anode"
+      "CP anode"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cp-bond-junction":{
     "alias":[
-      "public works",
       "utility and pipeline",
-      "cp bond junction"
+      "CP bond junction"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cp-rectifier":{
     "alias":[
-      "public works",
       "utility and pipeline",
-      "cp rectifier"
+      "CP rectifier"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cp-test-point":{
     "alias":[
-      "public works",
       "utility and pipeline",
-      "cp test point"
+      "CP test point"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "custody-transfer-to-distribution-meter":{
     "alias":[
-      "public works",
       "utility and pipeline",
       "custody transfer to distribution meter"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "custody-transfer-to-gathering-meter":{
     "alias":[
-      "public works",
       "utility and pipeline",
       "custody transfer to gathering meter"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "custody-transfer-to-transmission-meter":{
     "alias":[
-      "public works",
       "utility and pipeline",
       "custody transfer to transmission meter"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "customer-meter":{
     "alias":[
-      "public works",
       "utility and pipeline",
       "customer meter"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "da-survey-readings":{
     "alias":[
-      "public works",
       "utility and pipeline",
-      "da survey readings"
+      "DA survey readings"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "dehydration-equipment":{
     "alias":[
-      "public works",
       "utility and pipeline",
       "dehydration equipment"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "traffic-cone":{
     "alias":[
-      "public works",
       "department of public works",
       "traffic cone",
       "working area",
@@ -6322,190 +5894,168 @@
       "work zone"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "discharge-point":{
     "alias":[
-      "public works",
       "water and sewer",
       "discharge point",
       "municipal stormwater discharge"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "drip":{
     "alias":[
-      "public works",
       ""
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "droplet":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "elbow":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "electro-stop":{
     "alias":[
-      "public works",
       "electro stop",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "excess-flow-valve":{
     "alias":[
-      "public works",
       "excess flow valve",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "flow-device":{
     "alias":[
-      "public works",
       "flow device",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "flow-meter":{
     "alias":[
-      "public works",
       "flow meter",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "flow-valve":{
     "alias":[
-      "public works",
       "flow valve",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fuse":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "fuse-bank":{
     "alias":[
-      "public works",
       "fuse bank",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "gas-leak-inspection":{
     "alias":[
-      "public works",
       "gas leak inspection",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "gate-bank":{
     "alias":[
-      "public works",
       "gate bank",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "gate":{
     "alias":[
-      "public works",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "generation":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "generator":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "ground":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "guy":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "handhole":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "hazardous":{
     "alias":[
-      "public works",
       "hazard sign"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "hazardous-waste":{
     "alias":[
-      "public works",
       "hazardous waste",
       "hazard sign"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "transmission-power":{
     "alias":[
-      "public works",
       "high voltage transmission lines",
       "electrical",
       "power lines",
@@ -6516,769 +6066,683 @@
       "electricity"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "identified-issue-corrosion":{
     "alias":[
-      "public works",
       "identified issue corrosion",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "identified-issue-damaged-meter":{
     "alias":[
-      "public works",
       "identified issue damaged meter",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "identified-issue-odor":{
     "alias":[
-      "public works",
       "identified issue odor",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "ili-ground-ref-marker":{
     "alias":[
-      "public works",
-      "ili ground ref markers",
+      "ILI ground ref markers",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "ili-survey-reading":{
     "alias":[
-      "public works",
-      "ili survey readings",
+      "ILI survey readings",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "inter-basin-water-transfer":{
     "alias":[
-      "public works",
       "inter basin water transfer",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "inverter":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "joint":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "junction-box":{
     "alias":[
-      "public works",
       "junction box",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "leak-severity-critical":{
     "alias":[
-      "public works",
       "leak severity critical",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "levee-failure":{
     "alias":[
-      "public works",
       "levee failure",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "line-end":{
     "alias":[
-      "public works",
       "line end",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "line-heater":{
     "alias":[
-      "public works",
       "line heater",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "line-monitor":{
     "alias":[
-      "public works",
       "line monitor",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "manhole":{
     "alias":[
-      "public works",
       "electrical",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "meter-setting":{
     "alias":[
-      "public works",
       "meter setting",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "network-protector":{
     "alias":[
-      "public works",
       "network protector",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-coupling":{
     "alias":[
-      "public works",
       "non controllable fitting coupling",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-elbow":{
     "alias":[
-      "public works",
       "non controllable fitting elbow",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-end-cap":{
     "alias":[
-      "public works",
       "non controllable fitting end cap",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-expansion-joint":{
     "alias":[
-      "public works",
       "non controllable fitting expansion joint",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-flange":{
     "alias":[
-      "public works",
       "non controllable fitting flange",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-reducer":{
     "alias":[
-      "public works",
       "non controllable fitting reducer",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-screw":{
     "alias":[
-      "public works",
       "non controllable fitting screw",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-tee":{
     "alias":[
-      "public works",
       "non controllable fitting tee",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-transition":{
     "alias":[
-      "public works",
       "non controllable fitting transition",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "non-controllable-fitting-weld":{
     "alias":[
-      "public works",
       "non controllable fitting weld",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "odorizer":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "one-call-ticket":{
     "alias":[
-      "public works",
       "one call ticket",
       "utility and pipeline",
       "811 call",
       "call before you dig"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
-  "pedstal":{
+  "pedestal":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pipe-job-separator":{
     "alias":[
-      "public works",
       "pipe job separator",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pipe-marker":{
     "alias":[
-      "public works",
       "pipe marker",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "plastic-fusion":{
     "alias":[
-      "public works",
       "plastic fusion",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "platform":{
     "alias":[
-      "public works",
       "electrical",
       "utility pole",
       "electrical pole"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pole":{
     "alias":[
-      "public works",
       "electrical",
       "utility pole",
       "electrical pole"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "power-distribution":{
     "alias":[
-      "public works",
       "power distribution",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "power-failure":{
     "alias":[
-      "public works",
       "power failure",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "power-plant":{
     "alias":[
-      "public works",
       "power plant",
-      "electrical"
+      "electrical",
+      "building"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "power-substation":{
     "alias":[
-      "public works",
       "power substation",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pressure-monitoring-device":{
     "alias":[
-      "public works",
       "pressure monitoring device",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pressure-regulating-valve":{
     "alias":[
-      "public works",
       "pressure regulating valve",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pressure-sensor":{
     "alias":[
-      "public works",
       "pressure sensor",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pressure-valve":{
     "alias":[
-      "public works",
       "pressure valve",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pump":{
     "alias":[
-      "public works",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pump-station-utility-and-pipeline":{
     "alias":[
-      "public works",
       "pump station utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "pump-station-water-and-sewer":{
     "alias":[
-      "public works",
       "pump station water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "reactor":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "recloser":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "recloser-bank":{
     "alias":[
-      "public works",
       "recloser bank",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "regulation-station":{
     "alias":[
-      "public works",
       "regulation station",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "regulator":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "relief-valve":{
     "alias":[
-      "public works",
       "relief valve",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "riser":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "scrubber":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "sectionalizer":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "sectionalizer-bank":{
     "alias":[
-      "public works",
       "sectionalizer bank",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "service-connection":{
     "alias":[
-      "public works",
       "service connection",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "service-point":{
     "alias":[
-      "public works",
       "service point",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "service-tee":{
     "alias":[
-      "public works",
       "service tee",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "shutoff-valve":{
     "alias":[
-      "public works",
       "shutoff valve",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "smart-pig-launcher":{
     "alias":[
-      "public works",
       "smart pig launcher",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "smart-pig-receiver":{
     "alias":[
-      "public works",
       "smart pig receiver",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "splice":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "squeeze-off":{
     "alias":[
-      "public works",
       "squeeze off",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "storage-electrical":{
     "alias":[
-      "public works",
       "storage electrical",
       "battery"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "storage-water-and-sewer":{
     "alias":[
-      "public works",
       "storage water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "strainer":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "streetlight-electrical":{
     "alias":[
-      "public works",
       "streetlight electrical",
       "street light"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "substation":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "switch":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "switch-bank":{
     "alias":[
-      "public works",
       "switch bank",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "switch-gear":{
     "alias":[
-      "public works",
       "switch gear",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "tank":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "temp-source-location-compressor-station":{
     "alias":[
-      "public works",
       "temp source location compressor station",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "temp-source-location-meter-setting":{
     "alias":[
-      "public works",
       "temp source location meter setting",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "temp-source-location-regulator-station":{
     "alias":[
-      "public works",
       "temp source location regulator station",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "temp-source-location-rural-tap":{
     "alias":[
-      "public works",
       "temp source location rural tap",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "temp-source-location-town-border-station":{
     "alias":[
-      "public works",
       "temp source location town border station",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "temp-source-location-wellhead":{
     "alias":[
-      "public works",
       "temp source location wellhead",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "temperature-sensor":{
     "alias":[
-      "public works",
       "temperature sensor",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "tower":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "town-border-station":{
     "alias":[
-      "public works",
       "town border station",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "transformer":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "transformer-bank":{
     "alias":[
-      "public works",
       "transformer bank",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "underground-storage-tank":{
     "alias":[
-      "public works",
       "underground storage tank",
       "utility and pipeline",
       "planning and development"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "utility-meter":{
     "alias":[
-      "public works",
       "utility meter",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "water":{
     "alias":[
-      "public works",
       "utility problem submitted",
       "water and sewer",
       "water problem",
@@ -7293,97 +6757,86 @@
       "water droplet"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "vacuum-station":{
     "alias":[
-      "public works",
       "vacuum station",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "valve-closed":{
     "alias":[
-      "public works",
       "valve closed",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "valve-inspection":{
     "alias":[
-      "public works",
       "valve inspection",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "valve-open":{
     "alias":[
-      "public works",
       "valve open",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "vault":{
     "alias":[
-      "public works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "vent":{
     "alias":[
-      "public works",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "voltage-regulator":{
     "alias":[
-      "public works",
       "voltage regulator",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "wellhead":{
     "alias":[
-      "public works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "wellhead-source-flange":{
     "alias":[
-      "public works",
       "wellhead source flange",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "width-and-height":{
     "alias":[
-      "public works",
       "width and height restrictions"
     ],
     "category":"Public Works",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "airplane":{
     "alias":[
-      "transportation",
       "airport terminal",
       "aeronautical",
       "departures",
@@ -7395,16 +6848,15 @@
       "aviation",
       "runway",
       "hangar",
-      "aeronautical enginnering",
+      "aeronautical engineering",
       "international trade",
       "vehicle"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "cyclist":{
     "alias":[
-      "transportation",
       "bicycle",
       "bicyclist",
       "travel",
@@ -7417,7 +6869,7 @@
       "bike racing",
       "mountain biking trail",
       "share the road",
-      "eco friendly transportation",
+      "eco-friendly transportation",
       "zero emissions",
       "zero carbon",
       "commute",
@@ -7426,11 +6878,10 @@
       "commuting"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "bus":{
     "alias":[
-      "transportation",
       "bus station",
       "public transportation",
       "bus line",
@@ -7443,29 +6894,26 @@
       "vehicle"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "divided-highway":{
     "alias":[
-      "transportation",
       "divided highway",
       "divider"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "divided-highway-end":{
     "alias":[
-      "transportation",
       "divided highway ends",
       "divider"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "ship":{
     "alias":[
-      "transportation",
       "boat",
       "shipyard",
       "ferry",
@@ -7486,11 +6934,10 @@
       "travel"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "height":{
     "alias":[
-      "transportation",
       "height clearance",
       "vertical clearance",
       "elevation",
@@ -7501,22 +6948,20 @@
       "distance"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "railroad":{
     "alias":[
-      "transportation",
       "railroad tracks",
       "train tracks",
       "train route",
       "travel"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "major-road":{
     "alias":[
-      "transportation",
       "freeway",
       "expressway",
       "interstate",
@@ -7526,11 +6971,10 @@
       "travel"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "metro-station":{
     "alias":[
-      "transportation",
       "public transportation",
       "metro station",
       "commuter train",
@@ -7549,11 +6993,10 @@
       "train station"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "car":{
     "alias":[
-      "transportation",
       "motor vehicle theft",
       "rideshare",
       "taxi",
@@ -7574,19 +7017,17 @@
       "travel"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "narrow-road":{
     "alias":[
-      "transportation",
       "narrow road"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "overhead-hazard":{
     "alias":[
-      "transportation",
       "overhead hazard",
       "height clearance",
       "vertical clearance",
@@ -7594,11 +7035,10 @@
       "truck clearance"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "port":{
     "alias":[
-      "transportation",
       "shipyard",
       "international trade",
       "shipping",
@@ -7611,11 +7051,10 @@
       "freighters"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "rail-depot":{
     "alias":[
-      "transportation",
       "rail depot",
       "train station",
       "public transportation",
@@ -7625,22 +7064,20 @@
       "train depot"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "railroad-crossings":{
     "alias":[
-      "transportation",
       "railroad crossings",
       "railroad tracks",
       "train crossing",
       "railroad junction"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "railroad-sign":{
     "alias":[
-      "transportation",
       "railroad inspections",
       "railway",
       "railroad tracks",
@@ -7649,11 +7086,10 @@
       "railroad junction"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "traffic-signal":{
     "alias":[
-      "transportation",
       "traffic signal",
       "traffic light",
       "green light",
@@ -7664,20 +7100,18 @@
       "traffic control"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "traffic-signal-cabinet":{
     "alias":[
-      "transportation",
       "traffic signal cabinet",
       "road signal cabinet"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "speedbump":{
     "alias":[
-      "transportation",
       "traffic calming",
       "speed bump",
       "speed hump",
@@ -7688,43 +7122,39 @@
       "traffic safety"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "traffic-camera":{
     "alias":[
-      "transportation",
       "security camera",
       "traffic camera"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "security-checkpoint":{
     "alias":[
-      "transportation",
       "security checkpoint",
       "traffic checkpoint",
       "traffic check point"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "traffic-safety-problem":{
     "alias":[
-      "transportation",
       "traffic safety problem submitted",
       "traffic safety problems",
       "traffic accident",
       "road safety"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "train":{
     "alias":[
-      "transportation",
       "rail incident",
-      "railroard",
+      "railroad",
       "metro",
       "vehicle",
       "bullet train",
@@ -7738,11 +7168,10 @@
       "public transit"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "transit-collision":{
     "alias":[
-      "transportation",
       "traffic accident",
       "road safety",
       "transit collision",
@@ -7752,27 +7181,24 @@
       "car accident"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "tunnel":{
     "alias":[
-      "transportation",
-      "secret tunnel",
       "underground passageway",
       "archway",
       "boring"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   },
   "u-turn-left":{
     "alias":[
-      "transportation",
       "turning radius",
-      "u-turn",
-      "u turn"
+      "U-turn",
+      "U turn"
     ],
     "category":"Transportation",
-    "release":"2.0.0"
+    "release":"2.1.0"
   }
 }
