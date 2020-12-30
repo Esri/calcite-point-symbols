@@ -1,6 +1,7 @@
 {
   "cow":{
     "alias":[
+      "2.1.0",
       "agricultural animal health debris",
       "animal",
       "livestock",
@@ -11,6 +12,7 @@
   },
   "agriculture":{
     "alias":[
+      "2.1.0",
       "wheat",
       "barley",
       "grains",
@@ -23,6 +25,7 @@
   },
   "horse":{
     "alias":[
+      "2.1.0",
       "animal feeding operation",
       "trough"
     ],
@@ -31,6 +34,7 @@
   },
   "farming-structure":{
     "alias":[
+      "2.1.0",
       "barn",
       "farming structure",
       "silo",
@@ -42,6 +46,7 @@
   },
   "bleacher":{
     "alias":[
+      "2.1.0",
       "sporting event",
       "sport event",
       "spectators",
@@ -53,6 +58,7 @@
   },
   "water-fountain":{
     "alias":[
+      "2.1.0",
       "water fountain",
       "drinking water"
     ],
@@ -61,6 +67,7 @@
   },
   "fireworks":{
     "alias":[
+      "2.1.0",
       "fireworks launch site",
       "fireworks show",
       "celebration"
@@ -70,6 +77,7 @@
   },
   "first-aid":{
     "alias":[
+      "2.1.0",
       "health kit",
       "first aid",
       "emergency",
@@ -82,6 +90,7 @@
   },
   "food":{
     "alias":[
+      "2.1.0",
       "food concessions",
       "food stand",
       "beverage",
@@ -98,6 +107,7 @@
   },
   "pot":{
     "alias":[
+      "2.1.0",
       "food preparation equipment",
       "cooking",
       "kitchen",
@@ -109,6 +119,7 @@
   },
   "grandstand":{
     "alias":[
+      "2.1.0",
       "sporting event",
       "sport event",
       "spectators",
@@ -120,6 +131,7 @@
   },
   "guest-services":{
     "alias":[
+      "2.1.0",
       "front desk",
       "guest services",
       "reception desk",
@@ -132,6 +144,7 @@
   },
   "handicap-access":{
     "alias":[
+      "2.1.0",
       "accessible",
       "accessibility",
       "disability",
@@ -144,6 +157,7 @@
   },
   "jersey-barrier":{
     "alias":[
+      "2.1.0",
       "Jersey wall",
       "Jersey barrier",
       "road block",
@@ -156,6 +170,7 @@
   },
   "laser":{
     "alias":[
+      "2.1.0",
       "stage",
       "performance",
       "lighting",
@@ -166,6 +181,7 @@
   },
   "stage-lighting":{
     "alias":[
+      "2.1.0",
       "stage lighting",
       "lighting truss",
       "performance",
@@ -177,6 +193,7 @@
   },
   "lost-and-found":{
     "alias":[
+      "2.1.0",
       "lost and found",
       "missing items"
     ],
@@ -185,6 +202,7 @@
   },
   "stage":{
     "alias":[
+      "2.1.0",
       "mobile stage",
       "performance",
       "concert",
@@ -200,6 +218,7 @@
   },
   "mounted-horse":{
     "alias":[
+      "2.1.0",
       "mounted horse",
       "horse riding",
       "horse rider",
@@ -214,6 +233,7 @@
   },
   "sound":{
     "alias":[
+      "2.1.0",
       "audio",
       "volume",
       "sound stage",
@@ -226,6 +246,7 @@
   },
   "area":{
     "alias":[
+      "2.1.0",
       "staging area",
       "stage area",
       "setup area"
@@ -235,6 +256,7 @@
   },
   "strobe-light":{
     "alias":[
+      "2.1.0",
       "police siren",
       "fire siren",
       "ambulance siren",
@@ -247,6 +269,7 @@
   },
   "tent":{
     "alias":[
+      "2.1.0",
       "festival tent",
       "circus",
       "outdoor event",
@@ -264,6 +287,7 @@
   },
   "ticket":{
     "alias":[
+      "2.1.0",
       "ticket office",
       "arcade",
       "games",
@@ -277,6 +301,7 @@
   },
   "lightning-strike":{
     "alias":[
+      "2.1.0",
       "lightning strike",
       "act of God",
       "thunder",
@@ -287,6 +312,7 @@
   },
   "entry-point-alternative":{
     "alias":[
+      "2.1.0",
       "alternative entry point",
       "entrance",
       "alternative entrance",
@@ -297,6 +323,7 @@
   },
   "ambulance":{
     "alias":[
+      "2.1.0",
       "ambulance siren"
     ],
     "category":"Emergency Management",
@@ -304,6 +331,7 @@
   },
   "animal-safety":{
     "alias":[
+      "2.1.0",
       "animal health emergency response team",
       "animal protection",
       "veterinarian office",
@@ -317,6 +345,7 @@
   },
   "refrigerator":{
     "alias":[
+      "2.1.0",
       "appliances debris",
       "appliance"
     ],
@@ -325,6 +354,7 @@
   },
   "avalanche":{
     "alias":[
+      "2.1.0",
       "natural disaster",
       "hazard sign",
       "warning sign"
@@ -334,6 +364,7 @@
   },
   "barricade":{
     "alias":[
+      "2.1.0",
       "road closed",
       "road barrier",
       "construction zone",
@@ -346,6 +377,7 @@
   },
   "call-dropped":{
     "alias":[
+      "2.1.0",
       "call canceled",
       "call cancelled",
       "call disabled",
@@ -358,6 +390,7 @@
   },
   "call-hung-up":{
     "alias":[
+      "2.1.0",
       "call hung up",
       "call ended",
       "call completed"
@@ -367,6 +400,7 @@
   },
   "clothes":{
     "alias":[
+      "2.1.0",
       "clothing distribution",
       "shirt",
       "attire",
@@ -381,6 +415,7 @@
   },
   "coast":{
     "alias":[
+      "2.1.0",
       "coastal erosion",
       "coastal damage",
       "coast town",
@@ -391,6 +426,7 @@
   },
   "damaged-dam":{
     "alias":[
+      "2.1.0",
       "dam failure"
     ],
     "category":"Emergency Management",
@@ -398,6 +434,7 @@
   },
   "damaged-electrical":{
     "alias":[
+      "2.1.0",
       "damaged electrical",
       "damage assessment electric high damage"
     ],
@@ -406,6 +443,7 @@
   },
   "damaged-building":{
     "alias":[
+      "2.1.0",
       "damaged commercial building",
       "damaged office building",
       "damaged building",
@@ -421,6 +459,7 @@
   },
   "damaged-house":{
     "alias":[
+      "2.1.0",
       "damaged residential building",
       "damaged home",
       "damaged house",
@@ -437,6 +476,7 @@
   },
   "debris":{
     "alias":[
+      "2.1.0",
       "debris mixed"
     ],
     "category":"Emergency Management",
@@ -444,6 +484,7 @@
   },
   "shelter":{
     "alias":[
+      "2.1.0",
       "disaster recovery center",
       "homeless shelter",
       "quarantine",
@@ -454,6 +495,7 @@
   },
   "earthquake":{
     "alias":[
+      "2.1.0",
       "damaged house",
       "natural disaster"
     ],
@@ -462,6 +504,7 @@
   },
   "electronics":{
     "alias":[
+      "2.1.0",
       "electronics debris",
       "microwave",
       "appliance"
@@ -471,6 +514,7 @@
   },
   "assistance":{
     "alias":[
+      "2.1.0",
       "emergency assistance",
       "disaster relief",
       "helping hand",
@@ -481,6 +525,7 @@
   },
   "medical":{
     "alias":[
+      "2.1.0",
       "emergency medical services",
       "EMT",
       "emergency medical technician"
@@ -490,6 +535,7 @@
   },
   "sign-arrow":{
     "alias":[
+      "2.1.0",
       "event sign",
       "arrow sign",
       "directional sign"
@@ -499,6 +545,7 @@
   },
   "cog":{
     "alias":[
+      "2.1.0",
       "gear",
       "equipment failure",
       "failure of equipment",
@@ -510,6 +557,7 @@
   },
   "call-false-alarm":{
     "alias":[
+      "2.1.0",
       "call false alarm",
       "call incorrect",
       "call wrong number",
@@ -520,6 +568,7 @@
   },
   "false-alarm":{
     "alias":[
+      "2.1.0",
       "false alarm incident",
       "cancel response"
     ],
@@ -528,6 +577,7 @@
   },
   "flooding":{
     "alias":[
+      "2.1.0",
       "natural disaster",
       "damaged house"
     ],
@@ -536,6 +586,7 @@
   },
   "food-storage":{
     "alias":[
+      "2.1.0",
       "food storage",
       "grain storage",
       "grain silo",
@@ -548,6 +599,7 @@
   },
   "hurricane":{
     "alias":[
+      "2.1.0",
       "natural disaster",
       "tropical storm",
       "cyclone",
@@ -558,6 +610,7 @@
   },
   "incident-command-post":{
     "alias":[
+      "2.1.0",
       "incident command post"
     ],
     "category":"Emergency Management",
@@ -565,6 +618,7 @@
   },
   "landslide":{
     "alias":[
+      "2.1.0",
       "natural disaster",
       "hazard sign",
       "warning sign"
@@ -574,6 +628,7 @@
   },
   "natural-disaster":{
     "alias":[
+      "2.1.0",
       "natural disaster"
     ],
     "category":"Emergency Management",
@@ -581,6 +636,7 @@
   },
   "personal-property":{
     "alias":[
+      "2.1.0",
       "personal property debris"
     ],
     "category":"Emergency Management",
@@ -588,6 +644,7 @@
   },
   "dog":{
     "alias":[
+      "2.1.0",
       "pet collection area",
       "animal"
     ],
@@ -596,6 +653,7 @@
   },
   "distribution":{
     "alias":[
+      "2.1.0",
       "public assistance",
       "supply distribution",
       "supplies",
@@ -608,6 +666,7 @@
   },
   "entry-point-primary":{
     "alias":[
+      "2.1.0",
       "entry point primary",
       "primary exit",
       "primary entrance"
@@ -617,6 +676,7 @@
   },
   "seaplane":{
     "alias":[
+      "2.1.0",
       "seaplane base",
       "seaplane landing area",
       "seaplane storage",
@@ -627,6 +687,7 @@
   },
   "safety-and-communication":{
     "alias":[
+      "2.1.0",
       "search and rescue",
       "safety and communication",
       "construction",
@@ -638,6 +699,7 @@
   },
   "debris-sediment":{
     "alias":[
+      "2.1.0",
       "debris sediment",
       "sediment and mud debris"
     ],
@@ -646,6 +708,7 @@
   },
   "shelter-closed":{
     "alias":[
+      "2.1.0",
       "shelter closed"
     ],
     "category":"Emergency Management",
@@ -653,6 +716,7 @@
   },
   "shelter-open":{
     "alias":[
+      "2.1.0",
       "shelter open"
     ],
     "category":"Emergency Management",
@@ -660,6 +724,7 @@
   },
   "stream-gauge":{
     "alias":[
+      "2.1.0",
       "stream gauge",
       "water mark",
       "flooding measurement"
@@ -669,6 +734,7 @@
   },
   "tornado":{
     "alias":[
+      "2.1.0",
       "twister",
       "tornado",
       "natural disaster"
@@ -678,6 +744,7 @@
   },
   "train-derailment":{
     "alias":[
+      "2.1.0",
       "train derailment",
       "train accident",
       "metro accident",
@@ -688,6 +755,7 @@
   },
   "tsunami":{
     "alias":[
+      "2.1.0",
       "natural disaster"
     ],
     "category":"Emergency Management",
@@ -695,6 +763,7 @@
   },
   "volcanic-eruption":{
     "alias":[
+      "2.1.0",
       "volcanic eruption",
       "natural disaster",
       "volcano",
@@ -705,6 +774,7 @@
   },
   "water-faucet":{
     "alias":[
+      "2.1.0",
       "water distribution center",
       "water supply",
       "water faucet",
@@ -717,6 +787,7 @@
   },
   "wildfire":{
     "alias":[
+      "2.1.0",
       "wild fire",
       "natural disaster",
       "forest fire",
@@ -728,6 +799,7 @@
   },
   "warehouse":{
     "alias":[
+      "2.1.0",
       "storage unit",
       "disposal transfer station",
       "storage facility",
@@ -739,6 +811,7 @@
   },
   "emoji-eyes-crossed":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Eyes Crossed",
@@ -746,6 +819,7 @@
   },
   "emoji-eyes-hearts":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Eyes Hearts",
@@ -753,6 +827,7 @@
   },
   "emoji-eyes-plain":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Eyes Plain",
@@ -760,6 +835,7 @@
   },
   "emoji-eyes-stars":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Eyes Stars",
@@ -767,6 +843,7 @@
   },
   "emoji-eyes-surprised":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Eyes Surprised",
@@ -774,6 +851,7 @@
   },
   "emoji-hat-cowboy":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Hat Cowboy",
@@ -781,6 +859,7 @@
   },
   "emoji-hat-police":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Hat Police",
@@ -788,6 +867,7 @@
   },
   "emoji-apple":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Apple",
@@ -795,6 +875,7 @@
   },
   "emoji-mouth-frown":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Mouth Frown",
@@ -802,6 +883,7 @@
   },
   "emoji-mouth-plain":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Mouth Plain",
@@ -809,6 +891,7 @@
   },
   "emoji-mouth-smiling":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Emoji Mouth Smiling",
@@ -816,6 +899,7 @@
   },
   "ocean":{
     "alias":[
+      "2.1.0",
       "water",
       "lake",
       "body of water",
@@ -831,6 +915,7 @@
   },
   "coral":{
     "alias":[
+      "2.1.0",
       "artificial reef site",
       "coral reef",
       "underwater",
@@ -842,6 +927,7 @@
   },
   "plant":{
     "alias":[
+      "2.1.0",
       "leaf",
       "botanical",
       "nature",
@@ -857,6 +943,7 @@
   },
   "composter":{
     "alias":[
+      "2.1.0",
       "waste management",
       "environmental",
       "green",
@@ -869,6 +956,7 @@
   },
   "snowflake":{
     "alias":[
+      "2.1.0",
       "cooling center",
       "cold",
       "freezing",
@@ -885,6 +973,7 @@
   },
   "drought":{
     "alias":[
+      "2.1.0",
       "famine",
       "dead plant"
     ],
@@ -893,6 +982,7 @@
   },
   "extreme-heat":{
     "alias":[
+      "2.1.0",
       "hot",
       "extreme heat",
       "high temperature",
@@ -907,6 +997,7 @@
   },
   "fog":{
     "alias":[
+      "2.1.0",
       "smog",
       "weather"
     ],
@@ -915,6 +1006,7 @@
   },
   "dig":{
     "alias":[
+      "2.1.0",
       "geological incident",
       "geologist",
       "hammer",
@@ -928,6 +1020,7 @@
   },
   "globe":{
     "alias":[
+      "2.1.0",
       "planet Earth",
       "conservation",
       "environmentalism",
@@ -941,6 +1034,7 @@
   },
   "hail":{
     "alias":[
+      "2.1.0",
       "sleet",
       "hailstorm",
       "severe weather"
@@ -950,6 +1044,7 @@
   },
   "hot-cold":{
     "alias":[
+      "2.1.0",
       "hot cold",
       "cold hot",
       "temperature",
@@ -964,6 +1059,7 @@
   },
   "rain":{
     "alias":[
+      "2.1.0",
       "downpour",
       "storm",
       "weather"
@@ -973,6 +1069,7 @@
   },
   "liquid":{
     "alias":[
+      "2.1.0",
       "water",
       "chemicals",
       "corrosive",
@@ -984,6 +1081,7 @@
   },
   "mining":{
     "alias":[
+      "2.1.0",
       "equipment",
       "shovel",
       "pickaxe",
@@ -996,6 +1094,7 @@
   },
   "mountain":{
     "alias":[
+      "2.1.0",
       "land",
       "hiking",
       "nature",
@@ -1012,6 +1111,7 @@
   },
   "thunderstorm":{
     "alias":[
+      "2.1.0",
       "rain",
       "downpour",
       "lightning storm",
@@ -1023,6 +1123,7 @@
   },
   "reeds":{
     "alias":[
+      "2.1.0",
       "Typha",
       "water plants",
       "cattails",
@@ -1035,6 +1136,7 @@
   },
   "sun":{
     "alias":[
+      "2.1.0",
       "warming center",
       "summer",
       "hot",
@@ -1048,6 +1150,7 @@
   },
   "wind":{
     "alias":[
+      "2.1.0",
       "gust",
       "windstorm",
       "high winds",
@@ -1062,6 +1165,7 @@
   },
   "pine-tree":{
     "alias":[
+      "2.1.0",
       "national forest",
       "national park",
       "state park",
@@ -1084,6 +1188,7 @@
   },
   "fire":{
     "alias":[
+      "2.1.0",
       "flames",
       "burning",
       "fire damage",
@@ -1095,6 +1200,7 @@
   },
   "fire-extinguisher":{
     "alias":[
+      "2.1.0",
       "fire safety",
       "fire extinguisher"
     ],
@@ -1103,6 +1209,7 @@
   },
   "firefighter":{
     "alias":[
+      "2.1.0",
       "fire fighter",
       "firefighter",
       "fire department",
@@ -1113,6 +1220,7 @@
   },
   "fire-alarm":{
     "alias":[
+      "2.1.0",
       "fire alarm",
       "fire safety survey",
       "fire prevention",
@@ -1126,6 +1234,7 @@
   },
   "fire-station":{
     "alias":[
+      "2.1.0",
       "fire department",
       "fire station",
       "fire shield",
@@ -1136,6 +1245,7 @@
   },
   "fire-truck":{
     "alias":[
+      "2.1.0",
       "fire truck",
       "fire siren",
       "emergency",
@@ -1149,6 +1259,7 @@
   },
   "hydrant":{
     "alias":[
+      "2.1.0",
       "water and sewer",
       "fire hydrant"
     ],
@@ -1157,6 +1268,7 @@
   },
   "pin-box":{
     "alias":[
+      "2.1.0",
       "pin box",
       "box pin",
       "comment",
@@ -1167,6 +1279,7 @@
   },
   "person":{
     "alias":[
+      "2.1.0",
       "person",
       "customer",
       "user",
@@ -1177,6 +1290,7 @@
   },
   "conversation":{
     "alias":[
+      "2.1.0",
       "talking",
       "communication",
       "socializing",
@@ -1192,6 +1306,7 @@
   },
   "thumb-down":{
     "alias":[
+      "2.1.0",
       "dissatisfied customer",
       "thumb down",
       "thumbs down",
@@ -1209,6 +1324,7 @@
   },
   "file-text":{
     "alias":[
+      "2.1.0",
       "text",
       "file text",
       "paper",
@@ -1229,6 +1345,7 @@
   },
   "file":{
     "alias":[
+      "2.1.0",
       "file",
       "paper",
       "records",
@@ -1245,6 +1362,7 @@
   },
   "envelope":{
     "alias":[
+      "2.1.0",
       "email address",
       "envelope",
       "mail",
@@ -1261,6 +1379,7 @@
   },
   "pin-esri-two":{
     "alias":[
+      "2.1.0",
       "marker",
       "location"
     ],
@@ -1269,6 +1388,7 @@
   },
   "pin-esri":{
     "alias":[
+      "2.1.0",
       "marker",
       "location"
     ],
@@ -1277,6 +1397,7 @@
   },
   "flag":{
     "alias":[
+      "2.1.0",
       "marker",
       "high priority",
       "warning",
@@ -1288,6 +1409,7 @@
   },
   "official-document":{
     "alias":[
+      "2.1.0",
       "foreclosure",
       "lease",
       "official document",
@@ -1305,6 +1427,7 @@
   },
   "people":{
     "alias":[
+      "2.1.0",
       "people",
       "members",
       "users",
@@ -1321,6 +1444,7 @@
   },
   "lock":{
     "alias":[
+      "2.1.0",
       "no access",
       "permissions",
       "private",
@@ -1335,6 +1459,7 @@
   },
   "warning":{
     "alias":[
+      "2.1.0",
       "incident",
       "warning",
       "error",
@@ -1350,6 +1475,7 @@
   },
   "information":{
     "alias":[
+      "2.1.0",
       "details",
       "about",
       "read more",
@@ -1361,6 +1487,7 @@
   },
   "information-two":{
     "alias":[
+      "2.1.0",
       "details",
       "about",
       "read more",
@@ -1373,6 +1500,7 @@
   },
   "id":{
     "alias":[
+      "2.1.0",
       "driver license",
       "identification",
       "driver's license",
@@ -1388,6 +1516,7 @@
   },
   "megaphone":{
     "alias":[
+      "2.1.0",
       "megaphone",
       "propaganda",
       "activism",
@@ -1411,6 +1540,7 @@
   },
   "lightbulb":{
     "alias":[
+      "2.1.0",
       "participatory budgeting",
       "lighting",
       "energy",
@@ -1424,6 +1554,7 @@
   },
   "phone":{
     "alias":[
+      "2.1.0",
       "cell service",
       "phone call",
       "text message",
@@ -1437,6 +1568,7 @@
   },
   "phone-number":{
     "alias":[
+      "2.1.0",
       "phone call",
       "contact information",
       "dial",
@@ -1448,6 +1580,7 @@
   },
   "box":{
     "alias":[
+      "2.1.0",
       "package",
       "product",
       "delivery",
@@ -1466,6 +1599,7 @@
   },
   "pushpin":{
     "alias":[
+      "2.1.0",
       "marker",
       "location"
     ],
@@ -1474,6 +1608,7 @@
   },
   "pushpin-two":{
     "alias":[
+      "2.1.0",
       "marker",
       "location"
     ],
@@ -1482,6 +1617,7 @@
   },
   "question":{
     "alias":[
+      "2.1.0",
       "character",
       "inquiry",
       "answers",
@@ -1498,6 +1634,7 @@
   },
   "question-two":{
     "alias":[
+      "2.1.0",
       "character",
       "inquiry",
       "answers",
@@ -1514,6 +1651,7 @@
   },
   "point-end":{
     "alias":[
+      "2.1.0",
       "point end",
       "route end",
       "finish",
@@ -1528,6 +1666,7 @@
   },
   "point-start":{
     "alias":[
+      "2.1.0",
       "point start",
       "route start",
       "beginning",
@@ -1540,6 +1679,7 @@
   },
   "exclamation-point":{
     "alias":[
+      "2.1.0",
       "incident",
       "warning",
       "error",
@@ -1560,6 +1700,7 @@
   },
   "social-media":{
     "alias":[
+      "2.1.0",
       "hashtag",
       "social media",
       "chat",
@@ -1583,6 +1724,7 @@
   },
   "exclamation-point-two":{
     "alias":[
+      "2.1.0",
       "special incident",
       "warning",
       "error",
@@ -1603,6 +1745,7 @@
   },
   "bell":{
     "alias":[
+      "2.1.0",
       "notification",
       "alert",
       "warning",
@@ -1615,6 +1758,7 @@
   },
   "pin-tear-two":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Generic",
@@ -1622,6 +1766,7 @@
   },
   "pin-tear":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Generic",
@@ -1629,6 +1774,7 @@
   },
   "magnifying-glass":{
     "alias":[
+      "2.1.0",
       "magnifying glass",
       "investigate",
       "search",
@@ -1645,6 +1791,7 @@
   },
   "video-camera":{
     "alias":[
+      "2.1.0",
       "video camera",
       "video store",
       "media",
@@ -1662,6 +1809,7 @@
   },
   "person-walking":{
     "alias":[
+      "2.1.0",
       "suspicious activity",
       "pedestrian",
       "walking",
@@ -1676,6 +1824,7 @@
   },
   "work-order":{
     "alias":[
+      "2.1.0",
       "work order",
       "utility and pipeline"
     ],
@@ -1684,6 +1833,7 @@
   },
   "wheelchair-assistance":{
     "alias":[
+      "2.1.0",
       "adult care",
       "nursing home",
       "physical therapy",
@@ -1698,6 +1848,7 @@
   },
   "aed":{
     "alias":[
+      "2.1.0",
       "automated external defibrillator",
       "first aid",
       "emergency aid",
@@ -1709,6 +1860,7 @@
   },
   "alternative-medicine":{
     "alias":[
+      "2.1.0",
       "herbalism",
       "herbal medicine",
       "essential oils",
@@ -1727,6 +1879,7 @@
   },
   "animal-treatment":{
     "alias":[
+      "2.1.0",
       "animal disease outbreak",
       "veterinarian",
       "veterinary office",
@@ -1744,6 +1897,7 @@
   },
   "baby":{
     "alias":[
+      "2.1.0",
       "birth services",
       "nursery",
       "newborns",
@@ -1765,6 +1919,7 @@
   },
   "cocaine":{
     "alias":[
+      "2.1.0",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -1776,6 +1931,7 @@
   },
   "dangerous-substance":{
     "alias":[
+      "2.1.0",
       "lethal drugs",
       "skull",
       "syringe",
@@ -1794,6 +1950,7 @@
   },
   "overdose-death":{
     "alias":[
+      "2.1.0",
       "overdose death",
       "drug related death",
       "poisoned",
@@ -1806,6 +1963,7 @@
   },
   "death":{
     "alias":[
+      "2.1.0",
       "skull and crossbones",
       "die",
       "dead",
@@ -1829,6 +1987,7 @@
   },
   "designer-drug":{
     "alias":[
+      "2.1.0",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -1839,6 +1998,7 @@
   },
   "kidneys":{
     "alias":[
+      "2.1.0",
       "dialysis treatment",
       "medical treatment",
       "kidney replacement",
@@ -1851,6 +2011,7 @@
   },
   "drug":{
     "alias":[
+      "2.1.0",
       "pharmaceutical",
       "pharmacy",
       "pharmacist",
@@ -1872,6 +2033,7 @@
   },
   "drug-seizure":{
     "alias":[
+      "2.1.0",
       "law enforcement",
       "narcotics officers",
       "drug bust",
@@ -1886,6 +2048,7 @@
   },
   "pill":{
     "alias":[
+      "2.1.0",
       "pharmaceutical",
       "pharmacy",
       "pills",
@@ -1906,6 +2069,7 @@
   },
   "drug-waste":{
     "alias":[
+      "2.1.0",
       "pharmaceutical drug waste",
       "drug wastage",
       "dosage limit",
@@ -1917,6 +2081,7 @@
   },
   "mushroom":{
     "alias":[
+      "2.1.0",
       "hallucinogens",
       "mushrooms",
       "hallucinogenic",
@@ -1928,6 +2093,7 @@
   },
   "health-and-human-services":{
     "alias":[
+      "2.1.0",
       "healthcare",
       "hospital",
       "physical therapy",
@@ -1951,6 +2117,7 @@
   },
   "health-alert":{
     "alias":[
+      "2.1.0",
       "health problems",
       "health alert",
       "heart attack",
@@ -1971,6 +2138,7 @@
   },
   "ear":{
     "alias":[
+      "2.1.0",
       "hearing",
       "deaf assistance",
       "hearing aid",
@@ -1991,6 +2159,7 @@
   },
   "syringe":{
     "alias":[
+      "2.1.0",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2013,6 +2182,7 @@
   },
   "home-with-heart":{
     "alias":[
+      "2.1.0",
       "in home care",
       "health care",
       "residential care",
@@ -2036,6 +2206,7 @@
   },
   "home-support":{
     "alias":[
+      "2.1.0",
       "housing assistance",
       "residential care",
       "community center",
@@ -2051,6 +2222,7 @@
   },
   "medical-bed":{
     "alias":[
+      "2.1.0",
       "medical bed",
       "hospice",
       "treatment",
@@ -2072,6 +2244,7 @@
   },
   "hospital":{
     "alias":[
+      "2.1.0",
       "clinic",
       "ICU",
       "emergency",
@@ -2092,6 +2265,7 @@
   },
   "cannabis":{
     "alias":[
+      "2.1.0",
       "cannabis",
       "marijuana",
       "weed",
@@ -2110,6 +2284,7 @@
   },
   "plant-concentrates":{
     "alias":[
+      "2.1.0",
       "cannabis concentrates",
       "tinctures",
       "marijuana concentrates",
@@ -2125,6 +2300,7 @@
   },
   "medical-professional":{
     "alias":[
+      "2.1.0",
       "medical professional",
       "nurse",
       "surgeon",
@@ -2147,6 +2323,7 @@
   },
   "medical-helicopter":{
     "alias":[
+      "2.1.0",
       "medivac site",
       "medevac site",
       "emergency rescue",
@@ -2160,6 +2337,7 @@
   },
   "mental-health":{
     "alias":[
+      "2.1.0",
       "psychologist",
       "psychiatrist",
       "mental health professional",
@@ -2179,6 +2357,7 @@
   },
   "methamphetamine":{
     "alias":[
+      "2.1.0",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2191,6 +2370,7 @@
   },
   "overdose-treatment":{
     "alias":[
+      "2.1.0",
       "naloxone distribution",
       "naloxone treatment",
       "overdose treatment",
@@ -2204,6 +2384,7 @@
   },
   "opiates":{
     "alias":[
+      "2.1.0",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2217,6 +2398,7 @@
   },
   "patient":{
     "alias":[
+      "2.1.0",
       "outpatient",
       "injury",
       "injured",
@@ -2231,6 +2413,7 @@
   },
   "medicine":{
     "alias":[
+      "2.1.0",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2258,6 +2441,7 @@
   },
   "overdose":{
     "alias":[
+      "2.1.0",
       "overdose drug",
       "narcotics",
       "dangerous substances",
@@ -2272,6 +2456,7 @@
   },
   "skull":{
     "alias":[
+      "2.1.0",
       "death",
       "disease",
       "pandemic",
@@ -2304,6 +2489,7 @@
   },
   "emergency-medical-professional":{
     "alias":[
+      "2.1.0",
       "paramedic",
       "emergency medical professional",
       "EMT",
@@ -2326,6 +2512,7 @@
   },
   "pharmaceuticals":{
     "alias":[
+      "2.1.0",
       "medical research",
       "pharmaceutical research",
       "medicine development",
@@ -2344,6 +2531,7 @@
   },
   "prescription-drug-drop-off":{
     "alias":[
+      "2.1.0",
       "prescription drug drop off",
       "drug delivery",
       "drug mail",
@@ -2354,6 +2542,7 @@
   },
   "prescription":{
     "alias":[
+      "2.1.0",
       "pharmaceutical",
       "pharmacy",
       "pharmacist",
@@ -2376,6 +2565,7 @@
   },
   "steroids":{
     "alias":[
+      "2.1.0",
       "pharmaceutical",
       "pharmacy",
       "prescription",
@@ -2393,6 +2583,7 @@
   },
   "substance-abuse":{
     "alias":[
+      "2.1.0",
       "substance abuse",
       "alcohol abuse",
       "alcohol addiction",
@@ -2404,6 +2595,7 @@
   },
   "unknown-drug":{
     "alias":[
+      "2.1.0",
       "unknown drug",
       "mystery drug",
       "missing drug"
@@ -2413,6 +2605,7 @@
   },
   "mosquito":{
     "alias":[
+      "2.1.0",
       "vector control problems",
       "malaria",
       "dengue fever",
@@ -2433,6 +2626,7 @@
   },
   "care":{
     "alias":[
+      "2.1.0",
       "emergency assistance",
       "disaster relief",
       "helping hand",
@@ -2453,6 +2647,7 @@
   },
   "volunteer-service":{
     "alias":[
+      "2.1.0",
       "volunteer service",
       "volunteers",
       "aid",
@@ -2468,6 +2663,7 @@
   },
   "assault":{
     "alias":[
+      "2.1.0",
       "aggravated assault",
       "attack",
       "punch",
@@ -2490,6 +2686,7 @@
   },
   "handcuffs":{
     "alias":[
+      "2.1.0",
       "crime",
       "arrest",
       "captured",
@@ -2504,6 +2701,7 @@
   },
   "attack":{
     "alias":[
+      "2.1.0",
       "battle map",
       "blast",
       "explosion",
@@ -2521,6 +2719,7 @@
   },
   "burglary":{
     "alias":[
+      "2.1.0",
       "broken window",
       "theft",
       "raid",
@@ -2536,6 +2735,7 @@
   },
   "violence":{
     "alias":[
+      "2.1.0",
       "civil disturbance",
       "civil disorder",
       "threat",
@@ -2547,6 +2747,7 @@
   },
   "assault-with-firearm":{
     "alias":[
+      "2.1.0",
       "aggravated assault",
       "attack",
       "punch",
@@ -2568,6 +2769,7 @@
   },
   "homicide-with-firearm":{
     "alias":[
+      "2.1.0",
       "murdered",
       "dead body",
       "criminal homicide",
@@ -2588,6 +2790,7 @@
   },
   "rape-with-firearm":{
     "alias":[
+      "2.1.0",
       "rape whistle",
       "protection",
       "sexual assault",
@@ -2613,6 +2816,7 @@
   },
   "robbery-with-firearm":{
     "alias":[
+      "2.1.0",
       "theft",
       "mask",
       "burglar",
@@ -2634,6 +2838,7 @@
   },
   "offender":{
     "alias":[
+      "2.1.0",
       "criminal",
       "thief",
       "robber",
@@ -2644,6 +2849,7 @@
   },
   "homicide":{
     "alias":[
+      "2.1.0",
       "murdered",
       "dead body",
       "criminal homicide",
@@ -2657,6 +2863,7 @@
   },
   "technical-issue":{
     "alias":[
+      "2.1.0",
       "cyber incident",
       "cyber-attack",
       "hacked device",
@@ -2681,6 +2888,7 @@
   },
   "detained":{
     "alias":[
+      "2.1.0",
       "convict",
       "prisoner",
       "suspect",
@@ -2694,6 +2902,7 @@
   },
   "swerve":{
     "alias":[
+      "2.1.0",
       "DUI",
       "driving under influence",
       "car",
@@ -2708,6 +2917,7 @@
   },
   "arson":{
     "alias":[
+      "2.1.0",
       "intentional",
       "wildfire origin",
       "matchstick",
@@ -2726,6 +2936,7 @@
   },
   "knife":{
     "alias":[
+      "2.1.0",
       "violence",
       "kitchen knife",
       "weapon",
@@ -2740,6 +2951,7 @@
   },
   "larceny":{
     "alias":[
+      "2.1.0",
       "pickpocket",
       "stealing",
       "theft",
@@ -2752,6 +2964,7 @@
   },
   "police-badge":{
     "alias":[
+      "2.1.0",
       "officer post",
       "police badge",
       "police precinct",
@@ -2766,6 +2979,7 @@
   },
   "police-car":{
     "alias":[
+      "2.1.0",
       "patrol car",
       "security car",
       "highway patrol",
@@ -2780,6 +2994,7 @@
   },
   "police-officer":{
     "alias":[
+      "2.1.0",
       "police officer",
       "sheriff",
       "deputy",
@@ -2792,6 +3007,7 @@
   },
   "police-officer-two":{
     "alias":[
+      "2.1.0",
       "police officer two",
       "sheriff",
       "deputy",
@@ -2804,6 +3020,7 @@
   },
   "police-officer-three":{
     "alias":[
+      "2.1.0",
       "traffic check point",
       "traffic checkpoint",
       "security checkpoint",
@@ -2820,6 +3037,7 @@
   },
   "shield":{
     "alias":[
+      "2.1.0",
       "protection",
       "security",
       "firewall",
@@ -2832,6 +3050,7 @@
   },
   "rape-whistle":{
     "alias":[
+      "2.1.0",
       "rape whistle",
       "protection",
       "sexual assault",
@@ -2853,6 +3072,7 @@
   },
   "recovered-vehicle":{
     "alias":[
+      "2.1.0",
       "recovered vehicle",
       "recovered car",
       "stolen vehicle"
@@ -2862,6 +3082,7 @@
   },
   "robbery":{
     "alias":[
+      "2.1.0",
       "theft",
       "mask",
       "burglar",
@@ -2880,6 +3101,7 @@
   },
   "sabotage":{
     "alias":[
+      "2.1.0",
       "explosion",
       "explosive",
       "attack",
@@ -2894,6 +3116,7 @@
   },
   "security-check":{
     "alias":[
+      "2.1.0",
       "security checkpoint",
       "entrance control",
       "airport security",
@@ -2905,6 +3128,7 @@
   },
   "shoplifting":{
     "alias":[
+      "2.1.0",
       "pickpocket",
       "stealing",
       "theft",
@@ -2916,6 +3140,7 @@
   },
   "gun":{
     "alias":[
+      "2.1.0",
       "small arms fire",
       "pistol",
       "handgun",
@@ -2930,6 +3155,7 @@
   },
   "smuggling":{
     "alias":[
+      "2.1.0",
       "drugs",
       "drug trafficking",
       "suitcase",
@@ -2944,6 +3170,7 @@
   },
   "crosshair":{
     "alias":[
+      "2.1.0",
       "sniper",
       "assassination",
       "scope",
@@ -2965,6 +3192,7 @@
   },
   "swat-team":{
     "alias":[
+      "2.1.0",
       "police",
       "special task force",
       "special forces",
@@ -2978,6 +3206,7 @@
   },
   "vehicle-theft":{
     "alias":[
+      "2.1.0",
       "vehicle theft",
       "stolen vehicle",
       "grand theft auto",
@@ -2988,6 +3217,7 @@
   },
   "spray-paint":{
     "alias":[
+      "2.1.0",
       "tagging",
       "spray paint",
       "graffiti",
@@ -2999,6 +3229,7 @@
   },
   "a":{
     "alias":[
+      "2.1.0",
       "characters",
       "alphabet"
     ],
@@ -3007,6 +3238,7 @@
   },
   "b":{
     "alias":[
+      "2.1.0",
       "characters",
       "alphabet"
     ],
@@ -3015,6 +3247,7 @@
   },
   "c":{
     "alias":[
+      "2.1.0",
       "characters",
       "alphabet"
     ],
@@ -3023,6 +3256,7 @@
   },
   "d":{
     "alias":[
+      "2.1.0",
       "characters",
       "alphabet"
     ],
@@ -3031,6 +3265,7 @@
   },
   "e":{
     "alias":[
+      "2.1.0",
       "characters",
       "alphabet"
     ],
@@ -3039,6 +3274,7 @@
   },
   "f":{
     "alias":[
+      "2.1.0",
       "characters",
       "alphabet"
     ],
@@ -3047,6 +3283,7 @@
   },
   "g":{
     "alias":[
+      "2.1.0",
       "characters",
       "alphabet"
     ],
@@ -3055,6 +3292,7 @@
   },
   "k":{
     "alias":[
+      "2.1.0",
       "characters",
       "alphabet",
       "key terrain"
@@ -3064,6 +3302,7 @@
   },
   "1":{
     "alias":[
+      "2.1.0",
       "team 1"
     ],
     "category":"Numbers",
@@ -3071,6 +3310,7 @@
   },
   "2":{
     "alias":[
+      "2.1.0",
       "team 2"
     ],
     "category":"Numbers",
@@ -3078,6 +3318,7 @@
   },
   "3":{
     "alias":[
+      "2.1.0",
       "team 3"
     ],
     "category":"Numbers",
@@ -3085,6 +3326,7 @@
   },
   "4":{
     "alias":[
+      "2.1.0",
       "team 4"
     ],
     "category":"Numbers",
@@ -3092,6 +3334,7 @@
   },
   "circle":{
     "alias":[
+      "2.1.0",
       "point",
       "dot",
       "container"
@@ -3101,6 +3344,7 @@
   },
   "diamond":{
     "alias":[
+      "2.1.0",
       "point",
       "square diamond"
     ],
@@ -3109,6 +3353,7 @@
   },
   "diamond-two":{
     "alias":[
+      "2.1.0",
       "point",
       "oblong diamond"
     ],
@@ -3117,6 +3362,7 @@
   },
   "hexagon":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Shapes",
@@ -3124,6 +3370,7 @@
   },
   "circle-ring-sections":{
     "alias":[
+      "2.1.0",
       "near repeat incident",
       "crime analyst"
     ],
@@ -3132,6 +3379,7 @@
   },
   "octagon":{
     "alias":[
+      "2.1.0",
       "stop"
     ],
     "category":"Shapes",
@@ -3139,6 +3387,7 @@
   },
   "circle-ring-hollow":{
     "alias":[
+      "2.1.0",
       "originator incident",
       "crime analyst"
     ],
@@ -3147,6 +3396,7 @@
   },
   "circle-ellipse":{
     "alias":[
+      "2.1.0",
       "other incident",
       "crime analyst"
     ],
@@ -3155,6 +3405,7 @@
   },
   "circle-ring":{
     "alias":[
+      "2.1.0",
       "repeat incident",
       "crime analyst"
     ],
@@ -3163,6 +3414,7 @@
   },
   "rounded-square":{
     "alias":[
+      "2.1.0",
       "rounded square"
     ],
     "category":"Shapes",
@@ -3170,6 +3422,7 @@
   },
   "square-small":{
     "alias":[
+      "2.1.0",
       "square small"
     ],
     "category":"Shapes",
@@ -3177,6 +3430,7 @@
   },
   "square":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Shapes",
@@ -3184,6 +3438,7 @@
   },
   "star":{
     "alias":[
+      "2.1.0",
       "favorite",
       "rating",
       "rated",
@@ -3194,6 +3449,7 @@
   },
   "triangle":{
     "alias":[
+      "2.1.0",
       "warning",
       "alert"
     ],
@@ -3202,6 +3458,7 @@
   },
   "assassination":{
     "alias":[
+      "2.1.0",
       "target",
       "crosshair",
       "person",
@@ -3222,6 +3479,7 @@
   },
   "biohazard":{
     "alias":[
+      "2.1.0",
       "biological attack",
       "virus",
       "pandemic",
@@ -3247,6 +3505,7 @@
   },
   "bomb":{
     "alias":[
+      "2.1.0",
       "bombing",
       "explosives",
       "attack",
@@ -3263,6 +3522,7 @@
   },
   "chemical-weapons":{
     "alias":[
+      "2.1.0",
       "chemical attack",
       "chemical weapons sign",
       "terrorism",
@@ -3277,6 +3537,7 @@
   },
   "direct-fire":{
     "alias":[
+      "2.1.0",
       "bullet",
       "direct fire",
       "missile",
@@ -3299,6 +3560,7 @@
   },
   "explosive":{
     "alias":[
+      "2.1.0",
       "bombing",
       "attack",
       "terrorism",
@@ -3317,6 +3579,7 @@
   },
   "indirect-fire":{
     "alias":[
+      "2.1.0",
       "bombing",
       "torpedo",
       "nuclear",
@@ -3335,6 +3598,7 @@
   },
   "ip-address":{
     "alias":[
+      "2.1.0",
       "device location",
       "internet access location",
       "VPN",
@@ -3349,6 +3613,7 @@
   },
   "tech-support":{
     "alias":[
+      "2.1.0",
       "IT facility",
       "tech support",
       "internet support",
@@ -3365,6 +3630,7 @@
   },
   "person-waving":{
     "alias":[
+      "2.1.0",
       "last known location",
       "person waving",
       "person gesturing",
@@ -3378,6 +3644,7 @@
   },
   "nuclear":{
     "alias":[
+      "2.1.0",
       "radiological",
       "radiology lab",
       "radioactive",
@@ -3403,6 +3670,7 @@
   },
   "bomb-technician":{
     "alias":[
+      "2.1.0",
       "explosive specialist",
       "suicide bomber",
       "bomb specialist",
@@ -3420,6 +3688,7 @@
   },
   "explosion":{
     "alias":[
+      "2.1.0",
       "unknown explosion",
       "blast",
       "attack",
@@ -3431,6 +3700,7 @@
   },
   "suspect":{
     "alias":[
+      "2.1.0",
       "watch list",
       "wanted poster",
       "wanted criminals",
@@ -3443,6 +3713,7 @@
   },
   "battle-damage-assessment-point":{
     "alias":[
+      "2.1.0",
       "battle damage assessment point",
       "ICAP"
     ],
@@ -3451,6 +3722,7 @@
   },
   "blight":{
     "alias":[
+      "2.1.0",
       "blight problems",
       "building",
       "damaged building",
@@ -3468,6 +3740,7 @@
   },
   "boat-ramp":{
     "alias":[
+      "2.1.0",
       "boat launch",
       "boat dock",
       "boat ramp"
@@ -3477,6 +3750,7 @@
   },
   "bridge":{
     "alias":[
+      "2.1.0",
       "infrastructure",
       "overpass"
     ],
@@ -3485,6 +3759,7 @@
   },
   "chemicals":{
     "alias":[
+      "2.1.0",
       "chemical plant",
       "pharmaceuticals",
       "research facility",
@@ -3501,6 +3776,7 @@
   },
   "community-center":{
     "alias":[
+      "2.1.0",
       "community center",
       "disaster recovery center",
       "homeless shelter",
@@ -3518,6 +3794,7 @@
   },
   "detour":{
     "alias":[
+      "2.1.0",
       "road closed",
       "road repair",
       "construction site",
@@ -3535,6 +3812,7 @@
   },
   "hammer":{
     "alias":[
+      "2.1.0",
       "tools",
       "construction",
       "repair",
@@ -3547,6 +3825,7 @@
   },
   "buildings":{
     "alias":[
+      "2.1.0",
       "corporate headquarters",
       "corporate complex",
       "workplace",
@@ -3573,6 +3852,7 @@
   },
   "wheelchair-ramp":{
     "alias":[
+      "2.1.0",
       "handicap ramps",
       "curb ramps",
       "wheelchair ramp",
@@ -3589,6 +3869,7 @@
   },
   "dam":{
     "alias":[
+      "2.1.0",
       "infrastructure",
       "water bank",
       "water reservoir",
@@ -3599,6 +3880,7 @@
   },
   "event":{
     "alias":[
+      "2.1.0",
       "calendar",
       "holiday events",
       "occasion",
@@ -3613,6 +3895,7 @@
   },
   "street-lamp":{
     "alias":[
+      "2.1.0",
       "gas lamp",
       "lighting",
       "light post",
@@ -3626,6 +3909,7 @@
   },
   "gas-station":{
     "alias":[
+      "2.1.0",
       "petrol station",
       "gas station",
       "gasoline",
@@ -3643,6 +3927,7 @@
   },
   "gateway":{
     "alias":[
+      "2.1.0",
       "entry",
       "entrance",
       "exit",
@@ -3662,6 +3947,7 @@
   },
   "key-access":{
     "alias":[
+      "2.1.0",
       "key access",
       "entry",
       "entrance",
@@ -3680,6 +3966,7 @@
   },
   "key-no-access":{
     "alias":[
+      "2.1.0",
       "key no access",
       "key access",
       "no entry",
@@ -3699,6 +3986,7 @@
   },
   "for-sale":{
     "alias":[
+      "2.1.0",
       "real estate",
       "house for sale",
       "property for sale",
@@ -3715,6 +4003,7 @@
   },
   "permit":{
     "alias":[
+      "2.1.0",
       "individual permit",
       "certificate",
       "contract",
@@ -3734,6 +4023,7 @@
   },
   "infestation":{
     "alias":[
+      "2.1.0",
       "infestation incident",
       "bugs",
       "ants",
@@ -3752,6 +4042,7 @@
   },
   "neighborhood":{
     "alias":[
+      "2.1.0",
       "land use problem",
       "land use violation",
       "property violation",
@@ -3767,6 +4058,7 @@
   },
   "dump-truck":{
     "alias":[
+      "2.1.0",
       "garbage truck",
       "garbage dump",
       "dumping ground",
@@ -3783,6 +4075,7 @@
   },
   "mortgage":{
     "alias":[
+      "2.1.0",
       "property taxes",
       "mortgage check",
       "rent check",
@@ -3800,6 +4093,7 @@
   },
   "treatment-exemptions":{
     "alias":[
+      "2.1.0",
       "mosquito treatment exemptions",
       "pesticide exemptions",
       "insecticide exemptions",
@@ -3812,6 +4106,7 @@
   },
   "building":{
     "alias":[
+      "2.1.0",
       "workplace",
       "business",
       "office building",
@@ -3829,6 +4124,7 @@
   },
   "park-tree-problem":{
     "alias":[
+      "2.1.0",
       "park tree problem",
       "park foliage problem"
     ],
@@ -3837,6 +4133,7 @@
   },
   "city-planning":{
     "alias":[
+      "2.1.0",
       "planning limits",
       "city planning",
       "city design",
@@ -3854,6 +4151,7 @@
   },
   "polling-place":{
     "alias":[
+      "2.1.0",
       "polls",
       "voting place",
       "voting center",
@@ -3875,6 +4173,7 @@
   },
   "recycling":{
     "alias":[
+      "2.1.0",
       "recycling facilities",
       "recycling center",
       "sustainability",
@@ -3892,6 +4191,7 @@
   },
   "road-problems":{
     "alias":[
+      "2.1.0",
       "pothole",
       "road problems",
       "road erosion",
@@ -3908,6 +4208,7 @@
   },
   "service-request":{
     "alias":[
+      "2.1.0",
       "service request",
       "repair",
       "service ticket",
@@ -3925,6 +4226,7 @@
   },
   "signpost":{
     "alias":[
+      "2.1.0",
       "signs",
       "sign post",
       "street signs",
@@ -3939,6 +4241,7 @@
   },
   "plow":{
     "alias":[
+      "2.1.0",
       "de-icing road",
       "salting road",
       "snowplow",
@@ -3957,6 +4260,7 @@
   },
   "government-permit":{
     "alias":[
+      "2.1.0",
       "state operating permit",
       "state authorization",
       "official documentation",
@@ -3975,6 +4279,7 @@
   },
   "stormwater":{
     "alias":[
+      "2.1.0",
       "stormwater multisector permit",
       "stormwater pipe",
       "drainage pipe",
@@ -3992,6 +4297,7 @@
   },
   "bench":{
     "alias":[
+      "2.1.0",
       "street bench",
       "park",
       "street furniture",
@@ -4006,6 +4312,7 @@
   },
   "tree":{
     "alias":[
+      "2.1.0",
       "street trees",
       "greenery",
       "foliage",
@@ -4022,6 +4329,7 @@
   },
   "streetlight":{
     "alias":[
+      "2.1.0",
       "electricity",
       "street lamp",
       "street lighting",
@@ -4033,6 +4341,7 @@
   },
   "property-value":{
     "alias":[
+      "2.1.0",
       "tax parcel appeal",
       "property value",
       "house value",
@@ -4060,6 +4369,7 @@
   },
   "telecom":{
     "alias":[
+      "2.1.0",
       "telecommunications tower",
       "cell tower",
       "telecom tower",
@@ -4082,6 +4392,7 @@
   },
   "dumpster":{
     "alias":[
+      "2.1.0",
       "trash dumpster",
       "waste management",
       "garbage",
@@ -4095,6 +4406,7 @@
   },
   "litter":{
     "alias":[
+      "2.1.0",
       "trash problem submitted",
       "garbage can",
       "trash can",
@@ -4111,6 +4423,7 @@
   },
   "trash":{
     "alias":[
+      "2.1.0",
       "trash receptacle",
       "rubbish",
       "garbage",
@@ -4127,6 +4440,7 @@
   },
   "vacant-lot":{
     "alias":[
+      "2.1.0",
       "vacant land site",
       "vacant lot",
       "undeveloped land",
@@ -4138,6 +4452,7 @@
   },
   "clipboard":{
     "alias":[
+      "2.1.0",
       "parking ticket",
       "inspection note",
       "review",
@@ -4155,6 +4470,7 @@
   },
   "water-recycling":{
     "alias":[
+      "2.1.0",
       "water recycling",
       "water reclamation",
       "water treatment plant",
@@ -4174,6 +4490,7 @@
   },
   "water-source":{
     "alias":[
+      "2.1.0",
       "water quality advisory",
       "water source",
       "reservoir",
@@ -4192,6 +4509,7 @@
   },
   "weeds":{
     "alias":[
+      "2.1.0",
       "weed observations",
       "dandelion",
       "plant",
@@ -4209,6 +4527,7 @@
   },
   "wire-down":{
     "alias":[
+      "2.1.0",
       "wire down",
       "power line down",
       "electrical hazard",
@@ -4226,6 +4545,7 @@
   },
   "work-zone":{
     "alias":[
+      "2.1.0",
       "road repair",
       "construction site",
       "roadworks",
@@ -4241,6 +4561,7 @@
   },
   "house":{
     "alias":[
+      "2.1.0",
       "home",
       "residential zoning",
       "address",
@@ -4251,6 +4572,7 @@
   },
   "pesticide-discharge":{
     "alias":[
+      "2.1.0",
       "pesticide discharge"
     ],
     "category":"Planning And Development",
@@ -4258,6 +4580,7 @@
   },
   "ready-mix-concrete-facilities":{
     "alias":[
+      "2.1.0",
       "ready mix concrete facilities"
     ],
     "category":"Planning And Development",
@@ -4265,6 +4588,7 @@
   },
   "breakfast":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4286,6 +4610,7 @@
   },
   "chinese":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4304,6 +4629,7 @@
   },
   "cocktail":{
     "alias":[
+      "2.1.0",
       "cocktail bar",
       "mixed drinks",
       "alcohol",
@@ -4326,6 +4652,7 @@
   },
   "coffee":{
     "alias":[
+      "2.1.0",
       "coffee shop",
       "coffeehouse",
       "coffee house",
@@ -4342,6 +4669,7 @@
   },
   "hamburger":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4364,6 +4692,7 @@
   },
   "indian":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4381,6 +4710,7 @@
   },
   "italian":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4400,6 +4730,7 @@
   },
   "mediterranean":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4417,6 +4748,7 @@
   },
   "mexican":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4435,6 +4767,7 @@
   },
   "pizza":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4452,6 +4785,7 @@
   },
   "beer":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4476,6 +4810,7 @@
   },
   "restaurant":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4493,6 +4828,7 @@
   },
   "steak":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4518,6 +4854,7 @@
   },
   "sushi":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4536,6 +4873,7 @@
   },
   "thai":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4553,6 +4891,7 @@
   },
   "bottle":{
     "alias":[
+      "2.1.0",
       "cooking",
       "cuisine",
       "eatery",
@@ -4591,6 +4930,7 @@
   },
   "grapes":{
     "alias":[
+      "2.1.0",
       "drinkery",
       "cooking",
       "cuisine",
@@ -4617,6 +4957,7 @@
   },
   "accessibility":{
     "alias":[
+      "2.1.0",
       "accessibility disability",
       "wheelchair",
       "person with disability",
@@ -4628,6 +4969,7 @@
   },
   "aerial-tram":{
     "alias":[
+      "2.1.0",
       "aerial tram",
       "cable car",
       "ski lift",
@@ -4641,6 +4983,7 @@
   },
   "ferris-wheel":{
     "alias":[
+      "2.1.0",
       "amusement park",
       "Ferris wheel",
       "carnival",
@@ -4658,6 +5001,7 @@
   },
   "credit-card":{
     "alias":[
+      "2.1.0",
       "ATM",
       "credit card",
       "purchase",
@@ -4688,6 +5032,7 @@
   },
   "cash":{
     "alias":[
+      "2.1.0",
       "ATM",
       "purchase",
       "cash machine",
@@ -4722,6 +5067,7 @@
   },
   "bank-account":{
     "alias":[
+      "2.1.0",
       "bank account",
       "brick and mortar bank",
       "finances",
@@ -4745,6 +5091,7 @@
   },
   "beach":{
     "alias":[
+      "2.1.0",
       "ocean",
       "recreation",
       "water",
@@ -4762,6 +5109,7 @@
   },
   "bike-parking":{
     "alias":[
+      "2.1.0",
       "bicycle parking",
       "bike parking",
       "bike station",
@@ -4775,6 +5123,7 @@
   },
   "bike-sharing":{
     "alias":[
+      "2.1.0",
       "tourism",
       "transportation",
       "rent bike",
@@ -4787,6 +5136,7 @@
   },
   "border-crossing":{
     "alias":[
+      "2.1.0",
       "border crossing",
       "border checkpoint",
       "border security",
@@ -4800,6 +5150,7 @@
   },
   "campground":{
     "alias":[
+      "2.1.0",
       "camping tent",
       "outdoor recreation",
       "backpacking campsite",
@@ -4813,6 +5164,7 @@
   },
   "car-rental":{
     "alias":[
+      "2.1.0",
       "car rental",
       "vehicle",
       "transportation",
@@ -4828,6 +5180,7 @@
   },
   "dice":{
     "alias":[
+      "2.1.0",
       "dice",
       "gambling",
       "board games",
@@ -4842,6 +5195,7 @@
   },
   "tombstone":{
     "alias":[
+      "2.1.0",
       "tombstone",
       "cemetery",
       "graveyard",
@@ -4857,6 +5211,7 @@
   },
   "government-building":{
     "alias":[
+      "2.1.0",
       "city hall",
       "government building",
       "state government",
@@ -4874,6 +5229,7 @@
   },
   "courthouse":{
     "alias":[
+      "2.1.0",
       "hearing",
       "judges",
       "courtroom",
@@ -4891,6 +5247,7 @@
   },
   "embassy":{
     "alias":[
+      "2.1.0",
       "embassy building",
       "consular services",
       "diplomacy",
@@ -4904,6 +5261,7 @@
   },
   "golf-course":{
     "alias":[
+      "2.1.0",
       "golf course",
       "golfing course",
       "golf club",
@@ -4920,6 +5278,7 @@
   },
   "shopping-cart":{
     "alias":[
+      "2.1.0",
       "shopping cart",
       "grocery store",
       "shop",
@@ -4933,6 +5292,7 @@
   },
   "hotel":{
     "alias":[
+      "2.1.0",
       "motel",
       "inn",
       "hostel",
@@ -4956,6 +5316,7 @@
   },
   "factory":{
     "alias":[
+      "2.1.0",
       "industrial complex",
       "industrial zoning",
       "industry",
@@ -4971,6 +5332,7 @@
   },
   "camera":{
     "alias":[
+      "2.1.0",
       "landmark",
       "photography",
       "photoshoot",
@@ -4993,6 +5355,7 @@
   },
   "book":{
     "alias":[
+      "2.1.0",
       "library",
       "bookstore",
       "reading",
@@ -5013,6 +5376,7 @@
   },
   "microphone":{
     "alias":[
+      "2.1.0",
       "music",
       "concert",
       "live music venue",
@@ -5037,6 +5401,7 @@
   },
   "shopping":{
     "alias":[
+      "2.1.0",
       "shopping mall",
       "retail",
       "commercial zoning",
@@ -5064,6 +5429,7 @@
   },
   "anchor":{
     "alias":[
+      "2.1.0",
       "ship anchor",
       "port",
       "marina",
@@ -5094,6 +5460,7 @@
   },
   "camp":{
     "alias":[
+      "2.1.0",
       "military base",
       "military camp",
       "outpost",
@@ -5106,6 +5473,7 @@
   },
   "monument":{
     "alias":[
+      "2.1.0",
       "archaeology",
       "ruins",
       "archives",
@@ -5123,6 +5491,7 @@
   },
   "indigenous":{
     "alias":[
+      "2.1.0",
       "native reservation",
       "first people",
       "first nations",
@@ -5149,6 +5518,7 @@
   },
   "parking":{
     "alias":[
+      "2.1.0",
       "parking garage",
       "parking lot",
       "car port",
@@ -5159,6 +5529,7 @@
   },
   "pay-station":{
     "alias":[
+      "2.1.0",
       "drive through",
       "drive thru",
       "drive-through",
@@ -5177,6 +5548,7 @@
   },
   "place-of-worship":{
     "alias":[
+      "2.1.0",
       "mosque",
       "cathedral",
       "church",
@@ -5206,6 +5578,7 @@
   },
   "playground":{
     "alias":[
+      "2.1.0",
       "kids park",
       "seesaw",
       "play structure",
@@ -5221,6 +5594,7 @@
   },
   "restroom":{
     "alias":[
+      "2.1.0",
       "public restroom",
       "toilet",
       "washroom",
@@ -5233,6 +5607,7 @@
   },
   "gender-neutral-restroom":{
     "alias":[
+      "2.1.0",
       "public restroom",
       "toilet",
       "washroom",
@@ -5246,6 +5621,7 @@
   },
   "washroom":{
     "alias":[
+      "2.1.0",
       "public restroom",
       "toilet",
       "washroom",
@@ -5258,6 +5634,7 @@
   },
   "toilet":{
     "alias":[
+      "2.1.0",
       "public restroom",
       "toilet",
       "washroom",
@@ -5270,6 +5647,7 @@
   },
   "school":{
     "alias":[
+      "2.1.0",
       "elementary school",
       "high school",
       "middle school",
@@ -5288,6 +5666,7 @@
   },
   "arena":{
     "alias":[
+      "2.1.0",
       "sports complex",
       "Colosseum",
       "stadium",
@@ -5319,6 +5698,7 @@
   },
   "theater":{
     "alias":[
+      "2.1.0",
       "theater",
       "theatre",
       "drama",
@@ -5347,6 +5727,7 @@
   },
   "trail":{
     "alias":[
+      "2.1.0",
       "person walking",
       "trailhead",
       "hiking trail",
@@ -5373,6 +5754,7 @@
   },
   "graduation-cap":{
     "alias":[
+      "2.1.0",
       "university",
       "graduation cap",
       "education",
@@ -5416,6 +5798,7 @@
   },
   "elephant":{
     "alias":[
+      "2.1.0",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5440,6 +5823,7 @@
   },
   "rhino":{
     "alias":[
+      "2.1.0",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5462,6 +5846,7 @@
   },
   "frog":{
     "alias":[
+      "2.1.0",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5481,6 +5866,7 @@
   },
   "pawprint":{
     "alias":[
+      "2.1.0",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5500,6 +5886,7 @@
   },
   "fish":{
     "alias":[
+      "2.1.0",
       "habitat",
       "tropical fish",
       "angelfish",
@@ -5522,6 +5909,7 @@
   },
   "bird":{
     "alias":[
+      "2.1.0",
       "habitat",
       "animals",
       "bird observations",
@@ -5540,6 +5928,7 @@
   },
   "fishing":{
     "alias":[
+      "2.1.0",
       "habitat",
       "fishery",
       "fishing site",
@@ -5570,6 +5959,7 @@
   },
   "bear":{
     "alias":[
+      "2.1.0",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5594,6 +5984,7 @@
   },
   "turtle":{
     "alias":[
+      "2.1.0",
       "habitat",
       "wildlife sanctuary",
       "nature reserve",
@@ -5606,6 +5997,7 @@
   },
   "deer":{
     "alias":[
+      "2.1.0",
       "habitat",
       "wildlife sanctuary",
       "nature reserve",
@@ -5629,6 +6021,7 @@
   },
   "access-valve":{
     "alias":[
+      "2.1.0",
       "water and sewer",
       "access valve"
     ],
@@ -5637,6 +6030,7 @@
   },
   "anomaly":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -5644,6 +6038,7 @@
   },
   "arrester":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -5651,6 +6046,7 @@
   },
   "arrester-bank":{
     "alias":[
+      "2.1.0",
       "electrical",
       "arrester bank"
     ],
@@ -5659,6 +6055,7 @@
   },
   "backflow":{
     "alias":[
+      "2.1.0",
       "water and sewer"
     ],
     "category":"Public Works",
@@ -5666,6 +6063,7 @@
   },
   "breaker":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -5673,6 +6071,7 @@
   },
   "breaker-bank":{
     "alias":[
+      "2.1.0",
       "electrical",
       "breaker bank"
     ],
@@ -5681,6 +6080,7 @@
   },
   "cabinet":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -5688,6 +6088,7 @@
   },
   "calibration-point":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "calibration point"
     ],
@@ -5696,6 +6097,7 @@
   },
   "capacitor":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -5703,6 +6105,7 @@
   },
   "capacitor-bank":{
     "alias":[
+      "2.1.0",
       "electrical",
       "capacitor bank"
     ],
@@ -5711,6 +6114,7 @@
   },
   "catch-basins":{
     "alias":[
+      "2.1.0",
       "water and sewer",
       "catch basins"
     ],
@@ -5719,6 +6123,7 @@
   },
   "circuit-breaker":{
     "alias":[
+      "2.1.0",
       "electrical",
       "circuit breaker"
     ],
@@ -5727,6 +6132,7 @@
   },
   "circuit-breaker-bank":{
     "alias":[
+      "2.1.0",
       "electrical",
       "circuit breaker bank"
     ],
@@ -5735,6 +6141,7 @@
   },
   "clean-out":{
     "alias":[
+      "2.1.0",
       "water and sewer",
       "clean out"
     ],
@@ -5743,6 +6150,7 @@
   },
   "coating":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -5750,6 +6158,7 @@
   },
   "compressor":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -5757,6 +6166,7 @@
   },
   "compressor-station":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "compressor station"
     ],
@@ -5765,6 +6175,7 @@
   },
   "connection-point":{
     "alias":[
+      "2.1.0",
       "dot",
       "electrical",
       "connection point"
@@ -5774,6 +6185,7 @@
   },
   "connection-point-two":{
     "alias":[
+      "2.1.0",
       "dot",
       "electrical",
       "connection point two"
@@ -5783,6 +6195,7 @@
   },
   "controllable-fitting-3-way-tee":{
     "alias":[
+      "2.1.0",
       "controllable fitting 3 way tee",
       "utility and pipeline"
     ],
@@ -5791,6 +6204,7 @@
   },
   "controllable-fitting-short-stop":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "controllable fitting short stop"
     ],
@@ -5799,6 +6213,7 @@
   },
   "cooling-system":{
     "alias":[
+      "2.1.0",
       "cooling system",
       "utility and pipeline"
     ],
@@ -5807,6 +6222,7 @@
   },
   "cp-anode":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "CP anode"
     ],
@@ -5815,6 +6231,7 @@
   },
   "cp-bond-junction":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "CP bond junction"
     ],
@@ -5823,6 +6240,7 @@
   },
   "cp-rectifier":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "CP rectifier"
     ],
@@ -5831,6 +6249,7 @@
   },
   "cp-test-point":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "CP test point"
     ],
@@ -5839,6 +6258,7 @@
   },
   "custody-transfer-to-distribution-meter":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "custody transfer to distribution meter"
     ],
@@ -5847,6 +6267,7 @@
   },
   "custody-transfer-to-gathering-meter":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "custody transfer to gathering meter"
     ],
@@ -5855,6 +6276,7 @@
   },
   "custody-transfer-to-transmission-meter":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "custody transfer to transmission meter"
     ],
@@ -5863,6 +6285,7 @@
   },
   "customer-meter":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "customer meter"
     ],
@@ -5871,6 +6294,7 @@
   },
   "da-survey-readings":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "DA survey readings"
     ],
@@ -5879,6 +6303,7 @@
   },
   "dehydration-equipment":{
     "alias":[
+      "2.1.0",
       "utility and pipeline",
       "dehydration equipment"
     ],
@@ -5887,6 +6312,7 @@
   },
   "traffic-cone":{
     "alias":[
+      "2.1.0",
       "department of public works",
       "traffic cone",
       "working area",
@@ -5898,6 +6324,7 @@
   },
   "discharge-point":{
     "alias":[
+      "2.1.0",
       "water and sewer",
       "discharge point",
       "municipal stormwater discharge"
@@ -5907,6 +6334,7 @@
   },
   "drip":{
     "alias":[
+      "2.1.0",
       ""
     ],
     "category":"Public Works",
@@ -5914,6 +6342,7 @@
   },
   "droplet":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -5921,6 +6350,7 @@
   },
   "elbow":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -5928,6 +6358,7 @@
   },
   "electro-stop":{
     "alias":[
+      "2.1.0",
       "electro stop",
       "utility and pipeline"
     ],
@@ -5936,6 +6367,7 @@
   },
   "excess-flow-valve":{
     "alias":[
+      "2.1.0",
       "excess flow valve",
       "utility and pipeline"
     ],
@@ -5944,6 +6376,7 @@
   },
   "flow-device":{
     "alias":[
+      "2.1.0",
       "flow device",
       "water and sewer"
     ],
@@ -5952,6 +6385,7 @@
   },
   "flow-meter":{
     "alias":[
+      "2.1.0",
       "flow meter",
       "water and sewer"
     ],
@@ -5960,6 +6394,7 @@
   },
   "flow-valve":{
     "alias":[
+      "2.1.0",
       "flow valve",
       "water and sewer"
     ],
@@ -5968,6 +6403,7 @@
   },
   "fuse":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -5975,6 +6411,7 @@
   },
   "fuse-bank":{
     "alias":[
+      "2.1.0",
       "fuse bank",
       "electrical"
     ],
@@ -5983,6 +6420,7 @@
   },
   "gas-leak-inspection":{
     "alias":[
+      "2.1.0",
       "gas leak inspection",
       "utility and pipeline"
     ],
@@ -5991,6 +6429,7 @@
   },
   "gate-bank":{
     "alias":[
+      "2.1.0",
       "gate bank",
       "water and sewer"
     ],
@@ -5999,6 +6438,7 @@
   },
   "gate":{
     "alias":[
+      "2.1.0",
       "water and sewer"
     ],
     "category":"Public Works",
@@ -6006,6 +6446,7 @@
   },
   "generation":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6013,6 +6454,7 @@
   },
   "generator":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6020,6 +6462,7 @@
   },
   "ground":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6027,6 +6470,7 @@
   },
   "guy":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6034,6 +6478,7 @@
   },
   "handhole":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6041,6 +6486,7 @@
   },
   "hazardous":{
     "alias":[
+      "2.1.0",
       "hazard sign"
     ],
     "category":"Public Works",
@@ -6048,6 +6494,7 @@
   },
   "hazardous-waste":{
     "alias":[
+      "2.1.0",
       "hazardous waste",
       "hazard sign"
     ],
@@ -6056,6 +6503,7 @@
   },
   "transmission-power":{
     "alias":[
+      "2.1.0",
       "high voltage transmission lines",
       "electrical",
       "power lines",
@@ -6070,6 +6518,7 @@
   },
   "identified-issue-corrosion":{
     "alias":[
+      "2.1.0",
       "identified issue corrosion",
       "utility and pipeline"
     ],
@@ -6078,6 +6527,7 @@
   },
   "identified-issue-damaged-meter":{
     "alias":[
+      "2.1.0",
       "identified issue damaged meter",
       "utility and pipeline"
     ],
@@ -6086,6 +6536,7 @@
   },
   "identified-issue-odor":{
     "alias":[
+      "2.1.0",
       "identified issue odor",
       "utility and pipeline"
     ],
@@ -6094,6 +6545,7 @@
   },
   "ili-ground-ref-marker":{
     "alias":[
+      "2.1.0",
       "ILI ground ref markers",
       "utility and pipeline"
     ],
@@ -6102,6 +6554,7 @@
   },
   "ili-survey-reading":{
     "alias":[
+      "2.1.0",
       "ILI survey readings",
       "utility and pipeline"
     ],
@@ -6110,6 +6563,7 @@
   },
   "inter-basin-water-transfer":{
     "alias":[
+      "2.1.0",
       "inter basin water transfer",
       "water and sewer"
     ],
@@ -6118,6 +6572,7 @@
   },
   "inverter":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6125,6 +6580,7 @@
   },
   "joint":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6132,6 +6588,7 @@
   },
   "junction-box":{
     "alias":[
+      "2.1.0",
       "junction box",
       "electrical"
     ],
@@ -6140,6 +6597,7 @@
   },
   "leak-severity-critical":{
     "alias":[
+      "2.1.0",
       "leak severity critical",
       "utility and pipeline"
     ],
@@ -6148,6 +6606,7 @@
   },
   "levee-failure":{
     "alias":[
+      "2.1.0",
       "levee failure",
       "utility and pipeline"
     ],
@@ -6156,6 +6615,7 @@
   },
   "line-end":{
     "alias":[
+      "2.1.0",
       "line end",
       "electrical"
     ],
@@ -6164,6 +6624,7 @@
   },
   "line-heater":{
     "alias":[
+      "2.1.0",
       "line heater",
       "utility and pipeline"
     ],
@@ -6172,6 +6633,7 @@
   },
   "line-monitor":{
     "alias":[
+      "2.1.0",
       "line monitor",
       "electrical"
     ],
@@ -6180,6 +6642,7 @@
   },
   "manhole":{
     "alias":[
+      "2.1.0",
       "electrical",
       "water and sewer"
     ],
@@ -6188,6 +6651,7 @@
   },
   "meter-setting":{
     "alias":[
+      "2.1.0",
       "meter setting",
       "utility and pipeline"
     ],
@@ -6196,6 +6660,7 @@
   },
   "network-protector":{
     "alias":[
+      "2.1.0",
       "network protector",
       "electrical"
     ],
@@ -6204,6 +6669,7 @@
   },
   "non-controllable-fitting-coupling":{
     "alias":[
+      "2.1.0",
       "non controllable fitting coupling",
       "utility and pipeline"
     ],
@@ -6212,6 +6678,7 @@
   },
   "non-controllable-fitting-elbow":{
     "alias":[
+      "2.1.0",
       "non controllable fitting elbow",
       "utility and pipeline"
     ],
@@ -6220,6 +6687,7 @@
   },
   "non-controllable-fitting-end-cap":{
     "alias":[
+      "2.1.0",
       "non controllable fitting end cap",
       "utility and pipeline"
     ],
@@ -6228,6 +6696,7 @@
   },
   "non-controllable-fitting-expansion-joint":{
     "alias":[
+      "2.1.0",
       "non controllable fitting expansion joint",
       "utility and pipeline"
     ],
@@ -6236,6 +6705,7 @@
   },
   "non-controllable-fitting-flange":{
     "alias":[
+      "2.1.0",
       "non controllable fitting flange",
       "utility and pipeline"
     ],
@@ -6244,6 +6714,7 @@
   },
   "non-controllable-fitting-reducer":{
     "alias":[
+      "2.1.0",
       "non controllable fitting reducer",
       "utility and pipeline"
     ],
@@ -6252,6 +6723,7 @@
   },
   "non-controllable-fitting-screw":{
     "alias":[
+      "2.1.0",
       "non controllable fitting screw",
       "utility and pipeline"
     ],
@@ -6260,6 +6732,7 @@
   },
   "non-controllable-fitting-tee":{
     "alias":[
+      "2.1.0",
       "non controllable fitting tee",
       "utility and pipeline"
     ],
@@ -6268,6 +6741,7 @@
   },
   "non-controllable-fitting-transition":{
     "alias":[
+      "2.1.0",
       "non controllable fitting transition",
       "utility and pipeline"
     ],
@@ -6276,6 +6750,7 @@
   },
   "non-controllable-fitting-weld":{
     "alias":[
+      "2.1.0",
       "non controllable fitting weld",
       "utility and pipeline"
     ],
@@ -6284,6 +6759,7 @@
   },
   "odorizer":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6291,6 +6767,7 @@
   },
   "one-call-ticket":{
     "alias":[
+      "2.1.0",
       "one call ticket",
       "utility and pipeline",
       "811 call",
@@ -6301,6 +6778,7 @@
   },
   "pedestal":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6308,6 +6786,7 @@
   },
   "pipe-job-separator":{
     "alias":[
+      "2.1.0",
       "pipe job separator",
       "utility and pipeline"
     ],
@@ -6316,6 +6795,7 @@
   },
   "pipe-marker":{
     "alias":[
+      "2.1.0",
       "pipe marker",
       "utility and pipeline"
     ],
@@ -6324,6 +6804,7 @@
   },
   "plastic-fusion":{
     "alias":[
+      "2.1.0",
       "plastic fusion",
       "utility and pipeline"
     ],
@@ -6332,6 +6813,7 @@
   },
   "platform":{
     "alias":[
+      "2.1.0",
       "electrical",
       "utility pole",
       "electrical pole"
@@ -6341,6 +6823,7 @@
   },
   "pole":{
     "alias":[
+      "2.1.0",
       "electrical",
       "utility pole",
       "electrical pole"
@@ -6350,6 +6833,7 @@
   },
   "power-distribution":{
     "alias":[
+      "2.1.0",
       "power distribution",
       "electrical"
     ],
@@ -6358,6 +6842,7 @@
   },
   "power-failure":{
     "alias":[
+      "2.1.0",
       "power failure",
       "electrical"
     ],
@@ -6366,6 +6851,7 @@
   },
   "power-plant":{
     "alias":[
+      "2.1.0",
       "power plant",
       "electrical",
       "building"
@@ -6375,6 +6861,7 @@
   },
   "power-substation":{
     "alias":[
+      "2.1.0",
       "power substation",
       "electrical"
     ],
@@ -6383,6 +6870,7 @@
   },
   "pressure-monitoring-device":{
     "alias":[
+      "2.1.0",
       "pressure monitoring device",
       "utility and pipeline"
     ],
@@ -6391,6 +6879,7 @@
   },
   "pressure-regulating-valve":{
     "alias":[
+      "2.1.0",
       "pressure regulating valve",
       "utility and pipeline"
     ],
@@ -6399,6 +6888,7 @@
   },
   "pressure-sensor":{
     "alias":[
+      "2.1.0",
       "pressure sensor",
       "water and sewer"
     ],
@@ -6407,6 +6897,7 @@
   },
   "pressure-valve":{
     "alias":[
+      "2.1.0",
       "pressure valve",
       "water and sewer"
     ],
@@ -6415,6 +6906,7 @@
   },
   "pump":{
     "alias":[
+      "2.1.0",
       "water and sewer"
     ],
     "category":"Public Works",
@@ -6422,6 +6914,7 @@
   },
   "pump-station-utility-and-pipeline":{
     "alias":[
+      "2.1.0",
       "pump station utility and pipeline"
     ],
     "category":"Public Works",
@@ -6429,6 +6922,7 @@
   },
   "pump-station-water-and-sewer":{
     "alias":[
+      "2.1.0",
       "pump station water and sewer"
     ],
     "category":"Public Works",
@@ -6436,6 +6930,7 @@
   },
   "reactor":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6443,6 +6938,7 @@
   },
   "recloser":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6450,6 +6946,7 @@
   },
   "recloser-bank":{
     "alias":[
+      "2.1.0",
       "recloser bank",
       "electrical"
     ],
@@ -6458,6 +6955,7 @@
   },
   "regulation-station":{
     "alias":[
+      "2.1.0",
       "regulation station",
       "utility and pipeline"
     ],
@@ -6466,6 +6964,7 @@
   },
   "regulator":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6473,6 +6972,7 @@
   },
   "relief-valve":{
     "alias":[
+      "2.1.0",
       "relief valve",
       "electrical"
     ],
@@ -6481,6 +6981,7 @@
   },
   "riser":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6488,6 +6989,7 @@
   },
   "scrubber":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6495,6 +6997,7 @@
   },
   "sectionalizer":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6502,6 +7005,7 @@
   },
   "sectionalizer-bank":{
     "alias":[
+      "2.1.0",
       "sectionalizer bank",
       "electrical"
     ],
@@ -6510,6 +7014,7 @@
   },
   "service-connection":{
     "alias":[
+      "2.1.0",
       "service connection",
       "water and sewer"
     ],
@@ -6518,6 +7023,7 @@
   },
   "service-point":{
     "alias":[
+      "2.1.0",
       "service point",
       "electrical"
     ],
@@ -6526,6 +7032,7 @@
   },
   "service-tee":{
     "alias":[
+      "2.1.0",
       "service tee",
       "utility and pipeline"
     ],
@@ -6534,6 +7041,7 @@
   },
   "shutoff-valve":{
     "alias":[
+      "2.1.0",
       "shutoff valve",
       "water and sewer"
     ],
@@ -6542,6 +7050,7 @@
   },
   "smart-pig-launcher":{
     "alias":[
+      "2.1.0",
       "smart pig launcher",
       "utility and pipeline"
     ],
@@ -6550,6 +7059,7 @@
   },
   "smart-pig-receiver":{
     "alias":[
+      "2.1.0",
       "smart pig receiver",
       "utility and pipeline"
     ],
@@ -6558,6 +7068,7 @@
   },
   "splice":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6565,6 +7076,7 @@
   },
   "squeeze-off":{
     "alias":[
+      "2.1.0",
       "squeeze off",
       "utility and pipeline"
     ],
@@ -6573,6 +7085,7 @@
   },
   "storage-electrical":{
     "alias":[
+      "2.1.0",
       "storage electrical",
       "battery"
     ],
@@ -6581,6 +7094,7 @@
   },
   "storage-water-and-sewer":{
     "alias":[
+      "2.1.0",
       "storage water and sewer"
     ],
     "category":"Public Works",
@@ -6588,6 +7102,7 @@
   },
   "strainer":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6595,6 +7110,7 @@
   },
   "streetlight-electrical":{
     "alias":[
+      "2.1.0",
       "streetlight electrical",
       "street light"
     ],
@@ -6603,6 +7119,7 @@
   },
   "substation":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6610,6 +7127,7 @@
   },
   "switch":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6617,6 +7135,7 @@
   },
   "switch-bank":{
     "alias":[
+      "2.1.0",
       "switch bank",
       "electrical"
     ],
@@ -6625,6 +7144,7 @@
   },
   "switch-gear":{
     "alias":[
+      "2.1.0",
       "switch gear",
       "electrical"
     ],
@@ -6633,6 +7153,7 @@
   },
   "tank":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6640,6 +7161,7 @@
   },
   "temp-source-location-compressor-station":{
     "alias":[
+      "2.1.0",
       "temp source location compressor station",
       "utility and pipeline"
     ],
@@ -6648,6 +7170,7 @@
   },
   "temp-source-location-meter-setting":{
     "alias":[
+      "2.1.0",
       "temp source location meter setting",
       "utility and pipeline"
     ],
@@ -6656,6 +7179,7 @@
   },
   "temp-source-location-regulator-station":{
     "alias":[
+      "2.1.0",
       "temp source location regulator station",
       "utility and pipeline"
     ],
@@ -6664,6 +7188,7 @@
   },
   "temp-source-location-rural-tap":{
     "alias":[
+      "2.1.0",
       "temp source location rural tap",
       "utility and pipeline"
     ],
@@ -6672,6 +7197,7 @@
   },
   "temp-source-location-town-border-station":{
     "alias":[
+      "2.1.0",
       "temp source location town border station",
       "utility and pipeline"
     ],
@@ -6680,6 +7206,7 @@
   },
   "temp-source-location-wellhead":{
     "alias":[
+      "2.1.0",
       "temp source location wellhead",
       "utility and pipeline"
     ],
@@ -6688,6 +7215,7 @@
   },
   "temperature-sensor":{
     "alias":[
+      "2.1.0",
       "temperature sensor",
       "water and sewer"
     ],
@@ -6696,6 +7224,7 @@
   },
   "tower":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6703,6 +7232,7 @@
   },
   "town-border-station":{
     "alias":[
+      "2.1.0",
       "town border station",
       "utility and pipeline"
     ],
@@ -6711,6 +7241,7 @@
   },
   "transformer":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6718,6 +7249,7 @@
   },
   "transformer-bank":{
     "alias":[
+      "2.1.0",
       "transformer bank",
       "electrical"
     ],
@@ -6726,6 +7258,7 @@
   },
   "underground-storage-tank":{
     "alias":[
+      "2.1.0",
       "underground storage tank",
       "utility and pipeline",
       "planning and development"
@@ -6735,6 +7268,7 @@
   },
   "utility-meter":{
     "alias":[
+      "2.1.0",
       "utility meter",
       "utility and pipeline"
     ],
@@ -6743,6 +7277,7 @@
   },
   "water":{
     "alias":[
+      "2.1.0",
       "utility problem submitted",
       "water and sewer",
       "water problem",
@@ -6761,6 +7296,7 @@
   },
   "vacuum-station":{
     "alias":[
+      "2.1.0",
       "vacuum station",
       "water and sewer"
     ],
@@ -6769,6 +7305,7 @@
   },
   "valve-closed":{
     "alias":[
+      "2.1.0",
       "valve closed",
       "water and sewer"
     ],
@@ -6777,6 +7314,7 @@
   },
   "valve-inspection":{
     "alias":[
+      "2.1.0",
       "valve inspection",
       "utility and pipeline"
     ],
@@ -6785,6 +7323,7 @@
   },
   "valve-open":{
     "alias":[
+      "2.1.0",
       "valve open",
       "utility and pipeline"
     ],
@@ -6793,6 +7332,7 @@
   },
   "vault":{
     "alias":[
+      "2.1.0",
       "electrical"
     ],
     "category":"Public Works",
@@ -6800,6 +7340,7 @@
   },
   "vent":{
     "alias":[
+      "2.1.0",
       "water and sewer"
     ],
     "category":"Public Works",
@@ -6807,6 +7348,7 @@
   },
   "voltage-regulator":{
     "alias":[
+      "2.1.0",
       "voltage regulator",
       "electrical"
     ],
@@ -6815,6 +7357,7 @@
   },
   "wellhead":{
     "alias":[
+      "2.1.0",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6822,6 +7365,7 @@
   },
   "wellhead-source-flange":{
     "alias":[
+      "2.1.0",
       "wellhead source flange",
       "utility and pipeline"
     ],
@@ -6830,6 +7374,7 @@
   },
   "width-and-height":{
     "alias":[
+      "2.1.0",
       "width and height restrictions"
     ],
     "category":"Public Works",
@@ -6837,6 +7382,7 @@
   },
   "airplane":{
     "alias":[
+      "2.1.0",
       "airport terminal",
       "aeronautical",
       "departures",
@@ -6857,6 +7403,7 @@
   },
   "cyclist":{
     "alias":[
+      "2.1.0",
       "bicycle",
       "bicyclist",
       "travel",
@@ -6882,6 +7429,7 @@
   },
   "bus":{
     "alias":[
+      "2.1.0",
       "bus station",
       "public transportation",
       "bus line",
@@ -6898,6 +7446,7 @@
   },
   "divided-highway":{
     "alias":[
+      "2.1.0",
       "divided highway",
       "divider"
     ],
@@ -6906,6 +7455,7 @@
   },
   "divided-highway-end":{
     "alias":[
+      "2.1.0",
       "divided highway ends",
       "divider"
     ],
@@ -6914,6 +7464,7 @@
   },
   "ship":{
     "alias":[
+      "2.1.0",
       "boat",
       "shipyard",
       "ferry",
@@ -6938,6 +7489,7 @@
   },
   "height":{
     "alias":[
+      "2.1.0",
       "height clearance",
       "vertical clearance",
       "elevation",
@@ -6952,6 +7504,7 @@
   },
   "railroad":{
     "alias":[
+      "2.1.0",
       "railroad tracks",
       "train tracks",
       "train route",
@@ -6962,6 +7515,7 @@
   },
   "major-road":{
     "alias":[
+      "2.1.0",
       "freeway",
       "expressway",
       "interstate",
@@ -6975,6 +7529,7 @@
   },
   "metro-station":{
     "alias":[
+      "2.1.0",
       "public transportation",
       "metro station",
       "commuter train",
@@ -6997,6 +7552,7 @@
   },
   "car":{
     "alias":[
+      "2.1.0",
       "motor vehicle theft",
       "rideshare",
       "taxi",
@@ -7021,6 +7577,7 @@
   },
   "narrow-road":{
     "alias":[
+      "2.1.0",
       "narrow road"
     ],
     "category":"Transportation",
@@ -7028,6 +7585,7 @@
   },
   "overhead-hazard":{
     "alias":[
+      "2.1.0",
       "overhead hazard",
       "height clearance",
       "vertical clearance",
@@ -7039,6 +7597,7 @@
   },
   "port":{
     "alias":[
+      "2.1.0",
       "shipyard",
       "international trade",
       "shipping",
@@ -7055,6 +7614,7 @@
   },
   "rail-depot":{
     "alias":[
+      "2.1.0",
       "rail depot",
       "train station",
       "public transportation",
@@ -7068,6 +7628,7 @@
   },
   "railroad-crossings":{
     "alias":[
+      "2.1.0",
       "railroad crossings",
       "railroad tracks",
       "train crossing",
@@ -7078,6 +7639,7 @@
   },
   "railroad-sign":{
     "alias":[
+      "2.1.0",
       "railroad inspections",
       "railway",
       "railroad tracks",
@@ -7090,6 +7652,7 @@
   },
   "traffic-signal":{
     "alias":[
+      "2.1.0",
       "traffic signal",
       "traffic light",
       "green light",
@@ -7104,6 +7667,7 @@
   },
   "traffic-signal-cabinet":{
     "alias":[
+      "2.1.0",
       "traffic signal cabinet",
       "road signal cabinet"
     ],
@@ -7112,6 +7676,7 @@
   },
   "speedbump":{
     "alias":[
+      "2.1.0",
       "traffic calming",
       "speed bump",
       "speed hump",
@@ -7126,6 +7691,7 @@
   },
   "traffic-camera":{
     "alias":[
+      "2.1.0",
       "security camera",
       "traffic camera"
     ],
@@ -7134,6 +7700,7 @@
   },
   "security-checkpoint":{
     "alias":[
+      "2.1.0",
       "security checkpoint",
       "traffic checkpoint",
       "traffic check point"
@@ -7143,6 +7710,7 @@
   },
   "traffic-safety-problem":{
     "alias":[
+      "2.1.0",
       "traffic safety problem submitted",
       "traffic safety problems",
       "traffic accident",
@@ -7153,6 +7721,7 @@
   },
   "train":{
     "alias":[
+      "2.1.0",
       "rail incident",
       "railroad",
       "metro",
@@ -7172,6 +7741,7 @@
   },
   "transit-collision":{
     "alias":[
+      "2.1.0",
       "traffic accident",
       "road safety",
       "transit collision",
@@ -7185,6 +7755,8 @@
   },
   "tunnel":{
     "alias":[
+      "2.1.0",
+      "secret tunnel",
       "underground passageway",
       "archway",
       "boring"
@@ -7194,6 +7766,7 @@
   },
   "u-turn-left":{
     "alias":[
+      "2.1.0",
       "turning radius",
       "U-turn",
       "U turn"
