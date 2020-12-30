@@ -2,6 +2,7 @@
   "cow":{
     "alias":[
       "2.1.0",
+      "Agriculture",
       "agricultural animal health debris",
       "animal",
       "livestock",
@@ -13,6 +14,7 @@
   "agriculture":{
     "alias":[
       "2.1.0",
+      "Agriculture",
       "wheat",
       "barley",
       "grains",
@@ -26,6 +28,7 @@
   "horse":{
     "alias":[
       "2.1.0",
+      "Agriculture",
       "animal feeding operation",
       "trough"
     ],
@@ -35,6 +38,7 @@
   "farming-structure":{
     "alias":[
       "2.1.0",
+      "Agriculture",
       "barn",
       "farming structure",
       "silo",
@@ -47,6 +51,7 @@
   "bleacher":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "sporting event",
       "sport event",
       "spectators",
@@ -59,6 +64,7 @@
   "water-fountain":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "water fountain",
       "drinking water"
     ],
@@ -68,6 +74,7 @@
   "fireworks":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "fireworks launch site",
       "fireworks show",
       "celebration"
@@ -78,6 +85,7 @@
   "first-aid":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "health kit",
       "first aid",
       "emergency",
@@ -91,6 +99,7 @@
   "food":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "food concessions",
       "food stand",
       "beverage",
@@ -108,6 +117,7 @@
   "pot":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "food preparation equipment",
       "cooking",
       "kitchen",
@@ -120,6 +130,7 @@
   "grandstand":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "sporting event",
       "sport event",
       "spectators",
@@ -132,6 +143,7 @@
   "guest-services":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "front desk",
       "guest services",
       "reception desk",
@@ -145,6 +157,7 @@
   "handicap-access":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "accessible",
       "accessibility",
       "disability",
@@ -158,6 +171,7 @@
   "jersey-barrier":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "Jersey wall",
       "Jersey barrier",
       "road block",
@@ -171,6 +185,7 @@
   "laser":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "stage",
       "performance",
       "lighting",
@@ -182,6 +197,7 @@
   "stage-lighting":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "stage lighting",
       "lighting truss",
       "performance",
@@ -194,6 +210,7 @@
   "lost-and-found":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "lost and found",
       "missing items"
     ],
@@ -203,6 +220,7 @@
   "stage":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "mobile stage",
       "performance",
       "concert",
@@ -219,6 +237,7 @@
   "mounted-horse":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "mounted horse",
       "horse riding",
       "horse rider",
@@ -234,6 +253,7 @@
   "sound":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "audio",
       "volume",
       "sound stage",
@@ -247,6 +267,7 @@
   "area":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "staging area",
       "stage area",
       "setup area"
@@ -257,6 +278,7 @@
   "strobe-light":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "police siren",
       "fire siren",
       "ambulance siren",
@@ -270,6 +292,7 @@
   "tent":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "festival tent",
       "circus",
       "outdoor event",
@@ -288,6 +311,7 @@
   "ticket":{
     "alias":[
       "2.1.0",
+      "Community Events",
       "ticket office",
       "arcade",
       "games",
@@ -302,6 +326,7 @@
   "lightning-strike":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "lightning strike",
       "act of God",
       "thunder",
@@ -313,6 +338,7 @@
   "entry-point-alternative":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "alternative entry point",
       "entrance",
       "alternative entrance",
@@ -324,6 +350,7 @@
   "ambulance":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "ambulance siren"
     ],
     "category":"Emergency Management",
@@ -332,6 +359,7 @@
   "animal-safety":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "animal health emergency response team",
       "animal protection",
       "veterinarian office",
@@ -346,6 +374,7 @@
   "refrigerator":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "appliances debris",
       "appliance"
     ],
@@ -355,6 +384,7 @@
   "avalanche":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "natural disaster",
       "hazard sign",
       "warning sign"
@@ -365,6 +395,7 @@
   "barricade":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "road closed",
       "road barrier",
       "construction zone",
@@ -378,6 +409,7 @@
   "call-dropped":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "call canceled",
       "call cancelled",
       "call disabled",
@@ -391,6 +423,7 @@
   "call-hung-up":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "call hung up",
       "call ended",
       "call completed"
@@ -401,6 +434,7 @@
   "clothes":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "clothing distribution",
       "shirt",
       "attire",
@@ -416,6 +450,7 @@
   "coast":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "coastal erosion",
       "coastal damage",
       "coast town",
@@ -427,6 +462,7 @@
   "damaged-dam":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "dam failure"
     ],
     "category":"Emergency Management",
@@ -435,6 +471,7 @@
   "damaged-electrical":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "damaged electrical",
       "damage assessment electric high damage"
     ],
@@ -444,6 +481,7 @@
   "damaged-building":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "damaged commercial building",
       "damaged office building",
       "damaged building",
@@ -460,6 +498,7 @@
   "damaged-house":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "damaged residential building",
       "damaged home",
       "damaged house",
@@ -477,6 +516,7 @@
   "debris":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "debris mixed"
     ],
     "category":"Emergency Management",
@@ -485,6 +525,7 @@
   "shelter":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "disaster recovery center",
       "homeless shelter",
       "quarantine",
@@ -496,6 +537,7 @@
   "earthquake":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "damaged house",
       "natural disaster"
     ],
@@ -505,6 +547,7 @@
   "electronics":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "electronics debris",
       "microwave",
       "appliance"
@@ -515,6 +558,7 @@
   "assistance":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "emergency assistance",
       "disaster relief",
       "helping hand",
@@ -526,6 +570,7 @@
   "medical":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "emergency medical services",
       "EMT",
       "emergency medical technician"
@@ -536,6 +581,7 @@
   "sign-arrow":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "event sign",
       "arrow sign",
       "directional sign"
@@ -546,6 +592,7 @@
   "cog":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "gear",
       "equipment failure",
       "failure of equipment",
@@ -558,6 +605,7 @@
   "call-false-alarm":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "call false alarm",
       "call incorrect",
       "call wrong number",
@@ -569,6 +617,7 @@
   "false-alarm":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "false alarm incident",
       "cancel response"
     ],
@@ -578,6 +627,7 @@
   "flooding":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "natural disaster",
       "damaged house"
     ],
@@ -587,6 +637,7 @@
   "food-storage":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "food storage",
       "grain storage",
       "grain silo",
@@ -600,6 +651,7 @@
   "hurricane":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "natural disaster",
       "tropical storm",
       "cyclone",
@@ -611,6 +663,7 @@
   "incident-command-post":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "incident command post"
     ],
     "category":"Emergency Management",
@@ -619,6 +672,7 @@
   "landslide":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "natural disaster",
       "hazard sign",
       "warning sign"
@@ -629,6 +683,7 @@
   "natural-disaster":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "natural disaster"
     ],
     "category":"Emergency Management",
@@ -637,6 +692,7 @@
   "personal-property":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "personal property debris"
     ],
     "category":"Emergency Management",
@@ -645,6 +701,7 @@
   "dog":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "pet collection area",
       "animal"
     ],
@@ -654,6 +711,7 @@
   "distribution":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "public assistance",
       "supply distribution",
       "supplies",
@@ -667,6 +725,7 @@
   "entry-point-primary":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "entry point primary",
       "primary exit",
       "primary entrance"
@@ -677,6 +736,7 @@
   "seaplane":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "seaplane base",
       "seaplane landing area",
       "seaplane storage",
@@ -688,6 +748,7 @@
   "safety-and-communication":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "search and rescue",
       "safety and communication",
       "construction",
@@ -700,6 +761,7 @@
   "debris-sediment":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "debris sediment",
       "sediment and mud debris"
     ],
@@ -709,6 +771,7 @@
   "shelter-closed":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "shelter closed"
     ],
     "category":"Emergency Management",
@@ -717,6 +780,7 @@
   "shelter-open":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "shelter open"
     ],
     "category":"Emergency Management",
@@ -725,6 +789,7 @@
   "stream-gauge":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "stream gauge",
       "water mark",
       "flooding measurement"
@@ -735,6 +800,7 @@
   "tornado":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "twister",
       "tornado",
       "natural disaster"
@@ -745,6 +811,7 @@
   "train-derailment":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "train derailment",
       "train accident",
       "metro accident",
@@ -756,6 +823,7 @@
   "tsunami":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "natural disaster"
     ],
     "category":"Emergency Management",
@@ -764,6 +832,7 @@
   "volcanic-eruption":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "volcanic eruption",
       "natural disaster",
       "volcano",
@@ -775,6 +844,7 @@
   "water-faucet":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "water distribution center",
       "water supply",
       "water faucet",
@@ -788,6 +858,7 @@
   "wildfire":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "wild fire",
       "natural disaster",
       "forest fire",
@@ -800,6 +871,7 @@
   "warehouse":{
     "alias":[
       "2.1.0",
+      "Emergency Management",
       "storage unit",
       "disposal transfer station",
       "storage facility",
@@ -809,97 +881,10 @@
     "category":"Emergency Management",
     "release":"2.1.0"
   },
-  "emoji-eyes-crossed":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Eyes Crossed",
-    "release":"2.1.0"
-  },
-  "emoji-eyes-hearts":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Eyes Hearts",
-    "release":"2.1.0"
-  },
-  "emoji-eyes-plain":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Eyes Plain",
-    "release":"2.1.0"
-  },
-  "emoji-eyes-stars":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Eyes Stars",
-    "release":"2.1.0"
-  },
-  "emoji-eyes-surprised":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Eyes Surprised",
-    "release":"2.1.0"
-  },
-  "emoji-hat-cowboy":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Hat Cowboy",
-    "release":"2.1.0"
-  },
-  "emoji-hat-police":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Hat Police",
-    "release":"2.1.0"
-  },
-  "emoji-apple":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Apple",
-    "release":"2.1.0"
-  },
-  "emoji-mouth-frown":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Mouth Frown",
-    "release":"2.1.0"
-  },
-  "emoji-mouth-plain":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Mouth Plain",
-    "release":"2.1.0"
-  },
-  "emoji-mouth-smiling":{
-    "alias":[
-      "2.1.0",
-      ""
-    ],
-    "category":"Emoji Mouth Smiling",
-    "release":"2.1.0"
-  },
   "ocean":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "water",
       "lake",
       "body of water",
@@ -916,6 +901,7 @@
   "coral":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "artificial reef site",
       "coral reef",
       "underwater",
@@ -928,6 +914,7 @@
   "plant":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "leaf",
       "botanical",
       "nature",
@@ -944,6 +931,7 @@
   "composter":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "waste management",
       "environmental",
       "green",
@@ -957,6 +945,7 @@
   "snowflake":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "cooling center",
       "cold",
       "freezing",
@@ -974,6 +963,7 @@
   "drought":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "famine",
       "dead plant"
     ],
@@ -983,6 +973,7 @@
   "extreme-heat":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "hot",
       "extreme heat",
       "high temperature",
@@ -998,6 +989,7 @@
   "fog":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "smog",
       "weather"
     ],
@@ -1007,6 +999,7 @@
   "dig":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "geological incident",
       "geologist",
       "hammer",
@@ -1021,6 +1014,7 @@
   "globe":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "planet Earth",
       "conservation",
       "environmentalism",
@@ -1035,6 +1029,7 @@
   "hail":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "sleet",
       "hailstorm",
       "severe weather"
@@ -1045,6 +1040,7 @@
   "hot-cold":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "hot cold",
       "cold hot",
       "temperature",
@@ -1060,6 +1056,7 @@
   "rain":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "downpour",
       "storm",
       "weather"
@@ -1070,6 +1067,7 @@
   "liquid":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "water",
       "chemicals",
       "corrosive",
@@ -1082,6 +1080,7 @@
   "mining":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "equipment",
       "shovel",
       "pickaxe",
@@ -1095,6 +1094,7 @@
   "mountain":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "land",
       "hiking",
       "nature",
@@ -1112,6 +1112,7 @@
   "thunderstorm":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "rain",
       "downpour",
       "lightning storm",
@@ -1124,6 +1125,7 @@
   "reeds":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "Typha",
       "water plants",
       "cattails",
@@ -1137,6 +1139,7 @@
   "sun":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "warming center",
       "summer",
       "hot",
@@ -1151,6 +1154,7 @@
   "wind":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "gust",
       "windstorm",
       "high winds",
@@ -1166,6 +1170,7 @@
   "pine-tree":{
     "alias":[
       "2.1.0",
+      "Environment And Natural Resources",
       "national forest",
       "national park",
       "state park",
@@ -1189,6 +1194,7 @@
   "fire":{
     "alias":[
       "2.1.0",
+      "Fire Service",
       "flames",
       "burning",
       "fire damage",
@@ -1201,6 +1207,7 @@
   "fire-extinguisher":{
     "alias":[
       "2.1.0",
+      "Fire Service",
       "fire safety",
       "fire extinguisher"
     ],
@@ -1210,6 +1217,7 @@
   "firefighter":{
     "alias":[
       "2.1.0",
+      "Fire Service",
       "fire fighter",
       "firefighter",
       "fire department",
@@ -1221,6 +1229,7 @@
   "fire-alarm":{
     "alias":[
       "2.1.0",
+      "Fire Service",
       "fire alarm",
       "fire safety survey",
       "fire prevention",
@@ -1235,6 +1244,7 @@
   "fire-station":{
     "alias":[
       "2.1.0",
+      "Fire Service",
       "fire department",
       "fire station",
       "fire shield",
@@ -1246,6 +1256,7 @@
   "fire-truck":{
     "alias":[
       "2.1.0",
+      "Fire Service",
       "fire truck",
       "fire siren",
       "emergency",
@@ -1260,6 +1271,7 @@
   "hydrant":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer",
       "fire hydrant"
     ],
@@ -1269,6 +1281,7 @@
   "pin-box":{
     "alias":[
       "2.1.0",
+      "Generic",
       "pin box",
       "box pin",
       "comment",
@@ -1280,6 +1293,7 @@
   "person":{
     "alias":[
       "2.1.0",
+      "Generic",
       "person",
       "customer",
       "user",
@@ -1291,6 +1305,7 @@
   "conversation":{
     "alias":[
       "2.1.0",
+      "Generic",
       "talking",
       "communication",
       "socializing",
@@ -1307,6 +1322,7 @@
   "thumb-down":{
     "alias":[
       "2.1.0",
+      "Generic",
       "dissatisfied customer",
       "thumb down",
       "thumbs down",
@@ -1325,6 +1341,7 @@
   "file-text":{
     "alias":[
       "2.1.0",
+      "Generic",
       "text",
       "file text",
       "paper",
@@ -1346,6 +1363,7 @@
   "file":{
     "alias":[
       "2.1.0",
+      "Generic",
       "file",
       "paper",
       "records",
@@ -1363,6 +1381,7 @@
   "envelope":{
     "alias":[
       "2.1.0",
+      "Generic",
       "email address",
       "envelope",
       "mail",
@@ -1380,6 +1399,7 @@
   "pin-esri-two":{
     "alias":[
       "2.1.0",
+      "Generic",
       "marker",
       "location"
     ],
@@ -1389,6 +1409,7 @@
   "pin-esri":{
     "alias":[
       "2.1.0",
+      "Generic",
       "marker",
       "location"
     ],
@@ -1398,6 +1419,7 @@
   "flag":{
     "alias":[
       "2.1.0",
+      "Generic",
       "marker",
       "high priority",
       "warning",
@@ -1410,6 +1432,7 @@
   "official-document":{
     "alias":[
       "2.1.0",
+      "Generic",
       "foreclosure",
       "lease",
       "official document",
@@ -1428,6 +1451,7 @@
   "people":{
     "alias":[
       "2.1.0",
+      "Generic",
       "people",
       "members",
       "users",
@@ -1445,6 +1469,7 @@
   "lock":{
     "alias":[
       "2.1.0",
+      "Generic",
       "no access",
       "permissions",
       "private",
@@ -1460,6 +1485,7 @@
   "warning":{
     "alias":[
       "2.1.0",
+      "Generic",
       "incident",
       "warning",
       "error",
@@ -1476,6 +1502,7 @@
   "information":{
     "alias":[
       "2.1.0",
+      "Generic",
       "details",
       "about",
       "read more",
@@ -1488,6 +1515,7 @@
   "information-two":{
     "alias":[
       "2.1.0",
+      "Generic",
       "details",
       "about",
       "read more",
@@ -1501,6 +1529,7 @@
   "id":{
     "alias":[
       "2.1.0",
+      "Generic",
       "driver license",
       "identification",
       "driver's license",
@@ -1517,6 +1546,7 @@
   "megaphone":{
     "alias":[
       "2.1.0",
+      "Generic",
       "megaphone",
       "propaganda",
       "activism",
@@ -1541,6 +1571,7 @@
   "lightbulb":{
     "alias":[
       "2.1.0",
+      "Generic",
       "participatory budgeting",
       "lighting",
       "energy",
@@ -1555,6 +1586,7 @@
   "phone":{
     "alias":[
       "2.1.0",
+      "Generic",
       "cell service",
       "phone call",
       "text message",
@@ -1569,6 +1601,7 @@
   "phone-number":{
     "alias":[
       "2.1.0",
+      "Generic",
       "phone call",
       "contact information",
       "dial",
@@ -1581,6 +1614,7 @@
   "box":{
     "alias":[
       "2.1.0",
+      "Generic",
       "package",
       "product",
       "delivery",
@@ -1600,6 +1634,7 @@
   "pushpin":{
     "alias":[
       "2.1.0",
+      "Generic",
       "marker",
       "location"
     ],
@@ -1609,6 +1644,7 @@
   "pushpin-two":{
     "alias":[
       "2.1.0",
+      "Generic",
       "marker",
       "location"
     ],
@@ -1618,6 +1654,7 @@
   "question":{
     "alias":[
       "2.1.0",
+      "Generic",
       "character",
       "inquiry",
       "answers",
@@ -1635,6 +1672,7 @@
   "question-two":{
     "alias":[
       "2.1.0",
+      "Generic",
       "character",
       "inquiry",
       "answers",
@@ -1652,6 +1690,7 @@
   "point-end":{
     "alias":[
       "2.1.0",
+      "Generic",
       "point end",
       "route end",
       "finish",
@@ -1667,6 +1706,7 @@
   "point-start":{
     "alias":[
       "2.1.0",
+      "Generic",
       "point start",
       "route start",
       "beginning",
@@ -1680,6 +1720,7 @@
   "exclamation-point":{
     "alias":[
       "2.1.0",
+      "Generic",
       "incident",
       "warning",
       "error",
@@ -1701,6 +1742,7 @@
   "social-media":{
     "alias":[
       "2.1.0",
+      "Generic",
       "hashtag",
       "social media",
       "chat",
@@ -1725,6 +1767,7 @@
   "exclamation-point-two":{
     "alias":[
       "2.1.0",
+      "Generic",
       "special incident",
       "warning",
       "error",
@@ -1746,6 +1789,7 @@
   "bell":{
     "alias":[
       "2.1.0",
+      "Generic",
       "notification",
       "alert",
       "warning",
@@ -1759,6 +1803,7 @@
   "pin-tear-two":{
     "alias":[
       "2.1.0",
+      "Generic",
       ""
     ],
     "category":"Generic",
@@ -1767,6 +1812,7 @@
   "pin-tear":{
     "alias":[
       "2.1.0",
+      "Generic",
       ""
     ],
     "category":"Generic",
@@ -1775,6 +1821,7 @@
   "magnifying-glass":{
     "alias":[
       "2.1.0",
+      "Generic",
       "magnifying glass",
       "investigate",
       "search",
@@ -1792,6 +1839,7 @@
   "video-camera":{
     "alias":[
       "2.1.0",
+      "Generic",
       "video camera",
       "video store",
       "media",
@@ -1810,6 +1858,7 @@
   "person-walking":{
     "alias":[
       "2.1.0",
+      "Generic",
       "suspicious activity",
       "pedestrian",
       "walking",
@@ -1825,6 +1874,7 @@
   "work-order":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "work order",
       "utility and pipeline"
     ],
@@ -1834,6 +1884,7 @@
   "wheelchair-assistance":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "adult care",
       "nursing home",
       "physical therapy",
@@ -1849,6 +1900,7 @@
   "aed":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "automated external defibrillator",
       "first aid",
       "emergency aid",
@@ -1861,6 +1913,7 @@
   "alternative-medicine":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "herbalism",
       "herbal medicine",
       "essential oils",
@@ -1880,6 +1933,7 @@
   "animal-treatment":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "animal disease outbreak",
       "veterinarian",
       "veterinary office",
@@ -1898,6 +1952,7 @@
   "baby":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "birth services",
       "nursery",
       "newborns",
@@ -1920,6 +1975,7 @@
   "cocaine":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -1932,6 +1988,7 @@
   "dangerous-substance":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "lethal drugs",
       "skull",
       "syringe",
@@ -1951,6 +2008,7 @@
   "overdose-death":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "overdose death",
       "drug related death",
       "poisoned",
@@ -1964,6 +2022,7 @@
   "death":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "skull and crossbones",
       "die",
       "dead",
@@ -1988,6 +2047,7 @@
   "designer-drug":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -1999,6 +2059,7 @@
   "kidneys":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "dialysis treatment",
       "medical treatment",
       "kidney replacement",
@@ -2012,6 +2073,7 @@
   "drug":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "pharmaceutical",
       "pharmacy",
       "pharmacist",
@@ -2034,6 +2096,7 @@
   "drug-seizure":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "law enforcement",
       "narcotics officers",
       "drug bust",
@@ -2049,6 +2112,7 @@
   "pill":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "pharmaceutical",
       "pharmacy",
       "pills",
@@ -2070,6 +2134,7 @@
   "drug-waste":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "pharmaceutical drug waste",
       "drug wastage",
       "dosage limit",
@@ -2082,6 +2147,7 @@
   "mushroom":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "hallucinogens",
       "mushrooms",
       "hallucinogenic",
@@ -2094,6 +2160,7 @@
   "health-and-human-services":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "healthcare",
       "hospital",
       "physical therapy",
@@ -2118,6 +2185,7 @@
   "health-alert":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "health problems",
       "health alert",
       "heart attack",
@@ -2139,6 +2207,7 @@
   "ear":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "hearing",
       "deaf assistance",
       "hearing aid",
@@ -2160,6 +2229,7 @@
   "syringe":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2183,6 +2253,7 @@
   "home-with-heart":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "in home care",
       "health care",
       "residential care",
@@ -2207,6 +2278,7 @@
   "home-support":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "housing assistance",
       "residential care",
       "community center",
@@ -2223,6 +2295,7 @@
   "medical-bed":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "medical bed",
       "hospice",
       "treatment",
@@ -2245,6 +2318,7 @@
   "hospital":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "clinic",
       "ICU",
       "emergency",
@@ -2266,6 +2340,7 @@
   "cannabis":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "cannabis",
       "marijuana",
       "weed",
@@ -2285,6 +2360,7 @@
   "plant-concentrates":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "cannabis concentrates",
       "tinctures",
       "marijuana concentrates",
@@ -2301,6 +2377,7 @@
   "medical-professional":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "medical professional",
       "nurse",
       "surgeon",
@@ -2324,6 +2401,7 @@
   "medical-helicopter":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "medivac site",
       "medevac site",
       "emergency rescue",
@@ -2338,6 +2416,7 @@
   "mental-health":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "psychologist",
       "psychiatrist",
       "mental health professional",
@@ -2358,6 +2437,7 @@
   "methamphetamine":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2371,6 +2451,7 @@
   "overdose-treatment":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "naloxone distribution",
       "naloxone treatment",
       "overdose treatment",
@@ -2385,6 +2466,7 @@
   "opiates":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2399,6 +2481,7 @@
   "patient":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "outpatient",
       "injury",
       "injured",
@@ -2414,6 +2497,7 @@
   "medicine":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "illicit drugs",
       "illegal drugs",
       "narcotics",
@@ -2442,6 +2526,7 @@
   "overdose":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "overdose drug",
       "narcotics",
       "dangerous substances",
@@ -2457,6 +2542,7 @@
   "skull":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "death",
       "disease",
       "pandemic",
@@ -2490,6 +2576,7 @@
   "emergency-medical-professional":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "paramedic",
       "emergency medical professional",
       "EMT",
@@ -2513,6 +2600,7 @@
   "pharmaceuticals":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "medical research",
       "pharmaceutical research",
       "medicine development",
@@ -2532,6 +2620,7 @@
   "prescription-drug-drop-off":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "prescription drug drop off",
       "drug delivery",
       "drug mail",
@@ -2543,6 +2632,7 @@
   "prescription":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "pharmaceutical",
       "pharmacy",
       "pharmacist",
@@ -2566,6 +2656,7 @@
   "steroids":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "pharmaceutical",
       "pharmacy",
       "prescription",
@@ -2584,6 +2675,7 @@
   "substance-abuse":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "substance abuse",
       "alcohol abuse",
       "alcohol addiction",
@@ -2596,6 +2688,7 @@
   "unknown-drug":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "unknown drug",
       "mystery drug",
       "missing drug"
@@ -2606,6 +2699,7 @@
   "mosquito":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "vector control problems",
       "malaria",
       "dengue fever",
@@ -2627,6 +2721,7 @@
   "care":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "emergency assistance",
       "disaster relief",
       "helping hand",
@@ -2648,6 +2743,7 @@
   "volunteer-service":{
     "alias":[
       "2.1.0",
+      "Health And Human Services",
       "volunteer service",
       "volunteers",
       "aid",
@@ -2664,6 +2760,7 @@
   "assault":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "aggravated assault",
       "attack",
       "punch",
@@ -2687,6 +2784,7 @@
   "handcuffs":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "crime",
       "arrest",
       "captured",
@@ -2702,6 +2800,7 @@
   "attack":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "battle map",
       "blast",
       "explosion",
@@ -2720,6 +2819,7 @@
   "burglary":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "broken window",
       "theft",
       "raid",
@@ -2736,6 +2836,7 @@
   "violence":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "civil disturbance",
       "civil disorder",
       "threat",
@@ -2748,6 +2849,7 @@
   "assault-with-firearm":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "aggravated assault",
       "attack",
       "punch",
@@ -2770,6 +2872,7 @@
   "homicide-with-firearm":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "murdered",
       "dead body",
       "criminal homicide",
@@ -2791,6 +2894,7 @@
   "rape-with-firearm":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "rape whistle",
       "protection",
       "sexual assault",
@@ -2817,6 +2921,7 @@
   "robbery-with-firearm":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "theft",
       "mask",
       "burglar",
@@ -2839,6 +2944,7 @@
   "offender":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "criminal",
       "thief",
       "robber",
@@ -2850,6 +2956,7 @@
   "homicide":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "murdered",
       "dead body",
       "criminal homicide",
@@ -2864,6 +2971,7 @@
   "technical-issue":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "cyber incident",
       "cyber-attack",
       "hacked device",
@@ -2889,6 +2997,7 @@
   "detained":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "convict",
       "prisoner",
       "suspect",
@@ -2903,6 +3012,7 @@
   "swerve":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "DUI",
       "driving under influence",
       "car",
@@ -2918,6 +3028,7 @@
   "arson":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "intentional",
       "wildfire origin",
       "matchstick",
@@ -2937,6 +3048,7 @@
   "knife":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "violence",
       "kitchen knife",
       "weapon",
@@ -2952,6 +3064,7 @@
   "larceny":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "pickpocket",
       "stealing",
       "theft",
@@ -2965,6 +3078,7 @@
   "police-badge":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "officer post",
       "police badge",
       "police precinct",
@@ -2980,6 +3094,7 @@
   "police-car":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "patrol car",
       "security car",
       "highway patrol",
@@ -2995,6 +3110,7 @@
   "police-officer":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "police officer",
       "sheriff",
       "deputy",
@@ -3008,6 +3124,7 @@
   "police-officer-two":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "police officer two",
       "sheriff",
       "deputy",
@@ -3021,11 +3138,11 @@
   "police-officer-three":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "traffic check point",
       "traffic checkpoint",
       "security checkpoint",
       "security guard",
-      "sheriff",
       "police officer three",
       "cops",
       "deputy",
@@ -3038,6 +3155,7 @@
   "shield":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "protection",
       "security",
       "firewall",
@@ -3051,6 +3169,7 @@
   "rape-whistle":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "rape whistle",
       "protection",
       "sexual assault",
@@ -3073,6 +3192,7 @@
   "recovered-vehicle":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "recovered vehicle",
       "recovered car",
       "stolen vehicle"
@@ -3083,6 +3203,7 @@
   "robbery":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "theft",
       "mask",
       "burglar",
@@ -3102,6 +3223,7 @@
   "sabotage":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "explosion",
       "explosive",
       "attack",
@@ -3117,6 +3239,7 @@
   "security-check":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "security checkpoint",
       "entrance control",
       "airport security",
@@ -3129,6 +3252,7 @@
   "shoplifting":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "pickpocket",
       "stealing",
       "theft",
@@ -3141,6 +3265,7 @@
   "gun":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "small arms fire",
       "pistol",
       "handgun",
@@ -3156,6 +3281,7 @@
   "smuggling":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "drugs",
       "drug trafficking",
       "suitcase",
@@ -3171,6 +3297,7 @@
   "crosshair":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "sniper",
       "assassination",
       "scope",
@@ -3193,6 +3320,7 @@
   "swat-team":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "police",
       "special task force",
       "special forces",
@@ -3207,6 +3335,7 @@
   "vehicle-theft":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "vehicle theft",
       "stolen vehicle",
       "grand theft auto",
@@ -3218,6 +3347,7 @@
   "spray-paint":{
     "alias":[
       "2.1.0",
+      "Law Enforcement",
       "tagging",
       "spray paint",
       "graffiti",
@@ -3230,6 +3360,7 @@
   "a":{
     "alias":[
       "2.1.0",
+      "Letters",
       "characters",
       "alphabet"
     ],
@@ -3239,6 +3370,7 @@
   "b":{
     "alias":[
       "2.1.0",
+      "Letters",
       "characters",
       "alphabet"
     ],
@@ -3248,6 +3380,7 @@
   "c":{
     "alias":[
       "2.1.0",
+      "Letters",
       "characters",
       "alphabet"
     ],
@@ -3257,6 +3390,7 @@
   "d":{
     "alias":[
       "2.1.0",
+      "Letters",
       "characters",
       "alphabet"
     ],
@@ -3266,6 +3400,7 @@
   "e":{
     "alias":[
       "2.1.0",
+      "Letters",
       "characters",
       "alphabet"
     ],
@@ -3275,6 +3410,7 @@
   "f":{
     "alias":[
       "2.1.0",
+      "Letters",
       "characters",
       "alphabet"
     ],
@@ -3284,6 +3420,7 @@
   "g":{
     "alias":[
       "2.1.0",
+      "Letters",
       "characters",
       "alphabet"
     ],
@@ -3293,6 +3430,7 @@
   "k":{
     "alias":[
       "2.1.0",
+      "Letters",
       "characters",
       "alphabet",
       "key terrain"
@@ -3303,6 +3441,7 @@
   "1":{
     "alias":[
       "2.1.0",
+      "Numbers",
       "team 1"
     ],
     "category":"Numbers",
@@ -3311,6 +3450,7 @@
   "2":{
     "alias":[
       "2.1.0",
+      "Numbers",
       "team 2"
     ],
     "category":"Numbers",
@@ -3319,6 +3459,7 @@
   "3":{
     "alias":[
       "2.1.0",
+      "Numbers",
       "team 3"
     ],
     "category":"Numbers",
@@ -3327,6 +3468,7 @@
   "4":{
     "alias":[
       "2.1.0",
+      "Numbers",
       "team 4"
     ],
     "category":"Numbers",
@@ -3335,6 +3477,7 @@
   "circle":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "point",
       "dot",
       "container"
@@ -3345,6 +3488,7 @@
   "diamond":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "point",
       "square diamond"
     ],
@@ -3354,6 +3498,7 @@
   "diamond-two":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "point",
       "oblong diamond"
     ],
@@ -3363,6 +3508,7 @@
   "hexagon":{
     "alias":[
       "2.1.0",
+      "Shapes",
       ""
     ],
     "category":"Shapes",
@@ -3371,6 +3517,7 @@
   "circle-ring-sections":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "near repeat incident",
       "crime analyst"
     ],
@@ -3380,6 +3527,7 @@
   "octagon":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "stop"
     ],
     "category":"Shapes",
@@ -3388,6 +3536,7 @@
   "circle-ring-hollow":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "originator incident",
       "crime analyst"
     ],
@@ -3397,6 +3546,7 @@
   "circle-ellipse":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "other incident",
       "crime analyst"
     ],
@@ -3406,6 +3556,7 @@
   "circle-ring":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "repeat incident",
       "crime analyst"
     ],
@@ -3415,6 +3566,7 @@
   "rounded-square":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "rounded square"
     ],
     "category":"Shapes",
@@ -3423,6 +3575,7 @@
   "square-small":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "square small"
     ],
     "category":"Shapes",
@@ -3431,6 +3584,7 @@
   "square":{
     "alias":[
       "2.1.0",
+      "Shapes",
       ""
     ],
     "category":"Shapes",
@@ -3439,6 +3593,7 @@
   "star":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "favorite",
       "rating",
       "rated",
@@ -3450,6 +3605,7 @@
   "triangle":{
     "alias":[
       "2.1.0",
+      "Shapes",
       "warning",
       "alert"
     ],
@@ -3459,6 +3615,7 @@
   "assassination":{
     "alias":[
       "2.1.0",
+      "National Security",
       "target",
       "crosshair",
       "person",
@@ -3480,6 +3637,7 @@
   "biohazard":{
     "alias":[
       "2.1.0",
+      "National Security",
       "biological attack",
       "virus",
       "pandemic",
@@ -3506,6 +3664,7 @@
   "bomb":{
     "alias":[
       "2.1.0",
+      "National Security",
       "bombing",
       "explosives",
       "attack",
@@ -3523,6 +3682,7 @@
   "chemical-weapons":{
     "alias":[
       "2.1.0",
+      "National Security",
       "chemical attack",
       "chemical weapons sign",
       "terrorism",
@@ -3538,6 +3698,7 @@
   "direct-fire":{
     "alias":[
       "2.1.0",
+      "National Security",
       "bullet",
       "direct fire",
       "missile",
@@ -3561,6 +3722,7 @@
   "explosive":{
     "alias":[
       "2.1.0",
+      "National Security",
       "bombing",
       "attack",
       "terrorism",
@@ -3580,6 +3742,7 @@
   "indirect-fire":{
     "alias":[
       "2.1.0",
+      "National Security",
       "bombing",
       "torpedo",
       "nuclear",
@@ -3599,6 +3762,7 @@
   "ip-address":{
     "alias":[
       "2.1.0",
+      "National Security",
       "device location",
       "internet access location",
       "VPN",
@@ -3614,6 +3778,7 @@
   "tech-support":{
     "alias":[
       "2.1.0",
+      "National Security",
       "IT facility",
       "tech support",
       "internet support",
@@ -3631,6 +3796,7 @@
   "person-waving":{
     "alias":[
       "2.1.0",
+      "National Security",
       "last known location",
       "person waving",
       "person gesturing",
@@ -3645,6 +3811,7 @@
   "nuclear":{
     "alias":[
       "2.1.0",
+      "National Security",
       "radiological",
       "radiology lab",
       "radioactive",
@@ -3671,6 +3838,7 @@
   "bomb-technician":{
     "alias":[
       "2.1.0",
+      "National Security",
       "explosive specialist",
       "suicide bomber",
       "bomb specialist",
@@ -3689,6 +3857,7 @@
   "explosion":{
     "alias":[
       "2.1.0",
+      "National Security",
       "unknown explosion",
       "blast",
       "attack",
@@ -3701,6 +3870,7 @@
   "suspect":{
     "alias":[
       "2.1.0",
+      "National Security",
       "watch list",
       "wanted poster",
       "wanted criminals",
@@ -3714,6 +3884,7 @@
   "battle-damage-assessment-point":{
     "alias":[
       "2.1.0",
+      "National Security",
       "battle damage assessment point",
       "ICAP"
     ],
@@ -3723,6 +3894,7 @@
   "blight":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "blight problems",
       "building",
       "damaged building",
@@ -3741,6 +3913,7 @@
   "boat-ramp":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "boat launch",
       "boat dock",
       "boat ramp"
@@ -3751,6 +3924,7 @@
   "bridge":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "infrastructure",
       "overpass"
     ],
@@ -3760,6 +3934,7 @@
   "chemicals":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "chemical plant",
       "pharmaceuticals",
       "research facility",
@@ -3777,6 +3952,7 @@
   "community-center":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "community center",
       "disaster recovery center",
       "homeless shelter",
@@ -3795,6 +3971,7 @@
   "detour":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "road closed",
       "road repair",
       "construction site",
@@ -3813,6 +3990,7 @@
   "hammer":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "tools",
       "construction",
       "repair",
@@ -3826,6 +4004,7 @@
   "buildings":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "corporate headquarters",
       "corporate complex",
       "workplace",
@@ -3853,6 +4032,7 @@
   "wheelchair-ramp":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "handicap ramps",
       "curb ramps",
       "wheelchair ramp",
@@ -3870,6 +4050,7 @@
   "dam":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "infrastructure",
       "water bank",
       "water reservoir",
@@ -3881,6 +4062,7 @@
   "event":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "calendar",
       "holiday events",
       "occasion",
@@ -3896,6 +4078,7 @@
   "street-lamp":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "gas lamp",
       "lighting",
       "light post",
@@ -3910,6 +4093,7 @@
   "gas-station":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "petrol station",
       "gas station",
       "gasoline",
@@ -3928,6 +4112,7 @@
   "gateway":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "entry",
       "entrance",
       "exit",
@@ -3948,6 +4133,7 @@
   "key-access":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "key access",
       "entry",
       "entrance",
@@ -3967,6 +4153,7 @@
   "key-no-access":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "key no access",
       "key access",
       "no entry",
@@ -3987,6 +4174,7 @@
   "for-sale":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "real estate",
       "house for sale",
       "property for sale",
@@ -4004,6 +4192,7 @@
   "permit":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "individual permit",
       "certificate",
       "contract",
@@ -4024,6 +4213,7 @@
   "infestation":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "infestation incident",
       "bugs",
       "ants",
@@ -4043,6 +4233,7 @@
   "neighborhood":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "land use problem",
       "land use violation",
       "property violation",
@@ -4059,6 +4250,7 @@
   "dump-truck":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "garbage truck",
       "garbage dump",
       "dumping ground",
@@ -4076,6 +4268,7 @@
   "mortgage":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "property taxes",
       "mortgage check",
       "rent check",
@@ -4094,6 +4287,7 @@
   "treatment-exemptions":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "mosquito treatment exemptions",
       "pesticide exemptions",
       "insecticide exemptions",
@@ -4107,6 +4301,7 @@
   "building":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "workplace",
       "business",
       "office building",
@@ -4125,6 +4320,7 @@
   "park-tree-problem":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "park tree problem",
       "park foliage problem"
     ],
@@ -4134,6 +4330,7 @@
   "city-planning":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "planning limits",
       "city planning",
       "city design",
@@ -4152,6 +4349,7 @@
   "polling-place":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "polls",
       "voting place",
       "voting center",
@@ -4174,6 +4372,7 @@
   "recycling":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "recycling facilities",
       "recycling center",
       "sustainability",
@@ -4192,6 +4391,7 @@
   "road-problems":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "pothole",
       "road problems",
       "road erosion",
@@ -4209,6 +4409,7 @@
   "service-request":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "service request",
       "repair",
       "service ticket",
@@ -4227,6 +4428,7 @@
   "signpost":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "signs",
       "sign post",
       "street signs",
@@ -4242,6 +4444,7 @@
   "plow":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "de-icing road",
       "salting road",
       "snowplow",
@@ -4261,6 +4464,7 @@
   "government-permit":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "state operating permit",
       "state authorization",
       "official documentation",
@@ -4280,6 +4484,7 @@
   "stormwater":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "stormwater multisector permit",
       "stormwater pipe",
       "drainage pipe",
@@ -4298,6 +4503,7 @@
   "bench":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "street bench",
       "park",
       "street furniture",
@@ -4313,6 +4519,7 @@
   "tree":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "street trees",
       "greenery",
       "foliage",
@@ -4330,6 +4537,7 @@
   "streetlight":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "electricity",
       "street lamp",
       "street lighting",
@@ -4342,6 +4550,7 @@
   "property-value":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "tax parcel appeal",
       "property value",
       "house value",
@@ -4370,6 +4579,7 @@
   "telecom":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "telecommunications tower",
       "cell tower",
       "telecom tower",
@@ -4393,6 +4603,7 @@
   "dumpster":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "trash dumpster",
       "waste management",
       "garbage",
@@ -4407,6 +4618,7 @@
   "litter":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "trash problem submitted",
       "garbage can",
       "trash can",
@@ -4424,6 +4636,7 @@
   "trash":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "trash receptacle",
       "rubbish",
       "garbage",
@@ -4441,6 +4654,7 @@
   "vacant-lot":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "vacant land site",
       "vacant lot",
       "undeveloped land",
@@ -4453,6 +4667,7 @@
   "clipboard":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "parking ticket",
       "inspection note",
       "review",
@@ -4471,6 +4686,7 @@
   "water-recycling":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "water recycling",
       "water reclamation",
       "water treatment plant",
@@ -4491,6 +4707,7 @@
   "water-source":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "water quality advisory",
       "water source",
       "reservoir",
@@ -4510,6 +4727,7 @@
   "weeds":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "weed observations",
       "dandelion",
       "plant",
@@ -4528,6 +4746,7 @@
   "wire-down":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "wire down",
       "power line down",
       "electrical hazard",
@@ -4546,6 +4765,7 @@
   "work-zone":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "road repair",
       "construction site",
       "roadworks",
@@ -4562,6 +4782,7 @@
   "house":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "home",
       "residential zoning",
       "address",
@@ -4573,6 +4794,7 @@
   "pesticide-discharge":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "pesticide discharge"
     ],
     "category":"Planning And Development",
@@ -4581,6 +4803,7 @@
   "ready-mix-concrete-facilities":{
     "alias":[
       "2.1.0",
+      "Planning And Development",
       "ready mix concrete facilities"
     ],
     "category":"Planning And Development",
@@ -4589,6 +4812,7 @@
   "breakfast":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4611,6 +4835,7 @@
   "chinese":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4630,6 +4855,7 @@
   "cocktail":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cocktail bar",
       "mixed drinks",
       "alcohol",
@@ -4653,6 +4879,7 @@
   "coffee":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "coffee shop",
       "coffeehouse",
       "coffee house",
@@ -4670,6 +4897,7 @@
   "hamburger":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4693,6 +4921,7 @@
   "indian":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4711,6 +4940,7 @@
   "italian":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4731,6 +4961,7 @@
   "mediterranean":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4749,6 +4980,7 @@
   "mexican":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4768,6 +5000,7 @@
   "pizza":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4786,6 +5019,7 @@
   "beer":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4811,6 +5045,7 @@
   "restaurant":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4829,6 +5064,7 @@
   "steak":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4855,6 +5091,7 @@
   "sushi":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4874,6 +5111,7 @@
   "thai":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4892,6 +5130,7 @@
   "bottle":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "cooking",
       "cuisine",
       "eatery",
@@ -4931,6 +5170,7 @@
   "grapes":{
     "alias":[
       "2.1.0",
+      "Restaurant",
       "drinkery",
       "cooking",
       "cuisine",
@@ -4958,6 +5198,7 @@
   "accessibility":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "accessibility disability",
       "wheelchair",
       "person with disability",
@@ -4970,6 +5211,7 @@
   "aerial-tram":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "aerial tram",
       "cable car",
       "ski lift",
@@ -4984,6 +5226,7 @@
   "ferris-wheel":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "amusement park",
       "Ferris wheel",
       "carnival",
@@ -5002,6 +5245,7 @@
   "credit-card":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "ATM",
       "credit card",
       "purchase",
@@ -5033,6 +5277,7 @@
   "cash":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "ATM",
       "purchase",
       "cash machine",
@@ -5068,6 +5313,7 @@
   "bank-account":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "bank account",
       "brick and mortar bank",
       "finances",
@@ -5092,6 +5338,7 @@
   "beach":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "ocean",
       "recreation",
       "water",
@@ -5110,6 +5357,7 @@
   "bike-parking":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "bicycle parking",
       "bike parking",
       "bike station",
@@ -5124,6 +5372,7 @@
   "bike-sharing":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "tourism",
       "transportation",
       "rent bike",
@@ -5137,6 +5386,7 @@
   "border-crossing":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "border crossing",
       "border checkpoint",
       "border security",
@@ -5151,6 +5401,7 @@
   "campground":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "camping tent",
       "outdoor recreation",
       "backpacking campsite",
@@ -5165,6 +5416,7 @@
   "car-rental":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "car rental",
       "vehicle",
       "transportation",
@@ -5181,6 +5433,7 @@
   "dice":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "dice",
       "gambling",
       "board games",
@@ -5196,6 +5449,7 @@
   "tombstone":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "tombstone",
       "cemetery",
       "graveyard",
@@ -5212,6 +5466,7 @@
   "government-building":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "city hall",
       "government building",
       "state government",
@@ -5230,6 +5485,7 @@
   "courthouse":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "hearing",
       "judges",
       "courtroom",
@@ -5248,6 +5504,7 @@
   "embassy":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "embassy building",
       "consular services",
       "diplomacy",
@@ -5262,6 +5519,7 @@
   "golf-course":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "golf course",
       "golfing course",
       "golf club",
@@ -5279,6 +5537,7 @@
   "shopping-cart":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "shopping cart",
       "grocery store",
       "shop",
@@ -5293,6 +5552,7 @@
   "hotel":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "motel",
       "inn",
       "hostel",
@@ -5317,6 +5577,7 @@
   "factory":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "industrial complex",
       "industrial zoning",
       "industry",
@@ -5333,6 +5594,7 @@
   "camera":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "landmark",
       "photography",
       "photoshoot",
@@ -5356,6 +5618,7 @@
   "book":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "library",
       "bookstore",
       "reading",
@@ -5377,6 +5640,7 @@
   "microphone":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "music",
       "concert",
       "live music venue",
@@ -5402,6 +5666,7 @@
   "shopping":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "shopping mall",
       "retail",
       "commercial zoning",
@@ -5430,6 +5695,7 @@
   "anchor":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "ship anchor",
       "port",
       "marina",
@@ -5461,6 +5727,7 @@
   "camp":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "military base",
       "military camp",
       "outpost",
@@ -5474,6 +5741,7 @@
   "monument":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "archaeology",
       "ruins",
       "archives",
@@ -5492,6 +5760,7 @@
   "indigenous":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "native reservation",
       "first people",
       "first nations",
@@ -5519,6 +5788,7 @@
   "parking":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "parking garage",
       "parking lot",
       "car port",
@@ -5530,6 +5800,7 @@
   "pay-station":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "drive through",
       "drive thru",
       "drive-through",
@@ -5549,6 +5820,7 @@
   "place-of-worship":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "mosque",
       "cathedral",
       "church",
@@ -5579,6 +5851,7 @@
   "playground":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "kids park",
       "seesaw",
       "play structure",
@@ -5595,6 +5868,7 @@
   "restroom":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "public restroom",
       "toilet",
       "washroom",
@@ -5608,6 +5882,7 @@
   "gender-neutral-restroom":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "public restroom",
       "toilet",
       "washroom",
@@ -5622,6 +5897,7 @@
   "washroom":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "public restroom",
       "toilet",
       "washroom",
@@ -5635,6 +5911,7 @@
   "toilet":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "public restroom",
       "toilet",
       "washroom",
@@ -5648,6 +5925,7 @@
   "school":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "elementary school",
       "high school",
       "middle school",
@@ -5667,6 +5945,7 @@
   "arena":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "sports complex",
       "Colosseum",
       "stadium",
@@ -5699,6 +5978,7 @@
   "theater":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "theater",
       "theatre",
       "drama",
@@ -5728,6 +6008,7 @@
   "trail":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "person walking",
       "trailhead",
       "hiking trail",
@@ -5755,6 +6036,7 @@
   "graduation-cap":{
     "alias":[
       "2.1.0",
+      "Points Of Interest",
       "university",
       "graduation cap",
       "education",
@@ -5799,6 +6081,7 @@
   "elephant":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5824,6 +6107,7 @@
   "rhino":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5847,6 +6131,7 @@
   "frog":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5867,6 +6152,7 @@
   "pawprint":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5887,6 +6173,7 @@
   "fish":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "tropical fish",
       "angelfish",
@@ -5910,6 +6197,7 @@
   "bird":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "animals",
       "bird observations",
@@ -5929,6 +6217,7 @@
   "fishing":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "fishery",
       "fishing site",
@@ -5960,6 +6249,7 @@
   "bear":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "nature reserve",
       "wildlife sanctuary",
@@ -5985,6 +6275,7 @@
   "turtle":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "wildlife sanctuary",
       "nature reserve",
@@ -5998,6 +6289,7 @@
   "deer":{
     "alias":[
       "2.1.0",
+      "Wildlife",
       "habitat",
       "wildlife sanctuary",
       "nature reserve",
@@ -6022,6 +6314,7 @@
   "access-valve":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer",
       "access valve"
     ],
@@ -6031,6 +6324,7 @@
   "anomaly":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6039,6 +6333,7 @@
   "arrester":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6047,6 +6342,7 @@
   "arrester-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical",
       "arrester bank"
     ],
@@ -6056,6 +6352,7 @@
   "backflow":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer"
     ],
     "category":"Public Works",
@@ -6064,6 +6361,7 @@
   "breaker":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6072,6 +6370,7 @@
   "breaker-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical",
       "breaker bank"
     ],
@@ -6081,6 +6380,7 @@
   "cabinet":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6089,6 +6389,7 @@
   "calibration-point":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "calibration point"
     ],
@@ -6098,6 +6399,7 @@
   "capacitor":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6106,6 +6408,7 @@
   "capacitor-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical",
       "capacitor bank"
     ],
@@ -6115,6 +6418,7 @@
   "catch-basins":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer",
       "catch basins"
     ],
@@ -6124,6 +6428,7 @@
   "circuit-breaker":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical",
       "circuit breaker"
     ],
@@ -6133,6 +6438,7 @@
   "circuit-breaker-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical",
       "circuit breaker bank"
     ],
@@ -6142,6 +6448,7 @@
   "clean-out":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer",
       "clean out"
     ],
@@ -6151,6 +6458,7 @@
   "coating":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6159,6 +6467,7 @@
   "compressor":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6167,6 +6476,7 @@
   "compressor-station":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "compressor station"
     ],
@@ -6176,6 +6486,7 @@
   "connection-point":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "dot",
       "electrical",
       "connection point"
@@ -6186,6 +6497,7 @@
   "connection-point-two":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "dot",
       "electrical",
       "connection point two"
@@ -6196,6 +6508,7 @@
   "controllable-fitting-3-way-tee":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "controllable fitting 3 way tee",
       "utility and pipeline"
     ],
@@ -6205,6 +6518,7 @@
   "controllable-fitting-short-stop":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "controllable fitting short stop"
     ],
@@ -6214,6 +6528,7 @@
   "cooling-system":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "cooling system",
       "utility and pipeline"
     ],
@@ -6223,6 +6538,7 @@
   "cp-anode":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "CP anode"
     ],
@@ -6232,6 +6548,7 @@
   "cp-bond-junction":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "CP bond junction"
     ],
@@ -6241,6 +6558,7 @@
   "cp-rectifier":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "CP rectifier"
     ],
@@ -6250,6 +6568,7 @@
   "cp-test-point":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "CP test point"
     ],
@@ -6259,6 +6578,7 @@
   "custody-transfer-to-distribution-meter":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "custody transfer to distribution meter"
     ],
@@ -6268,6 +6588,7 @@
   "custody-transfer-to-gathering-meter":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "custody transfer to gathering meter"
     ],
@@ -6277,6 +6598,7 @@
   "custody-transfer-to-transmission-meter":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "custody transfer to transmission meter"
     ],
@@ -6286,6 +6608,7 @@
   "customer-meter":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "customer meter"
     ],
@@ -6295,6 +6618,7 @@
   "da-survey-readings":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "DA survey readings"
     ],
@@ -6304,6 +6628,7 @@
   "dehydration-equipment":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline",
       "dehydration equipment"
     ],
@@ -6313,6 +6638,7 @@
   "traffic-cone":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "department of public works",
       "traffic cone",
       "working area",
@@ -6325,6 +6651,7 @@
   "discharge-point":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer",
       "discharge point",
       "municipal stormwater discharge"
@@ -6335,6 +6662,7 @@
   "drip":{
     "alias":[
       "2.1.0",
+      "Public Works",
       ""
     ],
     "category":"Public Works",
@@ -6343,6 +6671,7 @@
   "droplet":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6351,6 +6680,7 @@
   "elbow":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6359,6 +6689,7 @@
   "electro-stop":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electro stop",
       "utility and pipeline"
     ],
@@ -6368,6 +6699,7 @@
   "excess-flow-valve":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "excess flow valve",
       "utility and pipeline"
     ],
@@ -6377,6 +6709,7 @@
   "flow-device":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "flow device",
       "water and sewer"
     ],
@@ -6386,6 +6719,7 @@
   "flow-meter":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "flow meter",
       "water and sewer"
     ],
@@ -6395,6 +6729,7 @@
   "flow-valve":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "flow valve",
       "water and sewer"
     ],
@@ -6404,6 +6739,7 @@
   "fuse":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6412,6 +6748,7 @@
   "fuse-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "fuse bank",
       "electrical"
     ],
@@ -6421,6 +6758,7 @@
   "gas-leak-inspection":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "gas leak inspection",
       "utility and pipeline"
     ],
@@ -6430,6 +6768,7 @@
   "gate-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "gate bank",
       "water and sewer"
     ],
@@ -6439,6 +6778,7 @@
   "gate":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer"
     ],
     "category":"Public Works",
@@ -6447,6 +6787,7 @@
   "generation":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6455,6 +6796,7 @@
   "generator":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6463,6 +6805,7 @@
   "ground":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6471,6 +6814,7 @@
   "guy":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6479,6 +6823,7 @@
   "handhole":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6487,6 +6832,7 @@
   "hazardous":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "hazard sign"
     ],
     "category":"Public Works",
@@ -6495,6 +6841,7 @@
   "hazardous-waste":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "hazardous waste",
       "hazard sign"
     ],
@@ -6504,6 +6851,7 @@
   "transmission-power":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "high voltage transmission lines",
       "electrical",
       "power lines",
@@ -6519,6 +6867,7 @@
   "identified-issue-corrosion":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "identified issue corrosion",
       "utility and pipeline"
     ],
@@ -6528,6 +6877,7 @@
   "identified-issue-damaged-meter":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "identified issue damaged meter",
       "utility and pipeline"
     ],
@@ -6537,6 +6887,7 @@
   "identified-issue-odor":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "identified issue odor",
       "utility and pipeline"
     ],
@@ -6546,6 +6897,7 @@
   "ili-ground-ref-marker":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "ILI ground ref markers",
       "utility and pipeline"
     ],
@@ -6555,6 +6907,7 @@
   "ili-survey-reading":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "ILI survey readings",
       "utility and pipeline"
     ],
@@ -6564,6 +6917,7 @@
   "inter-basin-water-transfer":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "inter basin water transfer",
       "water and sewer"
     ],
@@ -6573,6 +6927,7 @@
   "inverter":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6581,6 +6936,7 @@
   "joint":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6589,6 +6945,7 @@
   "junction-box":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "junction box",
       "electrical"
     ],
@@ -6598,6 +6955,7 @@
   "leak-severity-critical":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "leak severity critical",
       "utility and pipeline"
     ],
@@ -6607,6 +6965,7 @@
   "levee-failure":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "levee failure",
       "utility and pipeline"
     ],
@@ -6616,6 +6975,7 @@
   "line-end":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "line end",
       "electrical"
     ],
@@ -6625,6 +6985,7 @@
   "line-heater":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "line heater",
       "utility and pipeline"
     ],
@@ -6634,6 +6995,7 @@
   "line-monitor":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "line monitor",
       "electrical"
     ],
@@ -6643,6 +7005,7 @@
   "manhole":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical",
       "water and sewer"
     ],
@@ -6652,6 +7015,7 @@
   "meter-setting":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "meter setting",
       "utility and pipeline"
     ],
@@ -6661,6 +7025,7 @@
   "network-protector":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "network protector",
       "electrical"
     ],
@@ -6670,6 +7035,7 @@
   "non-controllable-fitting-coupling":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting coupling",
       "utility and pipeline"
     ],
@@ -6679,6 +7045,7 @@
   "non-controllable-fitting-elbow":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting elbow",
       "utility and pipeline"
     ],
@@ -6688,6 +7055,7 @@
   "non-controllable-fitting-end-cap":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting end cap",
       "utility and pipeline"
     ],
@@ -6697,6 +7065,7 @@
   "non-controllable-fitting-expansion-joint":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting expansion joint",
       "utility and pipeline"
     ],
@@ -6706,6 +7075,7 @@
   "non-controllable-fitting-flange":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting flange",
       "utility and pipeline"
     ],
@@ -6715,6 +7085,7 @@
   "non-controllable-fitting-reducer":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting reducer",
       "utility and pipeline"
     ],
@@ -6724,6 +7095,7 @@
   "non-controllable-fitting-screw":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting screw",
       "utility and pipeline"
     ],
@@ -6733,6 +7105,7 @@
   "non-controllable-fitting-tee":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting tee",
       "utility and pipeline"
     ],
@@ -6742,6 +7115,7 @@
   "non-controllable-fitting-transition":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting transition",
       "utility and pipeline"
     ],
@@ -6751,6 +7125,7 @@
   "non-controllable-fitting-weld":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "non controllable fitting weld",
       "utility and pipeline"
     ],
@@ -6760,6 +7135,7 @@
   "odorizer":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6768,6 +7144,7 @@
   "one-call-ticket":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "one call ticket",
       "utility and pipeline",
       "811 call",
@@ -6779,6 +7156,7 @@
   "pedestal":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6787,6 +7165,7 @@
   "pipe-job-separator":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "pipe job separator",
       "utility and pipeline"
     ],
@@ -6796,6 +7175,7 @@
   "pipe-marker":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "pipe marker",
       "utility and pipeline"
     ],
@@ -6805,6 +7185,7 @@
   "plastic-fusion":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "plastic fusion",
       "utility and pipeline"
     ],
@@ -6814,6 +7195,7 @@
   "platform":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical",
       "utility pole",
       "electrical pole"
@@ -6824,6 +7206,7 @@
   "pole":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical",
       "utility pole",
       "electrical pole"
@@ -6834,6 +7217,7 @@
   "power-distribution":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "power distribution",
       "electrical"
     ],
@@ -6843,6 +7227,7 @@
   "power-failure":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "power failure",
       "electrical"
     ],
@@ -6852,6 +7237,7 @@
   "power-plant":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "power plant",
       "electrical",
       "building"
@@ -6862,6 +7248,7 @@
   "power-substation":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "power substation",
       "electrical"
     ],
@@ -6871,6 +7258,7 @@
   "pressure-monitoring-device":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "pressure monitoring device",
       "utility and pipeline"
     ],
@@ -6880,6 +7268,7 @@
   "pressure-regulating-valve":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "pressure regulating valve",
       "utility and pipeline"
     ],
@@ -6889,6 +7278,7 @@
   "pressure-sensor":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "pressure sensor",
       "water and sewer"
     ],
@@ -6898,6 +7288,7 @@
   "pressure-valve":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "pressure valve",
       "water and sewer"
     ],
@@ -6907,6 +7298,7 @@
   "pump":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer"
     ],
     "category":"Public Works",
@@ -6915,6 +7307,7 @@
   "pump-station-utility-and-pipeline":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "pump station utility and pipeline"
     ],
     "category":"Public Works",
@@ -6923,6 +7316,7 @@
   "pump-station-water-and-sewer":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "pump station water and sewer"
     ],
     "category":"Public Works",
@@ -6931,6 +7325,7 @@
   "reactor":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6939,6 +7334,7 @@
   "recloser":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6947,6 +7343,7 @@
   "recloser-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "recloser bank",
       "electrical"
     ],
@@ -6956,6 +7353,7 @@
   "regulation-station":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "regulation station",
       "utility and pipeline"
     ],
@@ -6965,6 +7363,7 @@
   "regulator":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6973,6 +7372,7 @@
   "relief-valve":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "relief valve",
       "electrical"
     ],
@@ -6982,6 +7382,7 @@
   "riser":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -6990,6 +7391,7 @@
   "scrubber":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -6998,6 +7400,7 @@
   "sectionalizer":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -7006,6 +7409,7 @@
   "sectionalizer-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "sectionalizer bank",
       "electrical"
     ],
@@ -7015,6 +7419,7 @@
   "service-connection":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "service connection",
       "water and sewer"
     ],
@@ -7024,6 +7429,7 @@
   "service-point":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "service point",
       "electrical"
     ],
@@ -7033,6 +7439,7 @@
   "service-tee":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "service tee",
       "utility and pipeline"
     ],
@@ -7042,6 +7449,7 @@
   "shutoff-valve":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "shutoff valve",
       "water and sewer"
     ],
@@ -7051,6 +7459,7 @@
   "smart-pig-launcher":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "smart pig launcher",
       "utility and pipeline"
     ],
@@ -7060,6 +7469,7 @@
   "smart-pig-receiver":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "smart pig receiver",
       "utility and pipeline"
     ],
@@ -7069,6 +7479,7 @@
   "splice":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -7077,6 +7488,7 @@
   "squeeze-off":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "squeeze off",
       "utility and pipeline"
     ],
@@ -7086,6 +7498,7 @@
   "storage-electrical":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "storage electrical",
       "battery"
     ],
@@ -7095,6 +7508,7 @@
   "storage-water-and-sewer":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "storage water and sewer"
     ],
     "category":"Public Works",
@@ -7103,6 +7517,7 @@
   "strainer":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -7111,6 +7526,7 @@
   "streetlight-electrical":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "streetlight electrical",
       "street light"
     ],
@@ -7120,6 +7536,7 @@
   "substation":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -7128,6 +7545,7 @@
   "switch":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -7136,6 +7554,7 @@
   "switch-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "switch bank",
       "electrical"
     ],
@@ -7145,6 +7564,7 @@
   "switch-gear":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "switch gear",
       "electrical"
     ],
@@ -7154,6 +7574,7 @@
   "tank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -7162,6 +7583,7 @@
   "temp-source-location-compressor-station":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "temp source location compressor station",
       "utility and pipeline"
     ],
@@ -7171,6 +7593,7 @@
   "temp-source-location-meter-setting":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "temp source location meter setting",
       "utility and pipeline"
     ],
@@ -7180,6 +7603,7 @@
   "temp-source-location-regulator-station":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "temp source location regulator station",
       "utility and pipeline"
     ],
@@ -7189,6 +7613,7 @@
   "temp-source-location-rural-tap":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "temp source location rural tap",
       "utility and pipeline"
     ],
@@ -7198,6 +7623,7 @@
   "temp-source-location-town-border-station":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "temp source location town border station",
       "utility and pipeline"
     ],
@@ -7207,6 +7633,7 @@
   "temp-source-location-wellhead":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "temp source location wellhead",
       "utility and pipeline"
     ],
@@ -7216,6 +7643,7 @@
   "temperature-sensor":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "temperature sensor",
       "water and sewer"
     ],
@@ -7225,6 +7653,7 @@
   "tower":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -7233,6 +7662,7 @@
   "town-border-station":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "town border station",
       "utility and pipeline"
     ],
@@ -7242,6 +7672,7 @@
   "transformer":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -7250,6 +7681,7 @@
   "transformer-bank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "transformer bank",
       "electrical"
     ],
@@ -7259,6 +7691,7 @@
   "underground-storage-tank":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "underground storage tank",
       "utility and pipeline",
       "planning and development"
@@ -7269,6 +7702,7 @@
   "utility-meter":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility meter",
       "utility and pipeline"
     ],
@@ -7278,6 +7712,7 @@
   "water":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility problem submitted",
       "water and sewer",
       "water problem",
@@ -7297,6 +7732,7 @@
   "vacuum-station":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "vacuum station",
       "water and sewer"
     ],
@@ -7306,6 +7742,7 @@
   "valve-closed":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "valve closed",
       "water and sewer"
     ],
@@ -7315,6 +7752,7 @@
   "valve-inspection":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "valve inspection",
       "utility and pipeline"
     ],
@@ -7324,6 +7762,7 @@
   "valve-open":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "valve open",
       "utility and pipeline"
     ],
@@ -7333,6 +7772,7 @@
   "vault":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "electrical"
     ],
     "category":"Public Works",
@@ -7341,6 +7781,7 @@
   "vent":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "water and sewer"
     ],
     "category":"Public Works",
@@ -7349,6 +7790,7 @@
   "voltage-regulator":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "voltage regulator",
       "electrical"
     ],
@@ -7358,6 +7800,7 @@
   "wellhead":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
@@ -7366,6 +7809,7 @@
   "wellhead-source-flange":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "wellhead source flange",
       "utility and pipeline"
     ],
@@ -7375,6 +7819,7 @@
   "width-and-height":{
     "alias":[
       "2.1.0",
+      "Public Works",
       "width and height restrictions"
     ],
     "category":"Public Works",
@@ -7383,6 +7828,7 @@
   "airplane":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "airport terminal",
       "aeronautical",
       "departures",
@@ -7404,6 +7850,7 @@
   "cyclist":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "bicycle",
       "bicyclist",
       "travel",
@@ -7430,6 +7877,7 @@
   "bus":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "bus station",
       "public transportation",
       "bus line",
@@ -7447,6 +7895,7 @@
   "divided-highway":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "divided highway",
       "divider"
     ],
@@ -7456,6 +7905,7 @@
   "divided-highway-end":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "divided highway ends",
       "divider"
     ],
@@ -7465,6 +7915,7 @@
   "ship":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "boat",
       "shipyard",
       "ferry",
@@ -7490,6 +7941,7 @@
   "height":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "height clearance",
       "vertical clearance",
       "elevation",
@@ -7505,6 +7957,7 @@
   "railroad":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "railroad tracks",
       "train tracks",
       "train route",
@@ -7516,6 +7969,7 @@
   "major-road":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "freeway",
       "expressway",
       "interstate",
@@ -7530,6 +7984,7 @@
   "metro-station":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "public transportation",
       "metro station",
       "commuter train",
@@ -7553,6 +8008,7 @@
   "car":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "motor vehicle theft",
       "rideshare",
       "taxi",
@@ -7578,6 +8034,7 @@
   "narrow-road":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "narrow road"
     ],
     "category":"Transportation",
@@ -7586,6 +8043,7 @@
   "overhead-hazard":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "overhead hazard",
       "height clearance",
       "vertical clearance",
@@ -7598,6 +8056,7 @@
   "port":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "shipyard",
       "international trade",
       "shipping",
@@ -7615,6 +8074,7 @@
   "rail-depot":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "rail depot",
       "train station",
       "public transportation",
@@ -7629,6 +8089,7 @@
   "railroad-crossings":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "railroad crossings",
       "railroad tracks",
       "train crossing",
@@ -7640,6 +8101,7 @@
   "railroad-sign":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "railroad inspections",
       "railway",
       "railroad tracks",
@@ -7653,6 +8115,7 @@
   "traffic-signal":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "traffic signal",
       "traffic light",
       "green light",
@@ -7668,6 +8131,7 @@
   "traffic-signal-cabinet":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "traffic signal cabinet",
       "road signal cabinet"
     ],
@@ -7677,6 +8141,7 @@
   "speedbump":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "traffic calming",
       "speed bump",
       "speed hump",
@@ -7692,6 +8157,7 @@
   "traffic-camera":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "security camera",
       "traffic camera"
     ],
@@ -7701,6 +8167,7 @@
   "security-checkpoint":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "security checkpoint",
       "traffic checkpoint",
       "traffic check point"
@@ -7711,6 +8178,7 @@
   "traffic-safety-problem":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "traffic safety problem submitted",
       "traffic safety problems",
       "traffic accident",
@@ -7722,6 +8190,7 @@
   "train":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "rail incident",
       "railroad",
       "metro",
@@ -7742,6 +8211,7 @@
   "transit-collision":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "traffic accident",
       "road safety",
       "transit collision",
@@ -7756,7 +8226,7 @@
   "tunnel":{
     "alias":[
       "2.1.0",
-      "secret tunnel",
+      "Transportation",
       "underground passageway",
       "archway",
       "boring"
@@ -7767,6 +8237,7 @@
   "u-turn-left":{
     "alias":[
       "2.1.0",
+      "Transportation",
       "turning radius",
       "U-turn",
       "U turn"
