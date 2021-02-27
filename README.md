@@ -4,7 +4,7 @@ A collection of SVG illustrations for map symbology.
 
 ## Installation
 
-`npm install arcgis/calcite-point-sybols --save`
+`npm install arcgis/calcite-point-symbols --save`
 
 ## Description
 
@@ -27,7 +27,7 @@ Constructing these symbols on an odd-numbered pixel grid means that they can be 
 Icons are made available as named ES6 exports. This way you can import just the icons you need into your app:
 
 ```js
-import { campground21 } from "calcite-point-sybols";
+import { campground21 } from "calcite-point-symbols";
 
 console.log(campground21); // => "M12.402 16.976H19L10.503 2.998 2 16.976h6.626l1.888-8.94z"
 ```
@@ -60,7 +60,7 @@ Types are also available for projects leveraging TypeScript. `CalciteIconPath` d
 All icons are also provided as part of a JSON file. If you installed via npm, you can import the full icon data set using the following:
 
 ```js
-var calciteIcons = require('calcite-point-sybols/docs/icons.json');
+var calciteIcons = require('calcite-point-symbols/docs/icons.json');
 ```
 
 This will give you an object containing all the icons in the library at all sizes:
