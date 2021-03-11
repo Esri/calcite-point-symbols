@@ -18,9 +18,15 @@ Provided symbols exist in one or more of the following three sizes:
 
 More info on what happens when you scale vector based icons [here](https://github.com/Esri/calcite-ui-icons/wiki/What-Happens-When-You-Scale-Vector-Based-Icons)
 
-### Why odd sizes?
+### Why Odd Sizes?
 
 Constructing these symbols on an odd-numbered pixel grid means that they can be centered both horizontally and vertically.
+
+## Point Symbol Help Documentation
+https://support.esri.com/en/technical-article/000019909 <br>
+https://www.esri.com/about/newsroom/arcwatch/create-2d-symbols-and-publish-them-to-arcgis-online/ <br>
+https://pro.arcgis.com/en/pro-app/latest/help/data/indoors/create-or-modify-symbol-images.htm <br>
+https://pro.arcgis.com/en/pro-app/latest/help/mapping/layer-properties/find-symbols.htm
 
 ## JavaScript Exports
 
@@ -82,7 +88,7 @@ _Note: path data omitted for brevity_.
 
 Most icons will have simple strings as path data, but some will be more complex as they need to store not only path, but opacity as well for multiple shapes. Icons of this structure will be annotated with the `multiPath` flag.
 
-### Individual icons structure
+### Individual Icons Structure
 All the individual SVG icons have a common file structure.
 
 This is what the `shoplifting-21.svg` looks like:
