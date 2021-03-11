@@ -4094,16 +4094,17 @@
     "alias":[
       "2.1.0",
       "Planning And Development",
-      "handicap ramps",
+      "accessible ramps",
       "curb ramps",
       "wheelchair ramp",
-      "handicap accessible",
+      "accessible entrance",
       "disability access",
       "accessibility",
       "disabled access",
       "curb incline",
-      "handicap incline",
-      "amenities"
+      "accessible incline",
+      "amenities",
+      "accessible parking"
     ],
     "category":"Planning And Development",
     "release":"2.1.0"
@@ -5307,8 +5308,7 @@
       "disability",
       "wheelchair",
       "person with disability",
-      "person who is handicapped",
-      "handicap access",
+      "person who is disabled",
       "accessible",
       "disabled access",
       "government",
@@ -5521,7 +5521,6 @@
       "border control",
       "immigrate",
       "country borders",
-      "illegal",
       "travel",
       "government",
       "safety"
