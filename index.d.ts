@@ -356,7 +356,6 @@ export const handcuffs13: string;
 export const handcuffs17: string;
 export const handcuffs21: string;
 export const handhole21: string;
-export const handicapAccess21: string;
 export const hazardous21: string;
 export const hazardousWaste21: string;
 export const healthAlert21: string;

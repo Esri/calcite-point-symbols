@@ -349,7 +349,6 @@ export {handcuffs13} from "./js/handcuffs13.js";
 export {handcuffs17} from "./js/handcuffs17.js";
 export {handcuffs21} from "./js/handcuffs21.js";
 export {handhole21} from "./js/handhole21.js";
-export {handicapAccess21} from "./js/handicapAccess21.js";
 export {hazardous21} from "./js/hazardous21.js";
 export {hazardousWaste21} from "./js/hazardousWaste21.js";
 export {healthAlert21} from "./js/healthAlert21.js";

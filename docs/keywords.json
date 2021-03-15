@@ -154,20 +154,6 @@
     "category":"Community Events",
     "release":"2.1.0"
   },
-  "handicap-access":{
-    "alias":[
-      "2.1.0",
-      "Community Events",
-      "accessible",
-      "accessibility",
-      "disability",
-      "disabled access",
-      "wheelchair",
-      "handicap access"
-    ],
-    "category":"Community Events",
-    "release":"2.1.0"
-  },
   "jersey-barrier":{
     "alias":[
       "2.1.0",
@@ -1104,7 +1090,12 @@
       "peaks",
       "mountain range",
       "national park",
-      "elevation"
+      "elevation",
+      "cliff",
+      "bluff",
+      "elevation",
+      "hike",
+      "climb"
     ],
     "category":"Environment And Natural Resources",
     "release":"2.1.0"
@@ -1186,7 +1177,15 @@
       "tree nursery",
       "tree farm",
       "tree plantation",
-      "woods"
+      "woods",
+      "recreation",
+      "swing",
+      "slide",
+      "fun",
+      "exercise",
+      "play",
+      "park",
+      "outdoors"
     ],
     "category":"Environment And Natural Resources",
     "release":"2.1.0"
@@ -1248,7 +1247,12 @@
       "fire department",
       "fire station",
       "fire shield",
-      "fire protection"
+      "fire protection",
+      "alarm",
+      "firefighter",
+      "firemen",
+      "hose",
+      "firehouse"
     ],
     "category":"Fire Service",
     "release":"2.1.0"
@@ -1285,7 +1289,11 @@
       "pin box",
       "box pin",
       "comment",
-      "marker"
+      "marker",
+      "shapes",
+      "geometric marker",
+      "basic",
+      "point"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1391,7 +1399,13 @@
       "communication",
       "spam",
       "postage",
-      "message"
+      "message",
+      "postal",
+      "send",
+      "stamp",
+      "service",
+      "package",
+      "government safety"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1401,7 +1415,11 @@
       "2.1.0",
       "Generic",
       "marker",
-      "location"
+      "location",
+      "point",
+      "basic",
+      "shape",
+      "geometric marker"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1411,7 +1429,11 @@
       "2.1.0",
       "Generic",
       "marker",
-      "location"
+      "location",
+      "point",
+      "basic",
+      "shape",
+      "geometric marker"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1424,7 +1446,11 @@
       "high priority",
       "warning",
       "location",
-      "country"
+      "country",
+      "pin",
+      "point",
+      "basic shapes",
+      "geometric marker"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1507,7 +1533,11 @@
       "about",
       "read more",
       "help",
-      "circle"
+      "circle",
+      "knowledge",
+      "study",
+      "content",
+      "travel"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1636,7 +1666,11 @@
       "2.1.0",
       "Generic",
       "marker",
-      "location"
+      "location",
+      "pin",
+      "point",
+      "basic shapes",
+      "geometric marker"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1646,7 +1680,11 @@
       "2.1.0",
       "Generic",
       "marker",
-      "location"
+      "location",
+      "pin",
+      "point",
+      "basic shapes",
+      "geometric marker"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1804,7 +1842,10 @@
     "alias":[
       "2.1.0",
       "Generic",
-      ""
+      "pin",
+      "point",
+      "basic shapes",
+      "geometric marker"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -1813,7 +1854,10 @@
     "alias":[
       "2.1.0",
       "Generic",
-      ""
+      "pin",
+      "point",
+      "basic shapes",
+      "geometric marker"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -2332,7 +2376,14 @@
       "doctor",
       "medical professional",
       "EMT",
-      "nurse"
+      "nurse",
+      "medical care",
+      "patient",
+      "physician",
+      "service",
+      "surgeon",
+      "medicine",
+      "beauty"
     ],
     "category":"Health And Human Services",
     "release":"2.1.0"
@@ -3086,7 +3137,13 @@
       "deputy",
       "cops",
       "police station",
-      "state trooper"
+      "state trooper",
+      "shield",
+      "crime",
+      "policing",
+      "jail",
+      "regulate",
+      "government safety"
     ],
     "category":"Law Enforcement",
     "release":"2.1.0"
@@ -3480,7 +3537,8 @@
       "Shapes",
       "point",
       "dot",
-      "container"
+      "container",
+      "round"
     ],
     "category":"Shapes",
     "release":"2.1.0"
@@ -3597,7 +3655,10 @@
       "favorite",
       "rating",
       "rated",
-      "starred"
+      "starred",
+      "capital",
+      "basic",
+      "geometric marker"
     ],
     "category":"Shapes",
     "release":"2.1.0"
@@ -4033,16 +4094,17 @@
     "alias":[
       "2.1.0",
       "Planning And Development",
-      "handicap ramps",
+      "accessible ramps",
       "curb ramps",
       "wheelchair ramp",
-      "handicap accessible",
+      "accessible entrance",
       "disability access",
       "accessibility",
       "disabled access",
       "curb incline",
-      "handicap incline",
-      "amenities"
+      "accessible incline",
+      "amenities",
+      "accessible parking"
     ],
     "category":"Planning And Development",
     "release":"2.1.0"
@@ -4104,7 +4166,13 @@
       "fuel stop",
       "oil",
       "refueling station",
-      "fuel depot"
+      "fuel depot",
+      "car",
+      "drive",
+      "auto",
+      "station",
+      "trip",
+      "travel"
     ],
     "category":"Planning And Development",
     "release":"2.1.0"
@@ -4595,7 +4663,16 @@
       "network tower",
       "radio station",
       "broadcast tower",
-      "communication"
+      "communication",
+      "column",
+      "fort",
+      "lookout",
+      "internet",
+      "telephone",
+      "digital",
+      "networks",
+      "utilities",
+      "utility"
     ],
     "category":"Planning And Development",
     "release":"2.1.0"
@@ -4786,7 +4863,13 @@
       "home",
       "residential zoning",
       "address",
-      "suburbs"
+      "suburbs",
+      "room",
+      "family",
+      "roof",
+      "accommodation",
+      "stay",
+      "facility"
     ],
     "category":"Planning And Development",
     "release":"2.1.0"
@@ -4871,7 +4954,14 @@
       "lounge",
       "drinkery",
       "jazz club",
-      "jazz bar"
+      "jazz bar",
+      "glass",
+      "cup",
+      "beer",
+      "liquor",
+      "liqueur",
+      "spirits",
+      "wine"
     ],
     "category":"Restaurant",
     "release":"2.1.0"
@@ -4889,7 +4979,15 @@
       "latte",
       "cappuccino",
       "barista",
-      "drinkery"
+      "drinkery",
+      "espresso",
+      "drink",
+      "beverages",
+      "tea",
+      "serve",
+      "food",
+      "social",
+      "tobacco"
     ],
     "category":"Restaurant",
     "release":"2.1.0"
@@ -5056,7 +5154,13 @@
       "food court",
       "meal",
       "breakfast",
-      "fast food"
+      "fast food",
+      "canteen",
+      "bar",
+      "cafeteria",
+      "grill",
+      "beverages",
+      "tobacco"
     ],
     "category":"Restaurant",
     "release":"2.1.0"
@@ -5190,7 +5294,8 @@
       "grapevines",
       "harvesting",
       "wine press",
-      "fermentation"
+      "fermentation",
+      "farm"
     ],
     "category":"Restaurant",
     "release":"2.1.0"
@@ -5199,11 +5304,15 @@
     "alias":[
       "2.1.0",
       "Points Of Interest",
-      "accessibility disability",
+      "accessibility",
+      "disability",
       "wheelchair",
       "person with disability",
-      "person who is handicapped",
-      "handicap access"
+      "person who is disabled",
+      "accessible",
+      "disabled access",
+      "government",
+      "safety"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5218,7 +5327,10 @@
       "tourism",
       "tourist attraction",
       "tramway",
-      "transportation"
+      "transportation",
+      "trolley",
+      "gondola",
+      "mountain"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5237,7 +5349,12 @@
       "outdoors",
       "festivities",
       "state fair",
-      "local fair"
+      "local fair",
+      "rides",
+      "rollercoaster",
+      "admission",
+      "arts",
+      "entertainment"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5269,7 +5386,9 @@
       "payment",
       "wallet",
       "money",
-      "lost card"
+      "lost card",
+      "teller",
+      "financial services"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5349,7 +5468,13 @@
       "coast",
       "tourism",
       "vacation",
-      "relaxation"
+      "relaxation",
+      "wave",
+      "surf",
+      "surfing",
+      "waterfront",
+      "parks",
+      "outdoors"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5393,7 +5518,12 @@
       "immigration",
       "tourism",
       "crossing point",
-      "border control"
+      "border control",
+      "immigrate",
+      "country borders",
+      "travel",
+      "government",
+      "safety"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5408,7 +5538,12 @@
       "camping site",
       "camping area",
       "camping spot",
-      "camping reservation"
+      "camping reservation",
+      "hut",
+      "lodge",
+      "campfire",
+      "parks",
+      "outdoors"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5425,7 +5560,13 @@
       "loaner car",
       "used car",
       "car ownership",
-      "car locked"
+      "car locked",
+      "auto",
+      "automobile",
+      "pickup",
+      "dealer",
+      "owner",
+      "rent"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5441,7 +5582,14 @@
       "casino",
       "board game cafe",
       "hobby",
-      "hobbies"
+      "hobbies",
+      "gamble",
+      "clubhouse",
+      "club",
+      "bank",
+      "bet",
+      "den",
+      "house"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5458,7 +5606,12 @@
       "catacombs",
       "funeral service",
       "death",
-      "dead"
+      "dead",
+      "bury",
+      "boneyard",
+      "rip",
+      "government",
+      "safety"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5477,7 +5630,9 @@
       "parliamentary building",
       "senate",
       "house of representatives",
-      "assembly"
+      "assembly",
+      "civic",
+      "safety"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5496,7 +5651,11 @@
       "justice center",
       "judiciary",
       "court ruling",
-      "jury duty"
+      "jury duty",
+      "civic",
+      "judge",
+      "judicial government",
+      "safety"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5511,7 +5670,11 @@
       "capital city",
       "visa registration",
       "naturalization",
-      "citizenship"
+      "citizenship",
+      "international",
+      "govern",
+      "government safety",
+      "foreign"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5529,7 +5692,13 @@
       "mini-golf",
       "miniature golf",
       "driving range",
-      "putt putt golf"
+      "putt putt golf",
+      "hole",
+      "ball",
+      "tee",
+      "swing",
+      "game",
+      "sports"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5544,7 +5713,11 @@
       "supermarket",
       "department store",
       "business retail",
-      "online shopping"
+      "online shopping",
+      "bodega",
+      "market",
+      "minimarket",
+      "food"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5569,7 +5742,15 @@
       "lodging",
       "homestay",
       "vacation",
-      "traveling"
+      "traveling",
+      "service",
+      "resort",
+      "amenity",
+      "stay",
+      "traveler",
+      "facility",
+      "guest",
+      "travel"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5586,7 +5767,10 @@
       "warehouse",
       "production",
       "polluters",
-      "industrialization"
+      "industrialization",
+      "factories",
+      "assembly",
+      "work"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5610,7 +5794,10 @@
       "filming site",
       "lens",
       "slideshow",
-      "DSLR"
+      "DSLR",
+      "marker",
+      "memorial",
+      "monument"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5632,7 +5819,14 @@
       "learning center",
       "tutoring",
       "schooling",
-      "training"
+      "training",
+      "librarian",
+      "study",
+      "quiet",
+      "information",
+      "research",
+      "reference",
+      "university"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5658,7 +5852,12 @@
       "live event",
       "speech",
       "presenter",
-      "public speaker"
+      "public speaker",
+      "recital",
+      "gig",
+      "festival",
+      "fest",
+      "musicale"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5687,7 +5886,9 @@
       "products",
       "spending",
       "budget",
-      "shopping center"
+      "shopping center",
+      "market",
+      "sale"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5733,7 +5934,13 @@
       "outpost",
       "military station",
       "summer camp",
-      "compound"
+      "compound",
+      "army",
+      "bases",
+      "overseas",
+      "protection",
+      "government",
+      "safety"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5752,7 +5959,15 @@
       "history",
       "historic landmark",
       "monument",
-      "museum"
+      "museum",
+      "collection",
+      "art",
+      "display",
+      "artifact",
+      "exhibition",
+      "arts",
+      "entertainment",
+      "gallery"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5780,7 +5995,10 @@
       "tribal",
       "indigenous culture",
       "cultural sites",
-      "treaty"
+      "treaty",
+      "reservations",
+      "residential",
+      "reserve"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5792,7 +6010,10 @@
       "parking garage",
       "parking lot",
       "car port",
-      "valet services"
+      "valet services",
+      "drive",
+      "vehicle",
+      "transportation"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5843,7 +6064,9 @@
       "religious community",
       "deities",
       "religious monuments",
-      "historical landmark"
+      "historical landmark",
+      "pray",
+      "worship"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5860,7 +6083,12 @@
       "children's park",
       "daycare",
       "recess",
-      "recreation"
+      "recreation",
+      "gym",
+      "lawn",
+      "ground",
+      "grounds",
+      "yard"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5874,7 +6102,8 @@
       "washroom",
       "bathroom",
       "water closet",
-      "WC"
+      "WC",
+      "facilities"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5937,7 +6166,14 @@
       "boarding school",
       "junior university",
       "junior college",
-      "primary school"
+      "primary school",
+      "student",
+      "teach",
+      "teacher",
+      "children",
+      "class",
+      "vocational",
+      "curriculum "
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -5970,7 +6206,8 @@
       "live performance",
       "live stage",
       "hobby",
-      "hobbies"
+      "hobbies",
+      "team"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -6000,7 +6237,10 @@
       "dramatic art",
       "community theater",
       "hobby",
-      "hobbies"
+      "hobbies",
+      "show",
+      "acting",
+      "troupe"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -6028,7 +6268,9 @@
       "hiker",
       "camping",
       "hobby",
-      "hobbies"
+      "hobbies",
+      "exercise",
+      "running"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -6073,7 +6315,11 @@
       "intellectual",
       "masters",
       "PhD",
-      "graduated"
+      "graduated",
+      "children",
+      "class",
+      "vocational",
+      "curriculum"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -6099,7 +6345,9 @@
       "poaching",
       "zoology",
       "circus animal",
-      "animals"
+      "animals",
+      "cage",
+      "elephant"
     ],
     "category":"Wildlife",
     "release":"2.1.0"
@@ -6189,7 +6437,13 @@
       "fish pet store",
       "snorkeling site",
       "animals",
-      "conservation"
+      "conservation",
+      "theme park",
+      "zoo",
+      "pond",
+      "museum",
+      "fish bowl",
+      "exhibit"
     ],
     "category":"Wildlife",
     "release":"2.1.0"
@@ -7842,7 +8096,11 @@
       "hangar",
       "aeronautical engineering",
       "international trade",
-      "vehicle"
+      "vehicle",
+      "pilot",
+      "airfield",
+      "airbase",
+      "plane"
     ],
     "category":"Transportation",
     "release":"2.1.0"
@@ -7887,7 +8145,9 @@
       "tour bus",
       "bus stop",
       "public transit",
-      "vehicle"
+      "vehicle",
+      "passenger",
+      "motor"
     ],
     "category":"Transportation",
     "release":"2.1.0"
@@ -8000,7 +8260,12 @@
       "metro rail",
       "vehicle",
       "travel",
-      "train station"
+      "train station",
+      "tunnel",
+      "underground",
+      "platform",
+      "sub-surface",
+      "travel"
     ],
     "category":"Transportation",
     "release":"2.1.0"
@@ -8203,7 +8468,12 @@
       "metrorail",
       "travel",
       "public transportation",
-      "public transit"
+      "public transit",
+      "train station",
+      "passenger",
+      "motor",
+      "travel",
+      "railway"
     ],
     "category":"Transportation",
     "release":"2.1.0"
