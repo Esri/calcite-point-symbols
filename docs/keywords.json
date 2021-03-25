@@ -1179,11 +1179,6 @@
       "tree plantation",
       "woods",
       "recreation",
-      "swing",
-      "slide",
-      "fun",
-      "exercise",
-      "play",
       "park",
       "outdoors"
     ],
@@ -1536,8 +1531,7 @@
       "circle",
       "knowledge",
       "study",
-      "content",
-      "travel"
+      "content"
     ],
     "category":"Generic",
     "release":"2.1.0"
@@ -2382,8 +2376,7 @@
       "physician",
       "service",
       "surgeon",
-      "medicine",
-      "beauty"
+      "medicine"
     ],
     "category":"Health And Human Services",
     "release":"2.1.0"
@@ -4665,8 +4658,6 @@
       "broadcast tower",
       "communication",
       "column",
-      "fort",
-      "lookout",
       "internet",
       "telephone",
       "digital",
@@ -4986,8 +4977,7 @@
       "tea",
       "serve",
       "food",
-      "social",
-      "tobacco"
+      "social"
     ],
     "category":"Restaurant",
     "release":"2.1.0"
@@ -5353,7 +5343,6 @@
       "rides",
       "rollercoaster",
       "admission",
-      "arts",
       "entertainment"
     ],
     "category":"Points Of Interest",
@@ -5575,7 +5564,6 @@
     "alias":[
       "2.1.0",
       "Points Of Interest",
-      "dice",
       "gambling",
       "board games",
       "games",
@@ -5586,7 +5574,6 @@
       "gamble",
       "clubhouse",
       "club",
-      "bank",
       "bet",
       "den",
       "house"
@@ -5598,7 +5585,6 @@
     "alias":[
       "2.1.0",
       "Points Of Interest",
-      "tombstone",
       "cemetery",
       "graveyard",
       "memorial",
@@ -5610,7 +5596,6 @@
       "bury",
       "boneyard",
       "rip",
-      "government",
       "safety"
     ],
     "category":"Points Of Interest",
@@ -8146,8 +8131,7 @@
       "bus stop",
       "public transit",
       "vehicle",
-      "passenger",
-      "motor"
+      "passenger"
     ],
     "category":"Transportation",
     "release":"2.1.0"
@@ -8471,7 +8455,6 @@
       "public transit",
       "train station",
       "passenger",
-      "motor",
       "travel",
       "railway"
     ],
