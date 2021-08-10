@@ -8497,5 +8497,706 @@
     ],
     "category":"Transportation",
     "release":"2.1.0"
+  },
+  "agriculture-field":{
+    "alias":[
+      "2.1.4",
+      "wheat",
+      "grain",
+      "harvest",
+      "farming",
+      "2.1.4",
+      "feed"
+    ],
+    "category":"Agriculture",
+    "release":"2.1.4"
+  },
+  "assault":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "violence",
+      "fist",
+      "physical",
+      "punch",
+      "safety",
+      "danger",
+      "crime",
+      "law enforcement"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "beer-can":{
+    "alias":[
+      "2.1.4",
+      "2.14",
+      "alcohol",
+      "restaurant",
+      "drink",
+      "soda",
+      "pop",
+      "recyclable",
+      "bar"
+    ],
+    "category":"Restaurant",
+    "release":"2.1.4"
+  },
+  "big-foot":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "sighting",
+      "sasquash"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.4"
+  },
+  "birth":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Health and Human Services",
+      "birthing",
+      "baby",
+      "hospital",
+      "midewife",
+      "new born",
+      "child",
+      "child care",
+      "day care",
+      "nursery",
+      "infant",
+      "delivery"
+    ],
+    "category":"Health and Human Services",
+    "release":"2.1.4"
+  },
+  "box-van":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Transportation",
+      "moving",
+      "truck",
+      "vehicle",
+      "car",
+      "delivery",
+      "logistics",
+      "transport",
+      "truck driver"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "car":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "car",
+      "vehicle",
+      "Transportation",
+      "commute",
+      "commuter",
+      "hybrid",
+      "electric",
+      "fuel efficient",
+      "compact",
+      "uber",
+      "carpool",
+      "car repair",
+      "car wash",
+      "body shop",
+      "dealership",
+      "ride share"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "cctv-camera":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "closed circuit television",
+      "footage",
+      "film",
+      "video",
+      "evidence",
+      "security",
+      "surveillance"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "child-abuse":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Health and Human Services",
+      "violence",
+      "domestic violence",
+      "kid",
+      "children",
+      "hostile environment",
+      "at risk youth",
+      "mistreatment",
+      "exploitation",
+      "children and family services",
+      "child protective services",
+      "neglect"
+    ],
+    "category":"Health and Human Services",
+    "release":"2.1.4"
+  },
+  "container-ship":{
+    "alias":[
+      "2.1.4",
+      "Transportation",
+      "2.1.4",
+      "shipping",
+      "shipment",
+      "boat",
+      "transport",
+      "cargo",
+      "commerce",
+      "international"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "cult":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "religion",
+      "manipulation",
+      "gathering"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "divorce":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Health and Human Services",
+      "broken heart",
+      "seperation"
+    ],
+    "category":"Health and Human Services",
+    "release":"2.1.4"
+  },
+  "domestic-disturbance":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "broken house",
+      "broken family",
+      "seperation",
+      "devastation",
+      "split"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "door":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Generic",
+      "entry",
+      "entrance",
+      "exit"
+    ],
+    "category":"Generic",
+    "release":"2.1.4"
+  },
+  "dui":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "drunk driving",
+      "alcohol",
+      "car key",
+      "inebriated",
+      "impaired",
+      "intoxied",
+      "driving under the influence"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "entrance":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "generic",
+      "door",
+      "enter",
+      "entry"
+    ],
+    "category":"Generic",
+    "release":"2.1.4"
+  },
+  "exit":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "generic",
+      "leave",
+      "door",
+      "way out"
+    ],
+    "category":"Generic",
+    "release":"2.1.4"
+  },
+  "fair":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Community Events",
+      "tent",
+      "flag",
+      "county fair",
+      "state fair",
+      "circus",
+      "festival",
+      "outdoor event",
+      "outdoors",
+      "festivity",
+      "carnival",
+      "petting zoo",
+      "local fair",
+      "party"
+    ],
+    "category":"Community Events",
+    "release":"2.1.4"
+  },
+  "fence-point":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Planning and Development",
+      "boundry",
+      "yard",
+      "property",
+      "closed",
+      "gate"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.4"
+  },
+  "fuel-can":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "law enforcement",
+      "arson",
+      "gasoline",
+      "flammable",
+      "crime",
+      "explosion",
+      "fire",
+      "wild fire",
+      "torching"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "garage-door":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Planning and Development",
+      "storage",
+      "parking"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.4"
+  },
+  "gateway-2":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Planning and Development",
+      "gate",
+      "door",
+      "entrance",
+      "entry",
+      "exit",
+      "access",
+      "yard"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.4"
+  },
+  "hacker":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "computer",
+      "security",
+      "technology",
+      "cyber",
+      "threat",
+      "ransom",
+      "attacks",
+      "virus",
+      "data breach"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "hitchhiker":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Transportation",
+      "thumb",
+      "hand",
+      "ride share"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "investigation":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "finger print",
+      "magnifying glass",
+      "identification",
+      "crime",
+      "suspect",
+      "person of interest",
+      "analysis"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "kidnapping":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "hands bound",
+      "crime",
+      "abduct",
+      "capture",
+      "seize",
+      "hostage",
+      "ransom",
+      "hijack",
+      "victim"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "marriage":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Health and Human Services",
+      "rings",
+      "ceremony",
+      "domestic partnership",
+      "wedding"
+    ],
+    "category":"Health and Human Services",
+    "release":"2.1.4"
+  },
+  "missing-person":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "lost",
+      "search party",
+      "runaway",
+      "demographics"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "pickup-truck":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "transportation",
+      "vehicle",
+      "car",
+      "hauling"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "pirate":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "security",
+      "international",
+      "attack",
+      "theft",
+      "hijack",
+      "raider"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "police-9-unit":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "dog",
+      "service animal",
+      "K9",
+      "cannie"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "police-traffic-stop":{
+    "alias":[
+      "2.1.4",
+      ""
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "raft":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Transportation",
+      "water",
+      "emergency rescue",
+      "white water rafting",
+      "boat"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "riot":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "bomb",
+      "violence",
+      "disturbance",
+      "disorder",
+      "hostile person"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "rv":{
+    "alias":[
+      "2.1.4",
+      "2,1.4",
+      "Transportation",
+      "recreational vehicle",
+      "camping",
+      "roadtrip",
+      "travel",
+      "vacation",
+      "truck"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "sail-boat":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Transportation",
+      "water",
+      "ocean",
+      "ship",
+      "marina",
+      "harbor",
+      "sailor",
+      "ship yard",
+      "docking site",
+      "boat yard",
+      "port"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "semi-truck":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Transportation",
+      "18 wheeler",
+      "big rig",
+      "cargo",
+      "shipment",
+      "truck driver"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "sexual-assault":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "rape",
+      "protection",
+      "abuse",
+      "sexual violence",
+      "domestic abuse",
+      "domestic voilence",
+      "molestation",
+      "physical abuse",
+      "violation",
+      "abuduction",
+      "kidnapping",
+      "force"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "small-boat":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "transportation",
+      "water",
+      "port",
+      "dock",
+      "lake",
+      "harbor",
+      "fishing",
+      "speed boat"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "submarine":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Transportation",
+      "underwater",
+      "underwater craft",
+      "u boat",
+      "torpedo"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "tractor":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Agriculture",
+      "farming",
+      "harvast",
+      "rural",
+      "cultivation"
+    ],
+    "category":"Agriculture",
+    "release":"2.1.4"
+  },
+  "arrow-circle":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Generic",
+      "arrow",
+      "circle",
+      "traveling",
+      "moving",
+      "direction",
+      "tracking",
+      "movement"
+    ],
+    "category":"Generic",
+    "release":"2.1.4"
+  },
+  "ufo-uap":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Generic",
+      "unidentified flying objects",
+      "unidentified aerial phenomena",
+      "extra terrestrial"
+    ],
+    "category":"Generic",
+    "release":"2.1.4"
+  },
+  "van":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "transportaiton",
+      "vehicle",
+      "car",
+      "delivery",
+      "shipment",
+      "caravan"
+    ],
+    "category":"Transportation",
+    "release":"2.1.4"
+  },
+  "welfare-checkup":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Law Enforcement",
+      "police",
+      "knock",
+      "visit",
+      "raids"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.4"
+  },
+  "window":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "Generic",
+      "entry",
+      "glass",
+      "light"
+    ],
+    "category":"Generic",
+    "release":"2.1.4"
+  },
+  "financial-transaction":{
+    "alias":[
+      "2.1.4",
+      "2.1.4",
+      "generic",
+      "atm",
+      "money",
+      "purchase",
+      "withdraw",
+      "deposit",
+      "charge",
+      "bank",
+      "exchange",
+      "currency",
+      "commerce",
+      "buy",
+      "sell",
+      "cashier",
+      "payment"
+    ],
+    "category":"Generic",
+    "release":"2.1.4"
   }
 }
