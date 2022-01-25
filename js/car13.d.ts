@@ -1,1 +1,1 @@
-export const car13: CalciteMultiPathEntry;
+export const car13: string;

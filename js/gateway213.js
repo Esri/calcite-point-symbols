@@ -1,0 +1,1 @@
+export const gateway213 = "M11 10V2h-1v8H3V8h1v1h5V2H4v2H3V2H2v8H1v1h11v-1zM7 5h1v1H7zM4 5v2H3V5z";

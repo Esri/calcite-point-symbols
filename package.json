@@ -19,12 +19,12 @@
   ],
   "contributors": [
     {
-      "name": "Julio Ochoa",
-      "email": "<jochoa@esri.com>"
-    },
-    {
       "name": "Paul Pederson",
       "email": "<ppederson@esri.com>"
+    },
+    {
+      "name": "Katelyn Seitz",
+      "email": "<kseitz@esri.com>"
     }
   ],
   "license": "SEE LICENSE IN README.md",

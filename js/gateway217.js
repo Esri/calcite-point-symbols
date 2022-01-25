@@ -1,0 +1,1 @@
+export const gateway217 = "M16 12h-2V2h-2v10H5v-2h1v1h5V3H6v1H5V2H3v10H1v.952h2V13h2v-.048h11zM9 5h1v2H9zM6 5v4H5V5z";

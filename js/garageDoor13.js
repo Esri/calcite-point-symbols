@@ -1,0 +1,1 @@
+export const garageDoor13 = "M11 3.562V11h-1V5H3v6H2V3.625L6.5 1zM4 6v5h5V6zm4 4H5V9h3zm0-2H5V7h3z";
