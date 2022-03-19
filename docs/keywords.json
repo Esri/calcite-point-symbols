@@ -8514,7 +8514,6 @@
   "assault":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "violence",
       "fist",
       "physical",
@@ -8545,7 +8544,6 @@
   "big-foot":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "sighting",
       "sasquash"
     ],
@@ -8554,7 +8552,6 @@
   },
   "birth":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Health And Human Services",
       "birthing",
@@ -8575,7 +8572,6 @@
   "box-van":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "moving",
       "truck",
@@ -8591,7 +8587,6 @@
   },
   "car":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "car",
       "vehicle",
@@ -8616,7 +8611,6 @@
   "cctv-camera":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Law Enforcement",
       "closed circuit television",
       "footage",
@@ -8631,7 +8625,6 @@
   },
   "child-abuse":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Health And Human Services",
       "violence",
@@ -8668,7 +8661,6 @@
   "cult":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Law Enforcement",
       "religion",
       "manipulation",
@@ -8680,7 +8672,6 @@
   "divorce":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Health And Human Services",
       "broken heart",
       "seperation"
@@ -8690,7 +8681,6 @@
   },
   "domestic-disturbance":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "broken house",
@@ -8705,7 +8695,6 @@
   "door":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Generic",
       "entry",
       "entrance",
@@ -8716,7 +8705,6 @@
   },
   "dui":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "drunk driving",
       "alcohol",
@@ -8732,7 +8720,6 @@
   "entrance":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "generic",
       "door",
       "enter",
@@ -8744,7 +8731,6 @@
   "exit":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "generic",
       "leave",
       "door",
@@ -8755,7 +8741,6 @@
   },
   "fair":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Community Events",
       "tent",
@@ -8778,7 +8763,6 @@
   "fence-point":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Planning And Development",
       "boundry",
       "yard",
@@ -8791,7 +8775,6 @@
   },
   "fuel-can":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "law enforcement",
       "arson",
@@ -8809,7 +8792,6 @@
   "garage-door":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Planning And Development",
       "storage",
       "parking"
@@ -8819,7 +8801,6 @@
   },
   "gateway-2":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Planning And Development",
       "gate",
@@ -8835,7 +8816,6 @@
   },
   "hacker":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "computer",
@@ -8854,7 +8834,6 @@
   "hitchhiker":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "thumb",
       "hand",
@@ -8865,7 +8844,6 @@
   },
   "investigation":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "finger print",
@@ -8881,7 +8859,6 @@
   },
   "kidnapping":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "hands bound",
@@ -8900,7 +8877,6 @@
   "marriage":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Health And Human Services",
       "rings",
       "ceremony",
@@ -8912,7 +8888,6 @@
   },
   "missing-person":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "lost",
@@ -8926,7 +8901,6 @@
   "pickup-truck":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "transportation",
       "vehicle",
       "car",
@@ -8937,7 +8911,6 @@
   },
   "pirate":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "security",
@@ -8952,7 +8925,6 @@
   },
   "police-9-unit":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "dog",
@@ -8974,7 +8946,6 @@
   "raft":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "water",
       "emergency rescue",
@@ -8986,7 +8957,6 @@
   },
   "riot":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "bomb",
@@ -9016,7 +8986,6 @@
   "sail-boat":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "water",
       "ocean",
@@ -9035,7 +9004,6 @@
   "semi-truck":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "18 wheeler",
       "big rig",
@@ -9048,7 +9016,6 @@
   },
   "sexual-assault":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "rape",
@@ -9070,7 +9037,6 @@
   "small-boat":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "transportation",
       "water",
       "port",
@@ -9086,7 +9052,6 @@
   "submarine":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "underwater",
       "underwater craft",
@@ -9099,7 +9064,6 @@
   "tractor":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Agriculture",
       "farming",
       "harvast",
@@ -9111,7 +9075,6 @@
   },
   "arrow-circle":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Generic",
       "arrow",
@@ -9128,7 +9091,6 @@
   "ufo-uap":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Generic",
       "unidentified flying objects",
       "unidentified aerial phenomena",
@@ -9139,7 +9101,6 @@
   },
   "van":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "transportaiton",
       "vehicle",
@@ -9154,7 +9115,6 @@
   "welfare-checkup":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Law Enforcement",
       "police",
       "knock",
@@ -9167,7 +9127,6 @@
   "window":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Generic",
       "entry",
       "glass",
@@ -9179,8 +9138,7 @@
   "financial-transaction":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "generic",
+      "Generic",
       "atm",
       "money",
       "purchase",
@@ -9198,5 +9156,26 @@
     ],
     "category":"Generic",
     "release":"2.1.4"
+  },
+  "sensor":{
+    "alias":[
+      "2.1.5",
+      "Generic",
+      "technology",
+      "smart sensor",
+      "wifi",
+      "signal",
+      "device",
+      "connection",
+      "IoT",
+      "internet of things",
+      "radar",
+      "tracking",
+      "remote sensor",
+      "motion detection",
+      "communication"
+    ],
+    "category":"Generic",
+    "release":"2.1.5"
   }
 }
