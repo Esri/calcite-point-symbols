@@ -7933,7 +7933,7 @@
       "Public Works",
       "underground storage tank",
       "utility and pipeline",
-      "planning and development"
+      "Planning And Development"
     ],
     "category":"Public Works",
     "release":"2.1.0"
@@ -8556,7 +8556,7 @@
     "alias":[
       "2.1.4",
       "2.1.4",
-      "Health and Human Services",
+      "Health And Human Services",
       "birthing",
       "baby",
       "hospital",
@@ -8569,7 +8569,7 @@
       "infant",
       "delivery"
     ],
-    "category":"Health and Human Services",
+    "category":"Health And Human Services",
     "release":"2.1.4"
   },
   "box-van":{
@@ -8633,7 +8633,7 @@
     "alias":[
       "2.1.4",
       "2.1.4",
-      "Health and Human Services",
+      "Health And Human Services",
       "violence",
       "domestic violence",
       "kid",
@@ -8646,7 +8646,7 @@
       "child protective services",
       "neglect"
     ],
-    "category":"Health and Human Services",
+    "category":"Health And Human Services",
     "release":"2.1.4"
   },
   "container-ship":{
@@ -8681,11 +8681,11 @@
     "alias":[
       "2.1.4",
       "2.1.4",
-      "Health and Human Services",
+      "Health And Human Services",
       "broken heart",
       "seperation"
     ],
-    "category":"Health and Human Services",
+    "category":"Health And Human Services",
     "release":"2.1.4"
   },
   "domestic-disturbance":{
@@ -8779,14 +8779,14 @@
     "alias":[
       "2.1.4",
       "2.1.4",
-      "Planning and Development",
+      "Planning And Development",
       "boundry",
       "yard",
       "property",
       "closed",
       "gate"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.4"
   },
   "fuel-can":{
@@ -8810,18 +8810,18 @@
     "alias":[
       "2.1.4",
       "2.1.4",
-      "Planning and Development",
+      "Planning And Development",
       "storage",
       "parking"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.4"
   },
   "gateway-2":{
     "alias":[
       "2.1.4",
       "2.1.4",
-      "Planning and Development",
+      "Planning And Development",
       "gate",
       "door",
       "entrance",
@@ -8830,7 +8830,7 @@
       "access",
       "yard"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.4"
   },
   "hacker":{
@@ -8901,13 +8901,13 @@
     "alias":[
       "2.1.4",
       "2.1.4",
-      "Health and Human Services",
+      "Health And Human Services",
       "rings",
       "ceremony",
       "domestic partnership",
       "wedding"
     ],
-    "category":"Health and Human Services",
+    "category":"Health And Human Services",
     "release":"2.1.4"
   },
   "missing-person":{
