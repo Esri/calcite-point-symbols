@@ -9177,5 +9177,14 @@
     ],
     "category":"Generic",
     "release":"2.1.5"
+  },
+  "coyote":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "animal"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
   }
 }
