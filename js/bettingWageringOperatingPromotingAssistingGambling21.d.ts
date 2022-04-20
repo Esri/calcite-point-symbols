@@ -1,0 +1,1 @@
+export const bettingWageringOperatingPromotingAssistingGambling21: string;

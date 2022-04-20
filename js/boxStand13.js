@@ -1,0 +1,1 @@
+export const boxStand13 = "M11 5H9V2h1V1H3v1h1v3H2v1h2l-1 6h1l2.5-3L9 12h1L9 6h2zM5 2h3v1H5zm-.75 8.5L4.833 7 6 8.4zm4.5 0L7 8.4 8.167 7zM6.5 7.8L5 6h3z";

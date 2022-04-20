@@ -1,0 +1,1 @@
+export const largePropaneTank21 = "M20 10v1a3 3 0 0 1-3 3h-1v1h-2v-1H7v1H5v-1H4a3 3 0 0 1-3-3v-1a2.991 2.991 0 0 1 2-2.816V6h1v1h4V6a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v1h4V6h1v1.184A2.991 2.991 0 0 1 20 10z";
