@@ -9182,16 +9182,9 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal"
-    ],
-    "category":"Wildlife",
-    "release":"2.1.5"
-  },
-  "coyote":{
-    "alias":[
-      "2.1.5",
-      "wildlife",
-      "animal,mammal,nature"
+      "animal",
+      "mammal",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9200,7 +9193,10 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "deer,animal,park,nature"
+      "deer",
+      "animal",
+      "park",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9209,7 +9205,12 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "ente,cost,access,door,warning,denied"
+      "enter",
+      "cost",
+      "access",
+      "door",
+      "warning",
+      "denied"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9218,7 +9219,12 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "pig,boar,animal,nature,mammal,bacon"
+      "pig",
+      "boar",
+      "animal",
+      "nature",
+      "mammal",
+      "bacon"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9227,7 +9233,9 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "reptile,animal,nature"
+      "reptile",
+      "animal",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9236,7 +9244,12 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "wolf pack,animal,mammal,park,howl,nature"
+      "wolf pack",
+      "animal",
+      "mammal",
+      "park",
+      "howl",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9245,7 +9258,11 @@
     "alias":[
       "2.1.5",
       "planning and development",
-      "building,blight,abandoned,structure,deserted"
+      "building",
+      "bligh"t,
+      "abandoned",
+      "structure",
+      "deserted"
     ],
     "category":"Planning and Development",
     "release":"2.1.5"
@@ -9254,7 +9271,10 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "crime,steal,theft,burglary"
+      "crime",
+      "steal",
+      "theft",
+      "burglary"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9263,7 +9283,12 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "crocodile,reptile,animal,swamp,quad,everglades"
+      "crocodile",
+      "reptile",
+      "animal",
+      "swamp",
+      "quad",
+      "everglades"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9272,7 +9297,11 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "dog,pet,warning,abuse,violation"
+      "dog",
+      "pet",
+      "warning",
+      "abuse",
+      "violation"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9281,7 +9310,9 @@
     "alias":[
       "2.1.5",
       "transportation",
-      "vehicle,car,offroading"
+      "vehicle",
+      "car",
+      "offroading"
     ],
     "category":"Transportation",
     "release":"2.1.5"
@@ -9290,25 +9321,33 @@
     "alias":[
       "2.1.5",
       "agriculture",
-      "corn,feed,food,farm,agriculture,land"
+      "corn",
+      "feed",
+      "food",
+      "farm",
+      "agriculture",
+      "land"
     ],
     "category":"Agriculture",
-    "release":"2.1.5"
-  },
-  "bear":{
-    "alias":[
-      "2.1.5",
-      "wildlife",
-      "Wildlife,habitat,nature reserve,wildlife sanctuary,black,grizzly,brown,mammal observations,bear,cub,national park,recreation,sightseeing,polar bear,endangered species,nature,mountain animals,conservation,hibernation,bear crossing"
-    ],
-    "category":"Wildlife",
     "release":"2.1.5"
   },
   "betting-wagering-operating-promoting-assisting-gambling":{
     "alias":[
       "2.1.5",
       "law enforcement",
-      "gambling,board games,games,casino,board game cafe,hobby,hobbies,gamble,club house,club,bet,den,house"
+      "gambling",
+      "board games",
+      "games",
+      "casino",
+      "board game cafe",
+      "hobby",
+      "hobbies",
+      "gamble",
+      "club house",
+      "club",
+      "bet",
+      "den",
+      "house"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9317,7 +9356,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "egg,incubation,protected"
+      "egg",
+      "incubation",
+      "protected"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9326,7 +9367,11 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "duck,water fowl,protected,warning,bird banding"
+      "duck",
+      "water fowl",
+      "protected",
+      "warning",
+      "bird banding"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9335,7 +9380,9 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal,mammal,nature"
+      "animal",
+      "mammal",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9344,7 +9391,11 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "structure,hide,hunting,tower,woods"
+      "structure",
+      "hide",
+      "hunting",
+      "tower",
+      "woods"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9353,7 +9404,11 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "money,exchange,payoff,corruption,crime"
+      "money",
+      "exchange",
+      "payoff",
+      "corruption",
+      "crime"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9362,7 +9417,10 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "warning,crime,money,fake"
+      "warning",
+      "crime",
+      "money",
+      "fake"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9371,7 +9429,10 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal,ocean,coastal,sea"
+      "animal",
+      "ocean",
+      "coastal",
+      "sea"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9380,7 +9441,11 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "ocean,sea,warning,harvesting,coastal"
+      "ocean",
+      "sea",
+      "warning",
+      "harvesting",
+      "coastal"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9389,7 +9454,12 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "crime,warning,identity,theft,money,scam"
+      "crime",
+      "warning",
+      "identity",
+      "theft",
+      "money",
+      "scam"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9398,7 +9468,12 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "person,enter,lingre,trespass,do not enter,time"
+      "person",
+      "enter",
+      "linger",
+      "trespass",
+      "do not enter",
+      "time"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9407,7 +9482,10 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal,mammal,park,nature"
+      "animal",
+      "mammal",
+      "park",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9416,7 +9494,8 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "structure,bird,hide"
+      "structure",
+      "bird,hide"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9425,7 +9504,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "bird,hawk,protected,falcon"
+      "bird",
+      "hawk",
+      "protected",
+      "falcon"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9434,7 +9516,13 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "crime,fraud,corruption,money,steal,theft,finance"
+      "crime",
+      "fraud",
+      "corruption",
+      "money",
+      "steal",
+      "theft",
+      "finance"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9443,7 +9531,10 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "blackmail,fraud,steal,payoff,corruption"
+      "blackmail",
+      "fraud","steal",
+      "payoff",
+      "corruption"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9452,7 +9543,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "enter,cost,door,access.denied"
+      "enter",
+      "cost",
+      "door",
+      "access denied"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9461,7 +9555,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "conservation,warning,bird,water fowl"
+      "conservation",
+      "warning",
+      "bird",
+      "water fowl"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9470,7 +9567,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "duck,boat,water,hide"
+      "duck",
+      "boat",
+      "water",
+      "hide"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9479,7 +9579,10 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "beaver,animal,mammal,nature"
+      "beaver",
+      "animal",
+      "mammal",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9488,7 +9591,13 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "it,cyber security,theft,computer,technology,date,risk"
+      "it",
+      "cyber security",
+      "theft",
+      "computer",
+      "technology",
+      "date",
+      "risk"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9497,7 +9606,12 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "pig,boar,bacon,animal,mammal,nature"
+      "pig",
+      "boar",
+      "bacon",
+      "animal",
+      "mammal",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9506,7 +9620,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "track,trace,wilderness,feet"
+      "track",
+      "trace",
+      "wilderness",
+      "feet"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9515,7 +9632,11 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "price,exploitation,crime,victims,profit"
+      "price",
+      "exploitation",
+      "crime",
+      "victims",
+      "profit"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9524,7 +9645,13 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "steal,crime,fraud,impersonation,fake,stolen,id"
+      "steal",
+      "crime",
+      "fraud",
+      "impersonation",
+      "fake",
+      "stolen",
+      "id"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9533,7 +9660,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "bird,water fowl,money,protected"
+      "bird",
+      "water fowl",
+      "money",
+      "protected"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9542,7 +9672,13 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "scaring,frightening,bulling,harassment,abuse,terror,threats,"
+      "scaring",
+      "frightening",
+      "bulling",
+      "harassment",
+      "abuse",
+      "terror",
+      "threats"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9551,7 +9687,10 @@
     "alias":[
       "2.1.5",
       "transportation",
-      "car,vehicle,moto,automobile"
+      "car",
+      "vehicle",
+      "moto",
+      "automobile"
     ],
     "category":"Transportation",
     "release":"2.1.5"
@@ -9560,7 +9699,13 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "hostage,crime,capture,hijack,arrest,theft,taking captive,abuse"
+      "hostage",
+      "crime",
+      "capture",
+      "hijack",
+      "arrest","theft",
+      "taking captive",
+      "abuse"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9569,7 +9714,8 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "butane,liquid fuel"
+      "butane",
+      "liquid fuel"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9578,7 +9724,12 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "tree,brance,disturbed,plants,woods,forest"
+      "tree",
+      "brance",
+      "disturbed",
+      "plants",
+      "woods",
+      "forest"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9587,7 +9738,11 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "dolphin,ocean,sea,coastal,whale"
+      "dolphin",
+      "ocean",
+      "sea",
+      "coastal",
+      "whale"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9596,7 +9751,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "duck,water fowl,sport,recreation"
+      "duck",
+      "water fowl",
+      "sport",
+      "recreation"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9605,7 +9763,11 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal,mammal,deer,nature,park"
+      "animal",
+      "mammal",
+      "deer",
+      "nature",
+      "park"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9614,7 +9776,10 @@
     "alias":[
       "2.1.5",
       "transportation",
-      "bike,dirt bike,moped,scooter"
+      "bike",
+      "dirt bike",
+      "moped",
+      "scooter"
     ],
     "category":"Transportation",
     "release":"2.1.5"
@@ -9623,7 +9788,9 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal,mammal,nature"
+      "animal",
+      "mammal",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9632,7 +9799,11 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "crime,lewd,profane,x rated,erotic"
+      "crime",
+      "lewd",
+      "profane",
+      "x rated",
+      "erotic"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9641,7 +9812,8 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "butane,liquid fuel"
+      "butane",
+      "liquid fuel"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9650,7 +9822,10 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "money,exchange,sex industry,crime,brothel"
+      "money",
+      "exchange",
+      "sex industry",
+      "crime,brothel"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9659,7 +9834,11 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "protected area,sanctuary,safety,bird,water fowl"
+      "protected area",
+      "sanctuary",
+      "safety",
+      "bird",
+      "water fowl"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9668,7 +9847,8 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal,reptile,lizard"
+      "animal","reptile",
+      "lizard"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9677,7 +9857,12 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "theft,crime,steal,cart,robbery,burglary"
+      "theft",
+      "crime",
+      "steal",
+      "cart",
+      "robbery",
+      "burglary"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9686,7 +9871,14 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "hit,crime,beat,attack,strike,batter,violence,punch"
+      "hit",
+      "crime",
+      "beat",
+      "attack",
+      "strike",
+      "batter",
+      "violence",
+      "punch"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9695,7 +9887,9 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal,reptile,nature"
+      "animal",
+      "reptile",
+      "nature"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9704,7 +9898,14 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "car,drive,fast,rush,violation,accelerate,expedite,race"
+      "car",
+      "drive",
+      "fast",
+      "rush",
+      "violation",
+      "accelerate",
+      "expedite",
+      "race"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9713,7 +9914,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "protected,warning,water"
+      "protected",
+      "warning",
+      "water"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9722,7 +9925,8 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "protected,warning"
+      "protected",
+      "warning"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9731,7 +9935,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "calender,violation,warning,date"
+      "calender","violation",
+      "warning",
+      "date"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9740,7 +9946,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "duck,water fowl,warning,protected"
+      "duck","water fowl",
+      "warning",
+      "protected"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9749,7 +9957,12 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "property,crime,theft,larceny,burglary,steal"
+      "property",
+      "crime",
+      "theft",
+      "larceny",
+      "burglary",
+      "steal"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9758,7 +9971,14 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "theft,steal,crime,vending machine,property,robbery,burglary"
+      "theft",
+      "steal",
+      "crime",
+      "vending",
+      "machine",
+      "property",
+      "robbery",
+      "burglary"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9767,7 +9987,12 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "theft,crime,steal,car,wheel,larceny,property"
+      "theft",
+      "crime",
+      "steal",
+      "car",
+      "wheel",
+      "larceny,property"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9776,7 +10001,11 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "animal,prints,feet,trace,wilderness"
+      "animal",
+      "prints",
+      "feet",
+      "trace",
+      "wilderness"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9785,7 +10014,13 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "video,track,forest,photo,image,nature,camera"
+      "video",
+      "track",
+      "forest",
+      "photo",
+      "image",
+      "nature",
+      "camera"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9794,7 +10029,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "track,catch animal,wildlife"
+      "track",
+      "catch",
+      "animal",
+      "wildlife"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9803,7 +10041,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "hide,ladder,platform"
+      "hide",
+      "ladder",
+      "platform"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9812,7 +10052,11 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "person,do not enter,violation,intrusion,break in"
+      "person",
+      "do not enter",
+      "violation",
+      "intrusion",
+      "break in"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9821,7 +10065,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "person,do not enter,violation"
+      "person",
+      "do not enter",
+      "violation"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9830,7 +10076,10 @@
     "alias":[
       "2.1.5",
       "wildlife",
-      "animal,bird,mammal,thanksgiving"
+      "animal",
+      "bird",
+      "mammal",
+      "thanksgiving"
     ],
     "category":"Wildlife",
     "release":"2.1.5"
@@ -9839,7 +10088,8 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "car,warning"
+      "car",
+      "warning"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9848,7 +10098,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "warning,deer,protected"
+      "warning",
+      "deer",
+      "protected"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9857,7 +10109,8 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "warning,vegetation"
+      "warning",
+      "vegetation"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9884,7 +10137,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "warning,loud,sound"
+      "warning",
+      "loud",
+      "sound"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9893,7 +10148,11 @@
     "alias":[
       "2.1.5",
       "law enforcement",
-      "destruction,trashing,graffiti,damage,blight"
+      "destruction",
+      "trashing",
+      "graffiti",
+      "damage",
+      "blight"
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
@@ -9902,7 +10161,10 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "tire,road,trace,car"
+      "tire",
+      "road",
+      "trace",
+      "car"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9911,7 +10173,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "bird,duck,water bird"
+      "bird",
+      "duck",
+      "water bird"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9920,7 +10184,9 @@
     "alias":[
       "2.1.5",
       "hunting safety",
-      "warning,protected,duck"
+      "warning",
+      "protected",
+      "duck"
     ],
     "category":"Hunting Safety",
     "release":"2.1.5"
@@ -9929,7 +10195,9 @@
     "alias":[
       "2.1.5",
       "planning and development",
-      "wind turbine,alternative energy,renewable energy"
+      "wind turbine",
+      "alternative energy",
+      "renewable energy"
     ],
     "category":"Planning and Development",
     "release":"2.1.5"
