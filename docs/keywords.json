@@ -8511,7 +8511,7 @@
     "category":"Agriculture",
     "release":"2.1.4"
   },
-  "assault":{
+  "assault2":{
     "alias":[
       "2.1.4",
       "violence",
@@ -8585,7 +8585,7 @@
     "category":"Transportation",
     "release":"2.1.4"
   },
-  "car":{
+  "car2":{
     "alias":[
       "2.1.4",
       "car",
@@ -9215,20 +9215,6 @@
     "category":"Hunting Safety",
     "release":"2.1.5"
   },
-  "hog":{
-    "alias":[
-      "2.1.5",
-      "wildlife",
-      "pig",
-      "boar",
-      "animal",
-      "nature",
-      "mammal",
-      "bacon"
-    ],
-    "category":"Wildlife",
-    "release":"2.1.5"
-  },
   "snake":{
     "alias":[
       "2.1.5",
@@ -9259,7 +9245,7 @@
       "2.1.5",
       "planning and development",
       "building",
-      "bligh"t,
+      "blight",
       "abandoned",
       "structure",
       "deserted"
@@ -9478,18 +9464,6 @@
     "category":"Hunting Safety",
     "release":"2.1.5"
   },
-  "deer":{
-    "alias":[
-      "2.1.5",
-      "wildlife",
-      "animal",
-      "mammal",
-      "park",
-      "nature"
-    ],
-    "category":"Wildlife",
-    "release":"2.1.5"
-  },
   "duck-blind":{
     "alias":[
       "2.1.5",
@@ -9537,18 +9511,6 @@
       "corruption"
     ],
     "category":"Law Enforcement",
-    "release":"2.1.5"
-  },
-  "failure-to-pay-entrance-fee":{
-    "alias":[
-      "2.1.5",
-      "hunting safety",
-      "enter",
-      "cost",
-      "door",
-      "access denied"
-    ],
-    "category":"Hunting Safety",
     "release":"2.1.5"
   },
   "federal-duck-stamp-violation":{
@@ -9853,7 +9815,7 @@
     "category":"Wildlife",
     "release":"2.1.5"
   },
-  "shoplifting":{
+  "shoplifting2":{
     "alias":[
       "2.1.5",
       "law enforcement",
@@ -9881,17 +9843,6 @@
       "punch"
     ],
     "category":"Law Enforcement",
-    "release":"2.1.5"
-  },
-  "snake":{
-    "alias":[
-      "2.1.5",
-      "wildlife",
-      "animal",
-      "reptile",
-      "nature"
-    ],
-    "category":"Wildlife",
     "release":"2.1.5"
   },
   "speeding":{
