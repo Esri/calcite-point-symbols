@@ -8558,7 +8558,7 @@
       "birthing",
       "baby",
       "hospital",
-      "midewife",
+      "midwife",
       "new born",
       "child",
       "child care",
@@ -8675,7 +8675,7 @@
       "2.1.4",
       "Health And Human Services",
       "broken heart",
-      "seperation"
+      "separation"
     ],
     "category":"Health And Human Services",
     "release":"2.1.4"
@@ -8686,7 +8686,7 @@
       "Law Enforcement",
       "broken house",
       "broken family",
-      "seperation",
+      "separation",
       "devastation",
       "split"
     ],
@@ -8712,7 +8712,7 @@
       "car key",
       "inebriated",
       "impaired",
-      "intoxied",
+      "intoxicated",
       "driving under the influence"
     ],
     "category":"Law Enforcement",
@@ -8765,7 +8765,7 @@
     "alias":[
       "2.1.4",
       "Planning And Development",
-      "boundry",
+      "boundary",
       "yard",
       "property",
       "closed",
@@ -9024,11 +9024,11 @@
       "abuse",
       "sexual violence",
       "domestic abuse",
-      "domestic voilence",
+      "domestic violence",
       "molestation",
       "physical abuse",
       "violation",
-      "abuduction",
+      "abduction",
       "kidnapping",
       "force"
     ],
@@ -9067,7 +9067,7 @@
       "2.1.4",
       "Agriculture",
       "farming",
-      "harvast",
+      "harvest",
       "rural",
       "cultivation"
     ],
@@ -9103,7 +9103,7 @@
   "van":{
     "alias":[
       "2.1.4",
-      "transportaiton",
+      "transportation",
       "vehicle",
       "car",
       "delivery",
@@ -9898,7 +9898,7 @@
     "category":"Law Enforcement",
     "release":"2.1.5"
   },
-  "theft-from-coin-operated-machine-or-deviice":{
+  "theft-from-coin-operated-machine-or-device":{
     "alias":[
       "2.1.5",
       "law enforcement",
