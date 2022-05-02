@@ -6400,6 +6400,7 @@
       "animal tracks",
       "animals",
       "conservation"
+      "tracks"
     ],
     "category":"Wildlife",
     "release":"2.1.0"
@@ -8828,6 +8829,7 @@
       "attacks",
       "virus",
       "data breach"
+      "hacking computer invasion"
     ],
     "category":"Law Enforcement",
     "release":"2.1.4"
@@ -8871,6 +8873,7 @@
       "ransom",
       "hijack",
       "victim"
+      "abduction"
     ],
     "category":"Law Enforcement",
     "release":"2.1.4"
@@ -9241,19 +9244,6 @@
     "category":"Wildlife",
     "release":"2.1.5"
   },
-  "abandoned-property":{
-    "alias":[
-      "2.1.5",
-      "planning and development",
-      "building",
-      "blight",
-      "abandoned",
-      "structure",
-      "deserted"
-    ],
-    "category":"Planning and Development",
-    "release":"2.1.5"
-  },
   "all-other-larceny":{
     "alias":[
       "2.1.5",
@@ -9529,21 +9519,6 @@
     "category":"Wildlife",
     "release":"2.1.5"
   },
-  "hacking-computer-invasion":{
-    "alias":[
-      "2.1.5",
-      "law enforcement",
-      "it",
-      "cyber security",
-      "theft",
-      "computer",
-      "technology",
-      "date",
-      "risk"
-    ],
-    "category":"Law Enforcement",
-    "release":"2.1.5"
-  },
   "hog":{
     "alias":[
       "2.1.5",
@@ -9635,21 +9610,6 @@
       "automobile"
     ],
     "category":"Transportation",
-    "release":"2.1.5"
-  },
-  "kidnapping-abduction":{
-    "alias":[
-      "2.1.5",
-      "law enforcement",
-      "hostage",
-      "crime",
-      "capture",
-      "hijack",
-      "arrest","theft",
-      "taking captive",
-      "abuse"
-    ],
-    "category":"Law Enforcement",
     "release":"2.1.5"
   },
   "large-propane-tank":{
@@ -9928,19 +9888,6 @@
     "category":"Law Enforcement",
     "release":"2.1.5"
   },
-  "tracks":{
-    "alias":[
-      "2.1.5",
-      "hunting safety",
-      "animal",
-      "prints",
-      "feet",
-      "trace",
-      "wilderness"
-    ],
-    "category":"Hunting Safety",
-    "release":"2.1.5"
-  },
   "trail-cam":{
     "alias":[
       "2.1.5",
@@ -10073,19 +10020,6 @@
       "sound"
     ],
     "category":"Hunting Safety",
-    "release":"2.1.5"
-  },
-  "vandalism":{
-    "alias":[
-      "2.1.5",
-      "law enforcement",
-      "destruction",
-      "trashing",
-      "graffiti",
-      "damage",
-      "blight"
-    ],
-    "category":"Law Enforcement",
     "release":"2.1.5"
   },
   "vehicle-tracks":{
