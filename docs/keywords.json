@@ -5577,6 +5577,7 @@
       "bet",
       "den",
       "house"
+      "betting wagering operating promoting assisting gambling"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -9315,27 +9316,6 @@
       "land"
     ],
     "category":"Agriculture",
-    "release":"2.1.5"
-  },
-  "betting-wagering-operating-promoting-assisting-gambling":{
-    "alias":[
-      "2.1.5",
-      "law enforcement",
-      "gambling",
-      "board games",
-      "games",
-      "casino",
-      "board game cafe",
-      "hobby",
-      "hobbies",
-      "gamble",
-      "club house",
-      "club",
-      "bet",
-      "den",
-      "house"
-    ],
-    "category":"Law Enforcement",
     "release":"2.1.5"
   },
   "bird-nest":{
