@@ -1,0 +1,1 @@
+export const theftOfMotorVehiclePartsOrAccessories21: string;

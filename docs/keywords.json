@@ -5576,7 +5576,8 @@
       "club",
       "bet",
       "den",
-      "house"
+      "house",
+      "betting wagering operating promoting assisting gambling"
     ],
     "category":"Points Of Interest",
     "release":"2.1.0"
@@ -6398,7 +6399,8 @@
       "veterinarian",
       "animal tracks",
       "animals",
-      "conservation"
+      "conservation",
+      "tracks"
     ],
     "category":"Wildlife",
     "release":"2.1.0"
@@ -7933,7 +7935,7 @@
       "Public Works",
       "underground storage tank",
       "utility and pipeline",
-      "planning and development"
+      "Planning And Development"
     ],
     "category":"Public Works",
     "release":"2.1.0"
@@ -8511,9 +8513,8 @@
     "category":"Agriculture",
     "release":"2.1.4"
   },
-  "assault":{
+  "assault2":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "violence",
       "fist",
@@ -8545,7 +8546,6 @@
   "big-foot":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "sighting",
       "sasquash"
     ],
@@ -8555,12 +8555,11 @@
   "birth":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "Health and Human Services",
+      "Health And Human Services",
       "birthing",
       "baby",
       "hospital",
-      "midewife",
+      "midwife",
       "new born",
       "child",
       "child care",
@@ -8569,12 +8568,11 @@
       "infant",
       "delivery"
     ],
-    "category":"Health and Human Services",
+    "category":"Health And Human Services",
     "release":"2.1.4"
   },
   "box-van":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Transportation",
       "moving",
@@ -8589,9 +8587,8 @@
     "category":"Transportation",
     "release":"2.1.4"
   },
-  "car":{
+  "car2":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "car",
       "vehicle",
@@ -8616,7 +8613,6 @@
   "cctv-camera":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Law Enforcement",
       "closed circuit television",
       "footage",
@@ -8632,8 +8628,7 @@
   "child-abuse":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "Health and Human Services",
+      "Health And Human Services",
       "violence",
       "domestic violence",
       "kid",
@@ -8646,7 +8641,7 @@
       "child protective services",
       "neglect"
     ],
-    "category":"Health and Human Services",
+    "category":"Health And Human Services",
     "release":"2.1.4"
   },
   "container-ship":{
@@ -8668,7 +8663,6 @@
   "cult":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Law Enforcement",
       "religion",
       "manipulation",
@@ -8680,22 +8674,20 @@
   "divorce":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "Health and Human Services",
+      "Health And Human Services",
       "broken heart",
-      "seperation"
+      "separation"
     ],
-    "category":"Health and Human Services",
+    "category":"Health And Human Services",
     "release":"2.1.4"
   },
   "domestic-disturbance":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Law Enforcement",
       "broken house",
       "broken family",
-      "seperation",
+      "separation",
       "devastation",
       "split"
     ],
@@ -8704,7 +8696,6 @@
   },
   "door":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Generic",
       "entry",
@@ -8717,13 +8708,12 @@
   "dui":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "drunk driving",
       "alcohol",
       "car key",
       "inebriated",
       "impaired",
-      "intoxied",
+      "intoxicated",
       "driving under the influence"
     ],
     "category":"Law Enforcement",
@@ -8731,7 +8721,6 @@
   },
   "entrance":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "generic",
       "door",
@@ -8744,7 +8733,6 @@
   "exit":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "generic",
       "leave",
       "door",
@@ -8755,7 +8743,6 @@
   },
   "fair":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Community Events",
       "tent",
@@ -8778,20 +8765,18 @@
   "fence-point":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "Planning and Development",
-      "boundry",
+      "Planning And Development",
+      "boundary",
       "yard",
       "property",
       "closed",
       "gate"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.4"
   },
   "fuel-can":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "law enforcement",
       "arson",
@@ -8809,19 +8794,17 @@
   "garage-door":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "Planning and Development",
+      "Planning And Development",
       "storage",
       "parking"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.4"
   },
   "gateway-2":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "Planning and Development",
+      "Planning And Development",
       "gate",
       "door",
       "entrance",
@@ -8830,12 +8813,11 @@
       "access",
       "yard"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.4"
   },
   "hacker":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "computer",
@@ -8846,14 +8828,14 @@
       "ransom",
       "attacks",
       "virus",
-      "data breach"
+      "data breach",
+      "hacking computer invasion"
     ],
     "category":"Law Enforcement",
     "release":"2.1.4"
   },
   "hitchhiker":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Transportation",
       "thumb",
@@ -8865,7 +8847,6 @@
   },
   "investigation":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "finger print",
@@ -8882,7 +8863,6 @@
   "kidnapping":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Law Enforcement",
       "hands bound",
       "crime",
@@ -8892,7 +8872,8 @@
       "hostage",
       "ransom",
       "hijack",
-      "victim"
+      "victim",
+      "abduction"
     ],
     "category":"Law Enforcement",
     "release":"2.1.4"
@@ -8900,19 +8881,17 @@
   "marriage":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "Health and Human Services",
+      "Health And Human Services",
       "rings",
       "ceremony",
       "domestic partnership",
       "wedding"
     ],
-    "category":"Health and Human Services",
+    "category":"Health And Human Services",
     "release":"2.1.4"
   },
   "missing-person":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "lost",
@@ -8926,7 +8905,6 @@
   "pickup-truck":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "transportation",
       "vehicle",
       "car",
@@ -8937,7 +8915,6 @@
   },
   "pirate":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "security",
@@ -8952,7 +8929,6 @@
   },
   "police-9-unit":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "dog",
@@ -8974,7 +8950,6 @@
   "raft":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "water",
       "emergency rescue",
@@ -8986,7 +8961,6 @@
   },
   "riot":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "bomb",
@@ -9016,7 +8990,6 @@
   "sail-boat":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "water",
       "ocean",
@@ -9035,7 +9008,6 @@
   "semi-truck":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "18 wheeler",
       "big rig",
@@ -9049,18 +9021,17 @@
   "sexual-assault":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Law Enforcement",
       "rape",
       "protection",
       "abuse",
       "sexual violence",
       "domestic abuse",
-      "domestic voilence",
+      "domestic violence",
       "molestation",
       "physical abuse",
       "violation",
-      "abuduction",
+      "abduction",
       "kidnapping",
       "force"
     ],
@@ -9069,7 +9040,6 @@
   },
   "small-boat":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "transportation",
       "water",
@@ -9086,7 +9056,6 @@
   "submarine":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Transportation",
       "underwater",
       "underwater craft",
@@ -9099,10 +9068,9 @@
   "tractor":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Agriculture",
       "farming",
-      "harvast",
+      "harvest",
       "rural",
       "cultivation"
     ],
@@ -9111,7 +9079,6 @@
   },
   "arrow-circle":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Generic",
       "arrow",
@@ -9128,7 +9095,6 @@
   "ufo-uap":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Generic",
       "unidentified flying objects",
       "unidentified aerial phenomena",
@@ -9140,8 +9106,7 @@
   "van":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "transportaiton",
+      "transportation",
       "vehicle",
       "car",
       "delivery",
@@ -9153,7 +9118,6 @@
   },
   "welfare-checkup":{
     "alias":[
-      "2.1.4",
       "2.1.4",
       "Law Enforcement",
       "police",
@@ -9167,7 +9131,6 @@
   "window":{
     "alias":[
       "2.1.4",
-      "2.1.4",
       "Generic",
       "entry",
       "glass",
@@ -9179,8 +9142,7 @@
   "financial-transaction":{
     "alias":[
       "2.1.4",
-      "2.1.4",
-      "generic",
+      "Generic",
       "atm",
       "money",
       "purchase",
@@ -9198,5 +9160,911 @@
     ],
     "category":"Generic",
     "release":"2.1.4"
+  },
+  "sensor":{
+    "alias":[
+      "2.1.5",
+      "Generic",
+      "technology",
+      "smart sensor",
+      "wifi",
+      "signal",
+      "device",
+      "connection",
+      "IoT",
+      "internet of things",
+      "radar",
+      "tracking",
+      "remote sensor",
+      "motion detection",
+      "communication"
+    ],
+    "category":"Generic",
+    "release":"2.1.5"
+  },
+  "coyote":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "animal",
+      "mammal",
+      "nature"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "elk":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "deer",
+      "animal",
+      "park",
+      "nature"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "failure-to-pay-entrance-fee":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "enter",
+      "cost",
+      "access",
+      "door",
+      "warning",
+      "denied"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "snake":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "reptile",
+      "animal",
+      "nature"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "wolf":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "wolf pack",
+      "animal",
+      "mammal",
+      "park",
+      "howl",
+      "nature"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "all-other-larceny":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "crime",
+      "steal",
+      "theft",
+      "burglary"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "alligator":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "crocodile",
+      "reptile",
+      "animal",
+      "swamp",
+      "quad",
+      "everglades"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "animal-cruelty":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "dog",
+      "pet",
+      "warning",
+      "abuse",
+      "violation"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "atv":{
+    "alias":[
+      "2.1.5",
+      "transportation",
+      "vehicle",
+      "car",
+      "offroading"
+    ],
+    "category":"Transportation",
+    "release":"2.1.5"
+  },
+  "bait":{
+    "alias":[
+      "2.1.5",
+      "agriculture",
+      "corn",
+      "feed",
+      "food",
+      "farm",
+      "agriculture",
+      "land"
+    ],
+    "category":"Agriculture",
+    "release":"2.1.5"
+  },
+  "bird-nest":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "egg",
+      "incubation",
+      "protected"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "bird-tagging-violation":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "duck",
+      "water fowl",
+      "protected",
+      "warning",
+      "bird banding"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "bobcat":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "animal",
+      "mammal",
+      "nature"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "box-stand":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "structure",
+      "hide",
+      "hunting",
+      "tower",
+      "woods"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "bribery":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "money",
+      "exchange",
+      "payoff",
+      "corruption",
+      "crime"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "counterfeiting-forgery":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "warning",
+      "crime",
+      "money",
+      "fake"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "crab-pot":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "animal",
+      "ocean",
+      "coastal",
+      "sea"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "crab-pot-violation":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "ocean",
+      "sea",
+      "warning",
+      "harvesting",
+      "coastal"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "credit-card-fraud":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "crime",
+      "warning",
+      "identity",
+      "theft",
+      "money",
+      "scam"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "curfew-loitering-vagrancy-violations":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "person",
+      "enter",
+      "linger",
+      "trespass",
+      "do not enter",
+      "time"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "duck-blind":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "structure",
+      "bird,hide"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "eagle":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "bird",
+      "hawk",
+      "protected",
+      "falcon"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "embezzlement":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "crime",
+      "fraud",
+      "corruption",
+      "money",
+      "steal",
+      "theft",
+      "finance"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "extortion-blackmail":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "blackmail",
+      "fraud","steal",
+      "payoff",
+      "corruption"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "federal-duck-stamp-violation":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "conservation",
+      "warning",
+      "bird",
+      "water fowl"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "float-blind":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "duck",
+      "boat",
+      "water",
+      "hide"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "furbearer":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "beaver",
+      "animal",
+      "mammal",
+      "nature"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "hog":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "pig",
+      "boar",
+      "bacon",
+      "animal",
+      "mammal",
+      "nature"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "human-footprints":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "track",
+      "trace",
+      "wilderness",
+      "feet"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "human-trafficking-commercial-sex-acts":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "price",
+      "exploitation",
+      "crime",
+      "victims",
+      "profit"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "identity-theft":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "steal",
+      "crime",
+      "fraud",
+      "impersonation",
+      "fake",
+      "stolen",
+      "id"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "illegal-sale-barter-trade-of-migratory-game-bird-parts-nests-or-eggs":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "bird",
+      "water fowl",
+      "money",
+      "protected"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "intimidation":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "scaring",
+      "frightening",
+      "bulling",
+      "harassment",
+      "abuse",
+      "terror",
+      "threats"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "jeep":{
+    "alias":[
+      "2.1.5",
+      "transportation",
+      "car",
+      "vehicle",
+      "moto",
+      "automobile"
+    ],
+    "category":"Transportation",
+    "release":"2.1.5"
+  },
+  "large-propane-tank":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "butane",
+      "liquid fuel"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "manipulated-vegetation":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "tree",
+      "brance",
+      "disturbed",
+      "plants",
+      "woods",
+      "forest"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "marine-mammal":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "dolphin",
+      "ocean",
+      "sea",
+      "coastal",
+      "whale"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "migratory-bird-hunting":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "duck",
+      "water fowl",
+      "sport",
+      "recreation"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "moose":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "animal",
+      "mammal",
+      "deer",
+      "nature",
+      "park"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "motorcycle":{
+    "alias":[
+      "2.1.5",
+      "transportation",
+      "bike",
+      "dirt bike",
+      "moped",
+      "scooter"
+    ],
+    "category":"Transportation",
+    "release":"2.1.5"
+  },
+  "mountain-lion":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "animal",
+      "mammal",
+      "nature"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "pornography-obscene-material":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "crime",
+      "lewd",
+      "profane",
+      "x rated",
+      "erotic"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "propane-tank":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "butane",
+      "liquid fuel"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "prostitution-assisting-or-promoting-prostitution-purchasing-prostitution":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "money",
+      "exchange",
+      "sex industry",
+      "crime,brothel"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "refuge-specific-violations":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "protected area",
+      "sanctuary",
+      "safety",
+      "bird",
+      "water fowl"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "reptile":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "animal","reptile",
+      "lizard"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "shoplifting2":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "theft",
+      "crime",
+      "steal",
+      "cart",
+      "robbery",
+      "burglary"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "simple-assault":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "hit",
+      "crime",
+      "beat",
+      "attack",
+      "strike",
+      "batter",
+      "violence",
+      "punch"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "speeding":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "car",
+      "drive",
+      "fast",
+      "rush",
+      "violation",
+      "accelerate",
+      "expedite",
+      "race"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "state-fishing-violation":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "protected",
+      "warning",
+      "water"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "state-hunting-violation":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "protected",
+      "warning"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "take-during-closed-season":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "calender","violation",
+      "warning",
+      "date"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "take-in-a-closed-area":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "duck","water fowl",
+      "warning",
+      "protected"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "theft-from-building":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "property",
+      "crime",
+      "theft",
+      "larceny",
+      "burglary",
+      "steal"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "theft-from-coin-operated-machine-or-device":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "theft",
+      "steal",
+      "crime",
+      "vending",
+      "machine",
+      "property",
+      "robbery",
+      "burglary"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "theft-of-motor-vehicle-parts-or-accessories":{
+    "alias":[
+      "2.1.5",
+      "law enforcement",
+      "theft",
+      "crime",
+      "steal",
+      "car",
+      "wheel",
+      "larceny,property"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.5"
+  },
+  "trail-cam":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "video",
+      "track",
+      "forest",
+      "photo",
+      "image",
+      "nature",
+      "camera"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "trap-set":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "track",
+      "catch",
+      "animal",
+      "wildlife"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "tree-stand":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "hide",
+      "ladder",
+      "platform"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "trespass":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "person",
+      "do not enter",
+      "violation",
+      "intrusion",
+      "break in"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "trespass-of-real-property":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "person",
+      "do not enter",
+      "violation"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "turkey":{
+    "alias":[
+      "2.1.5",
+      "wildlife",
+      "animal",
+      "bird",
+      "mammal",
+      "thanksgiving"
+    ],
+    "category":"Wildlife",
+    "release":"2.1.5"
+  },
+  "unauthorized-motor-vehicle-use":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "car",
+      "warning"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "unlawful-take-of-animals":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "warning",
+      "deer",
+      "protected"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "unlawful-take-of-plants":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "warning",
+      "vegetation"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "unlawful-use-of-electronic-calls":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "bird"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "unlawful-use-of-metal-detector":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "warning"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "unreasonable-noise":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "warning",
+      "loud",
+      "sound"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "vehicle-tracks":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "tire",
+      "road",
+      "trace",
+      "car"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "waterfowl":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "bird",
+      "duck",
+      "water bird"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "waterfowl-hunting-violation":{
+    "alias":[
+      "2.1.5",
+      "hunting safety",
+      "warning",
+      "protected",
+      "duck"
+    ],
+    "category":"Hunting Safety",
+    "release":"2.1.5"
+  },
+  "windmill":{
+    "alias":[
+      "2.1.5",
+      "planning and development",
+      "wind turbine",
+      "alternative energy",
+      "renewable energy"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.5"
   }
 }

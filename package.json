@@ -1,11 +1,11 @@
 {
   "name": "calcite-point-symbols",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "private": true,
   "description": "A collection of SVG illustrations for map symbology",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArcGIS/calcite-point-symbols.git"
+    "url": "git+https://github.com/Esri/calcite-point-symbols.git"
   },
   "main": "index.js",
   "js-next:main": "index.js",

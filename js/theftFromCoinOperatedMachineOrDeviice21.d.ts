@@ -1,0 +1,1 @@
+export const theftFromCoinOperatedMachineOrDeviice21: string;

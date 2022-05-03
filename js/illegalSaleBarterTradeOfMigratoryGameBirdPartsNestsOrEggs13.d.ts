@@ -1,0 +1,1 @@
+export const illegalSaleBarterTradeOfMigratoryGameBirdPartsNestsOrEggs13: string;

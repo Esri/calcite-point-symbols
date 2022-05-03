@@ -1,0 +1,1 @@
+export const prostitutionAssistingOrPromotingProstitutionPurchasingProstitution21: string;
