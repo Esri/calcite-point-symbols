@@ -961,7 +961,7 @@ export const steak21: string;
 export const steroids13: string;
 export const steroids17: string;
 export const steroids21: string;
-export const stolenPropertyOffenNaN: string;
+export const stolenPropertyOffenses21: string;
 export const storageElectrical21: string;
 export const storageWaterAndSewer21: string;
 export const stormwater21: string;
