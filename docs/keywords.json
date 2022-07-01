@@ -9755,7 +9755,7 @@
     "category":"Wildlife",
     "release":"2.1.5"
   },
-  "shoplifting2":{
+  "shoplifting-cart":{
     "alias":[
       "2.1.5",
       "law enforcement",
@@ -10059,12 +10059,23 @@
   "windmill":{
     "alias":[
       "2.1.5",
-      "planning and development",
+      "Planning And Development",
       "wind turbine",
       "alternative energy",
       "renewable energy"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
+    "release":"2.1.5"
+  },
+  "stolen-property-offenses":{
+    "alias":[
+      "2.1.5",
+      "Law Enforcement",
+      "recovered property",
+      "crime",
+      "theft"
+    ],
+    "category":"Law Enforcement",
     "release":"2.1.5"
   }
 }
