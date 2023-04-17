@@ -1009,7 +1009,7 @@ export {theater13} from "./js/theater13.js";
 export {theater17} from "./js/theater17.js";
 export {theater21} from "./js/theater21.js";
 export {theftFromBuilding21} from "./js/theftFromBuilding21.js";
-export {theftFromCoinOperatedMachineOrDeviice21} from "./js/theftFromCoinOperatedMachineOrDeviice21.js";
+export {theftFromCoinOperatedMachineOrDevice21} from "./js/theftFromCoinOperatedMachineOrDevice21.js";
 export {theftOfMotorVehiclePartsOrAccessories21} from "./js/theftOfMotorVehiclePartsOrAccessories21.js";
 export {thumbDown21} from "./js/thumbDown21.js";
 export {thunderstorm21} from "./js/thunderstorm21.js";

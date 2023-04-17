@@ -1016,7 +1016,7 @@ export const theater13: string;
 export const theater17: string;
 export const theater21: string;
 export const theftFromBuilding21: string;
-export const theftFromCoinOperatedMachineOrDeviice21: string;
+export const theftFromCoinOperatedMachineOrDevice21: string;
 export const theftOfMotorVehiclePartsOrAccessories21: string;
 export const thumbDown21: string;
 export const thunderstorm21: string;
