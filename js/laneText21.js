@@ -1,0 +1,1 @@
+export const laneText21 = "M8.1 1L7 20h.9l.158-3h.884l.158 3h.9L8.9 1h-.8zm.116 13L8.5 8.6l.284 5.4h-.568zM13 1h1v19h-.9L12 10.5V20h-1V1h.9L13 11V1zm3 3v4h2v3h-2v6h2v3h-3V1h3v3h-2zM4 17h2v3H3V1h1v16z";
