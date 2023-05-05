@@ -9858,22 +9858,6 @@
     "category":"Law Enforcement",
     "release":"2.1.5"
   },
-  "theft-from-coin-operated-machine-or-device":{
-    "alias":[
-      "2.1.5",
-      "law enforcement",
-      "theft",
-      "steal",
-      "crime",
-      "vending",
-      "machine",
-      "property",
-      "robbery",
-      "burglary"
-    ],
-    "category":"Law Enforcement",
-    "release":"2.1.5"
-  },
   "theft-of-motor-vehicle-parts-or-accessories":{
     "alias":[
       "2.1.5",
@@ -10077,5 +10061,1536 @@
     ],
     "category":"Law Enforcement",
     "release":"2.1.5"
+  }, 
+  "accessibility-parking-space":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "wheelchair", 
+      "disabled", 
+      "sign"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "atoll-pool":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "water", 
+      "activity", 
+      "park", 
+      "infrastructure"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "auditorium":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "amphitheater", 
+      "music", 
+      "concert", 
+      "playhouse", 
+      "hall"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "baseball":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "basketball":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "bicycle":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "bicycle-detector":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "bike-park":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "bike-repair":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "fix"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "ahead-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "barn":{
+    "alias":[
+      "2.1.7",
+      "agriculture",
+      "structure", 
+      "farm", 
+      "animal", 
+      "country"
+    ],
+    "category":"Agriculture",
+    "release":"2.1.7"
+  }, 
+  "bike-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "bollard":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "block", 
+      "stop", 
+      "traffic control"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "braille":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "blind", 
+      "sign", 
+      "visually impaired", 
+      "park", 
+      "infrastructure"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "breastfeeding-station":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "mother", 
+      "child", 
+      "parent"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "bump-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "bus-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "cabana":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "water", 
+      "rest"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "campfire":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "camping", 
+      "campground"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "canopy":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "rest", 
+      "gathering"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "carousel":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "children", 
+      "play"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "changing-room":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "fitting room"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "chemical-incident":{
+    "alias":[
+      "2.1.7",
+      "generic",
+      "chemistry", 
+      "education", 
+      "science"
+    ],
+    "category":"Generic",
+    "release":"2.1.7"
+  }, 
+  "clear-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "culvert":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "water", 
+      "pipe", 
+      "drain", 
+      "canal"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "disk-golf":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "disk-golf-baskets":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "disk-golf-tees":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "do-not-block-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "dock":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "water", 
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "pier", 
+      "marina", 
+      "harbor"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "dominos":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "game", 
+      "recreation", 
+      "play"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "east-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "exposition-center":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "hall", 
+      "building", 
+      "hall"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "fishing-pier":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "activity", 
+      "dock", 
+      "sport", 
+      "infrastructure", 
+      "park"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "football":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "fountain":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "water", 
+      "infrastructure", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "freeway-expressway-ramp-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "futsal":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "garage":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "infrastructure", 
+      "car", 
+      "transportation", 
+      "parking", 
+      "space", 
+      "parking lot"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "gazebo":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "water", 
+      "infrastructure", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "golf-bag-drop":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "recreation", 
+      "golf course"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "golf-clubhouse":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "golf course", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "golf-driving-range":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "golf course", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "golf-fairway":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "golf course", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "golf-green":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "golf course", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "golf-practice-green":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "golf course", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "golf-sand-bunker":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "gold course", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "golf-tee":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "golf course", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "greenhouse":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "plant", 
+      "arboretum", 
+      "nursery", 
+      "conservatory", 
+      "house"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "handball-racquetball":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "hump-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "ice-skating":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "recreation", 
+      "ice"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "interstate-shield":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "keep-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "lane-reduction-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "lane-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "large-animal-shelter":{
+    "alias":[
+      "2.1.7",
+      "emergency management",
+      "relief", 
+      "house", 
+      "sanctuary"
+    ],
+    "category":"Emergency Management",
+    "release":"2.1.7"
+  }, 
+  "left-turn-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "mph-25-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "multipurpose-field":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "north-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "only-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "park-office":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "camp", 
+      "ranger", 
+      "woods", 
+      "national park"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "pickleball":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "pool":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "water", 
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "swim"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "preferential-lane":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "recreation-fixtures":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "right-or-left-turn-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "right-turn-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "road-closures":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "sign", 
+      "traffic", 
+      "control", 
+      "closed", 
+      "stop"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "rollerskating":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "rugby":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "rxr-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "sandbags":{
+    "alias":[
+      "2.1.7",
+      "emergency management",
+      "flood", 
+      "flooding", 
+      "water"
+    ],
+    "category":"Emergency Management",
+    "release":"2.1.7"
+  }, 
+  "school-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "severe-thunderstorm-incident-2":{
+    "alias":[
+      "2.1.7",
+      "emergency management",
+      "rain", 
+      "heavy rain", 
+      "downpour", 
+      "lightning storm", 
+      "severe weather"
+    ],
+    "category":"Emergency Management",
+    "release":"2.1.7"
+  }, 
+  "shed":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "gathering"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "shelters-2":{
+    "alias":[
+      "2.1.7",
+      "emergency management",
+      "relief", 
+      "help", 
+      "housing", 
+      "house", 
+      "sanctuary", 
+      "home"
+    ],
+    "category":"Emergency Management",
+    "release":"2.1.7"
+  }, 
+  "shooting-range":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "activity", 
+      "recreational", 
+      "infrastructure", 
+      "park"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "shower":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "clean", 
+      "hygiene", 
+      "public health"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "shuffleboard":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "signal-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "skiing":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "winter", 
+      "ice", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "sledding":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "winter", 
+      "cold", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "slow-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "snow-mobile-trail":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "winter", 
+      "ice", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "soccer":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "softball":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "south-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "speed-hump":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "sign", 
+      "traffic", 
+      "control"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "splash-pad":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "water", 
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "cool"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "staff-housing":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "ranger", 
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "employee", 
+      "national park"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "state-route-shield":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "sign", 
+      "traffic", 
+      "highway", 
+      "freeway", 
+      "road"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "stop-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "swimming":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "water", 
+      "recreation", 
+      "swim"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "table":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "field", 
+      "gathering", 
+      "recreation", 
+      "national park", 
+      "camp"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "tennis":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "text-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "theft-from-coin-operated-machine-or-device":{
+    "alias":[
+      "2.1.7",
+      "law enforcement",
+      "theft", 
+      "steal", 
+      "crime", 
+      "vending", 
+      "machine", 
+      "property", 
+      "robbery", 
+      "burglary"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.7"
+  }, 
+  "three-way-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "through-lane-and-left-turn-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "through-lane-and-right-turn-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "through-lane-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "to-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "toddler-pool":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "water", 
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "cool", 
+      "swim"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "track-and-field":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "run", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "trailer":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "camping", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "trailer-parking":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "camping", 
+      "camp", 
+      "infrastructure", 
+      "park", 
+      "national park", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "us-route-shield":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign", 
+      "highway", 
+      "freeway"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "vault-toilet":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "camp", 
+      "camping", 
+      "national park"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "volleyball":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "ball", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "wakeboarding":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "water", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "swim", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "waste-disposal":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "dog", 
+      "pet", 
+      "trash", 
+      "garbage"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "waterfall":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "water", 
+      "national park", 
+      "nature"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "waterslide":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "water", 
+      "activity", 
+      "park", 
+      "infrastructure", 
+      "swim"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "west-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "windsurfing":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "water", 
+      "sport", 
+      "infrastructure", 
+      "field", 
+      "play", 
+      "swim", 
+      "recreation"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "workshop":{
+    "alias":[
+      "2.1.7",
+      "planning and development",
+      "park", 
+      "infrastructure", 
+      "studio", 
+      "house"
+    ],
+    "category":"Planning and Development",
+    "release":"2.1.7"
+  }, 
+  "wrong-way-arrow":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "xing-ped-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "yield-ahead-triangle":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
+  }, 
+  "yield-text":{
+    "alias":[
+      "2.1.7",
+      "transportation",
+      "pavement sign", 
+      "ground sign"
+    ],
+    "category":"Transportation",
+    "release":"2.1.7"
   }
 }
