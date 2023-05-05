@@ -9858,22 +9858,6 @@
     "category":"Law Enforcement",
     "release":"2.1.5"
   },
-  "theft-from-coin-operated-machine-or-device":{
-    "alias":[
-      "2.1.5",
-      "law enforcement",
-      "theft",
-      "steal",
-      "crime",
-      "vending",
-      "machine",
-      "property",
-      "robbery",
-      "burglary"
-    ],
-    "category":"Law Enforcement",
-    "release":"2.1.5"
-  },
   "theft-of-motor-vehicle-parts-or-accessories":{
     "alias":[
       "2.1.5",
@@ -10089,16 +10073,6 @@
     "category":"Planning and Development",
     "release":"2.1.7"
   }, 
-  "ahead-text":{
-    "alias":[
-      "2.1.7",
-      "transportation",
-      "pavement sign", 
-      "ground sign"
-    ],
-    "category":"Transportation",
-    "release":"2.1.7"
-  }, 
   "atoll-pool":{
     "alias":[
       "2.1.7",
@@ -10198,17 +10172,6 @@
     "category":"Planning and Development",
     "release":"2.1.7"
   }, 
-  "accessibility-parking-space":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "wheelchair", 
-      "disabled", 
-      "sign"
-    ],
-    "category":"Planning and Development",
-    "release":"2.1.7"
-  }, 
   "ahead-text":{
     "alias":[
       "2.1.7",
@@ -10217,33 +10180,6 @@
       "ground sign"
     ],
     "category":"Transportation",
-    "release":"2.1.7"
-  }, 
-  "atoll-pool":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "water", 
-      "activity", 
-      "park", 
-      "infrastructure"
-    ],
-    "category":"Planning and Development",
-    "release":"2.1.7"
-  }, 
-  "auditorium":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "amphitheater", 
-      "music", 
-      "concert", 
-      "playhouse", 
-      "hall", 
-      "meeting", 
-      "infrastructure"
-    ],
-    "category":"Planning and Development",
     "release":"2.1.7"
   }, 
   "barn":{
@@ -10256,82 +10192,6 @@
       "country"
     ],
     "category":"Agriculture",
-    "release":"2.1.7"
-  }, 
-  "baseball":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "park", 
-      "sport", 
-      "infrastructure", 
-      "field", 
-      "play", 
-      "ball"
-    ],
-    "category":"Planning and Development",
-    "release":"2.1.7"
-  }, 
-  "basketball":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "park", 
-      "sport", 
-      "infrastructure", 
-      "field", 
-      "play", 
-      "ball"
-    ],
-    "category":"Planning and Development",
-    "release":"2.1.7"
-  }, 
-  "bicycle":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "pavement sign", 
-      "ground sign"
-    ],
-    "category":"Planning and Development",
-    "release":"2.1.7"
-  }, 
-  "bicycle-detector":{
-    "alias":[
-      "2.1.7",
-      "transportation",
-      "pavement sign", 
-      "ground sign"
-    ],
-    "category":"Transportation",
-    "release":"2.1.7"
-  }, 
-  "bike-park":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "park", 
-      "sport", 
-      "infrastructure", 
-      "field", 
-      "play"
-    ],
-    "category":"Planning and Development",
-    "release":"2.1.7"
-  }, 
-  "bike-repair":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "park", 
-      "sport", 
-      "infrastructure", 
-      "field", 
-      "play", 
-      "fix", 
-      "bicycle"
-    ],
-    "category":"Planning and Development",
     "release":"2.1.7"
   }, 
   "bike-text":{
@@ -11636,7 +11496,7 @@
       "park", 
       "infrastructure", 
       "water", 
-      "naitonal park", 
+      "national park", 
       "nature"
     ],
     "category":"Planning and Development",
