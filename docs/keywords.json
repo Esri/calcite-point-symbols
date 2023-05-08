@@ -10126,7 +10126,7 @@
     "category":"Planning and Development",
     "release":"2.1.7"
   }, 
-  "bicycle":{
+  "bike-lane":{
     "alias":[
       "2.1.7",
       "transportation",
@@ -10359,7 +10359,7 @@
     "category":"Planning and Development",
     "release":"2.1.7"
   }, 
-  "disk-golf":{
+  "disc-golf":{
     "alias":[
       "2.1.7",
       "planning and development",
@@ -10372,7 +10372,7 @@
     "category":"Planning and Development",
     "release":"2.1.7"
   }, 
-  "disk-golf-baskets":{
+  "disc-golf-baskets":{
     "alias":[
       "2.1.7",
       "planning and development",
@@ -10386,7 +10386,7 @@
     "category":"Planning and Development",
     "release":"2.1.7"
   }, 
-  "disk-golf-tees":{
+  "disc-golf-tees":{
     "alias":[
       "2.1.7",
       "planning and development",
