@@ -11592,5 +11592,1071 @@
     ],
     "category":"Transportation",
     "release":"2.1.7"
+  }, 
+  "accessibility":{
+    "alias":[
+      "2.1.8",
+      "points of interest",
+      "disability", 
+      "wheelchair", 
+      "person with disability", 
+      "person who is disabled", 
+      "accessible", 
+      "disabled access", 
+      "government", 
+      "safety"
+    ],
+    "category":"Points Of Interest",
+    "release":"2.1.8"
+  }, 
+  "aerial-tram":{
+    "alias":[
+      "2.1.8",
+      "points of interest",
+      "cable car", 
+      "ski lift", 
+      "tourism", 
+      "tourist attraction", 
+      "tramway", 
+      "transportation", 
+      "trolley", 
+      "gondola", 
+      "mountain"
+    ],
+    "category":"Points Of Interest",
+    "release":"2.1.8"
+  }, 
+  "alarm-control-panel":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting "
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "alarm-other":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting "
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "annicniator-panel":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "attic-access":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "basement-access":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "building-access-other":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "ire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "car-two":{
+    "alias":[
+      "2.1.8",
+      "transportation",
+      "transportation", 
+      "motor vehicle theft", 
+      "rideshare", 
+      "taxi", 
+      "commuter vehicle", 
+      "directions", 
+      "drive", 
+      "driving", 
+      "sedan", 
+      "drive time", 
+      "automobile", 
+      "mechanic", 
+      "auto shop", 
+      "body shop", 
+      "parking", 
+      "auto dealership", 
+      "vehicle location", 
+      "commuting", 
+      "travel"
+    ],
+    "category":"Transportation",
+    "release":"2.1.8"
+  }, 
+  "card":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "compressed-natural-gas-shut-off":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "fire service", 
+      "fire department", 
+      "fire fighting "
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "crosshair":{
+    "alias":[
+      "2.1.8",
+      "law enforcement",
+      "law enforcement", 
+      "sniper", 
+      "assassination", 
+      "scope", 
+      "sharpshooter", 
+      "shooting", 
+      "aim", 
+      "active shooter", 
+      "target", 
+      "hostile", 
+      "hostage", 
+      "shooting range", 
+      "archery", 
+      "firing range"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.1.8"
+  }, 
+  "death":{
+    "alias":[
+      "2.1.8",
+      "health and human services",
+      "disease", 
+      "pandemic", 
+      "outbreak", 
+      "epidemic", 
+      "infectious", 
+      "infection", 
+      "virus", 
+      "COVID-19", 
+      "dangerous", 
+      "exposure", 
+      "warning", 
+      "poisonous", 
+      "poison", 
+      "poisoned", 
+      "hazard", 
+      "die", 
+      "plague", 
+      "murder", 
+      "killed", 
+      "deceased", 
+      "casualty", 
+      "fatality", 
+      "graveyard", 
+      "mass grave", 
+      "lethal"
+    ],
+    "category":"Health And Human Services",
+    "release":"2.1.8"
+  }, 
+  "electric-charging-station":{
+    "alias":[
+      "2.1.8",
+      "generic",
+      "car", 
+      "power", 
+      "fuel"
+    ],
+    "category":"Generic",
+    "release":"2.1.8"
+  }, 
+  "electric-shunt-switch":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "electrical-shut-off":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "elevator-1":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "elevator-2":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "escalator":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "fire-department-connection":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "fire-escape":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "fire-service-box":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "fire-suppression-other":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "gas-shut-off":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "gate":{
+    "alias":[
+      "2.1.8",
+      "generic",
+      "entrance", 
+      "denied", 
+      "no entry", 
+      "stop", 
+      "no access"
+    ],
+    "category":"Generic",
+    "release":"2.1.8"
+  }, 
+  "hose-connection":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "hot-cold":{
+    "alias":[
+      "2.1.8",
+      "environment and natural resources",
+      "temperature", 
+      "high low temperature", 
+      "seasons", 
+      "weather", 
+      "meteorology", 
+      "climate"
+    ],
+    "category":"Environment And Natural Resources",
+    "release":"2.1.8"
+  }, 
+  "key-box-other":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "liquefied-natural-gas-shut-off":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "meter-setting":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "mobile-pop-up-vaccination-location":{
+    "alias":[
+      "2.1.8",
+      "health and human services",
+      "disease", 
+      "pandemic", 
+      "outbreak", 
+      "epidemic", 
+      "infectious", 
+      "infection", 
+      "virus", 
+      "COVID-19", 
+      "vaccine", 
+      "vaccinated"
+    ],
+    "category":"Health And Human Services",
+    "release":"2.1.8"
+  }, 
+  "nursery-and-stock-dealer":{
+    "alias":[
+      "2.1.8",
+      "points of interest",
+      "plant", 
+      "shop", 
+      "garden", 
+      "gardening store", 
+      "horticulture", 
+      "seed store", 
+      "botanical", 
+      "market", 
+      "flower shop"
+    ],
+    "category":"Points Of Interest",
+    "release":"2.1.8"
+  }, 
+  "occupancies":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "oxygen-shut-off":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "p-anomaly-external-corrosion":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-anomaly-internal-corrosion":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-anomaly-internal-dent":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-anomaly-internal-gouge":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-anomaly-internal-group":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-anomaly-other":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-anomaly-unknown":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-calibration-point":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-coupon":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-dasurvey-readings":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-document-point":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-elevation":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-gas-leak":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-identified-issue-corrosion":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-identified-issue-damaged-meter":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-identified-issue-dead-vegetation":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-identified-issue-no-access":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-identified-issue-odor":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-identified-issue-other":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-identified-issue-unknown":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-ili-ground-ref-markers":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-ili-survey-group":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-ili-survey-readings-crack":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-ili-survey-readings-material-defect":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-ili-survey-readings-mechanical-damage":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-ili-survey-readings-metal-loss":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-ili-survey-readings-other":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-ili-survey-readings-unknown":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-inspection-note-environmental":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-inspection-note-gas-facility":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-inspection-note-hydrology":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-inspection-note-maintenance":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-inspection-note-other":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-inspection-note-pipe-crossing":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-inspection-note-unknown":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-liquid-leak":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-pipe-crossing":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-pipe-job-separator":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-pipeline-marker-aerial-marker":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-pipeline-marker-other":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-pipeline-marker-pipeline-marker":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-pipeline-marker-unknown":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "p-squeeze-off":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "utility and pipeline"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "police-officer-two":{
+    "alias":[
+      "2.1.8",
+      "law enforcement",
+      "sheriff", 
+      "deputy",
+      "cops",
+      "state trooper",
+      "security guard"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "pump-left":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "water and sewer"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "pump-right":{
+    "alias":[
+      "2.1.8",
+      "public works",
+      "public works", 
+      "water and sewer"
+    ],
+    "category":"Public Works",
+    "release":"2.1.8"
+  }, 
+  "reset-panel":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "riser-valve":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "road-grader":{
+    "alias":[
+      "2.1.8",
+      "transportation",
+      "tractor", 
+      "farm", 
+      "agriculture", 
+      "vehicle"
+    ],
+    "category":"Transportation",
+    "release":"2.1.8"
+  }, 
+  "security-area-of-refuge":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "security-area-of-refuge-accessible":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "sprinkler-control-panel":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "sprinkler-control-valve":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "stairs":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "street-sweeper":{
+    "alias":[
+      "2.1.8",
+      "transportation",
+      "city worker", 
+      "clean", 
+      "sweep", 
+      "vehicle", 
+      "truck"
+    ],
+    "category":"Transportation",
+    "release":"2.1.8"
+  }, 
+  "telecommunications-shut-off":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "traffic-accident":{
+    "alias":[
+      "2.1.8",
+      "transportation",
+      "collision", 
+      "street", 
+      "chaos", 
+      "hazard", 
+      "trouble"
+    ],
+    "category":"Transportation",
+    "release":"2.1.8"
+  }, 
+  "utility-shut-off-other":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "fire service", 
+      "fire department", 
+      "fire fighting"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
+  }, 
+  "wildfire":{
+    "alias":[
+      "2.1.8",
+      "fire service",
+      "tree", 
+      "danger", 
+      "hazard", 
+      "blaze", 
+      "forest", 
+      "fire", 
+      "inferno"
+    ],
+    "category":"Fire Service",
+    "release":"2.1.8"
   }
 }
