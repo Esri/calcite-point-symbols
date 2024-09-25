@@ -1,0 +1,1 @@
+export const pAnomalyInternalCorrosion17: CalciteMultiPathEntry;

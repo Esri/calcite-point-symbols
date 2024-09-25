@@ -1,0 +1,1 @@
+export const pIliSurveyReadingsMechanicalDamage17: string;
