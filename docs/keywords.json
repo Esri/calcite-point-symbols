@@ -1911,7 +1911,7 @@
   },
   "work-order":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "work order",
       "utility and pipeline"
@@ -4132,7 +4132,7 @@
   },
   "street-lamp":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Planning And Development",
       "gas lamp",
       "lighting",
@@ -7396,7 +7396,7 @@
   },
   "pedestal":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7405,7 +7405,7 @@
   },
   "pipe-job-separator":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "pipe job separator",
       "utility and pipeline"
@@ -7415,7 +7415,7 @@
   },
   "pipe-marker":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "pipe marker",
       "utility and pipeline"
@@ -7425,7 +7425,7 @@
   },
   "plastic-fusion":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "plastic fusion",
       "utility and pipeline"
@@ -7435,7 +7435,7 @@
   },
   "platform":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical",
       "utility pole",
@@ -7446,7 +7446,7 @@
   },
   "pole":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical",
       "utility pole",
@@ -7498,7 +7498,7 @@
   },
   "pressure-monitoring-device":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "pressure monitoring device",
       "utility and pipeline"
@@ -7508,7 +7508,7 @@
   },
   "pressure-regulating-valve":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "pressure regulating valve",
       "utility and pipeline"
@@ -7518,7 +7518,7 @@
   },
   "pressure-sensor":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "pressure sensor",
       "water and sewer"
@@ -7528,7 +7528,7 @@
   },
   "pressure-valve":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "pressure valve",
       "water and sewer"
@@ -7538,7 +7538,7 @@
   },
   "pump":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "water and sewer"
     ],
@@ -7547,7 +7547,7 @@
   },
   "pump-station-utility-and-pipeline":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "pump station utility and pipeline"
     ],
@@ -7556,7 +7556,7 @@
   },
   "pump-station-water-and-sewer":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "pump station water and sewer"
     ],
@@ -7565,7 +7565,7 @@
   },
   "reactor":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7574,7 +7574,7 @@
   },
   "recloser":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7583,7 +7583,7 @@
   },
   "recloser-bank":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "recloser bank",
       "electrical"
@@ -7593,7 +7593,7 @@
   },
   "regulation-station":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "regulation station",
       "utility and pipeline"
@@ -7603,7 +7603,7 @@
   },
   "regulator":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline"
     ],
@@ -7612,7 +7612,7 @@
   },
   "relief-valve":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "relief valve",
       "electrical"
@@ -7622,7 +7622,7 @@
   },
   "riser":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7631,7 +7631,7 @@
   },
   "scrubber":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline"
     ],
@@ -7640,7 +7640,7 @@
   },
   "sectionalizer":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7659,7 +7659,7 @@
   },
   "service-connection":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "service connection",
       "water and sewer"
@@ -7669,7 +7669,7 @@
   },
   "service-point":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "service point",
       "electrical"
@@ -7679,7 +7679,7 @@
   },
   "service-tee":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "service tee",
       "utility and pipeline"
@@ -7689,7 +7689,7 @@
   },
   "shutoff-valve":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "shutoff valve",
       "water and sewer"
@@ -7699,7 +7699,7 @@
   },
   "smart-pig-launcher":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "smart pig launcher",
       "utility and pipeline"
@@ -7709,7 +7709,7 @@
   },
   "smart-pig-receiver":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "smart pig receiver",
       "utility and pipeline"
@@ -7728,7 +7728,7 @@
   },
   "squeeze-off":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "squeeze off",
       "utility and pipeline"
@@ -7738,7 +7738,7 @@
   },
   "storage-electrical":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "storage electrical",
       "battery"
@@ -7748,7 +7748,7 @@
   },
   "storage-water-and-sewer":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "storage water and sewer"
     ],
@@ -7757,7 +7757,7 @@
   },
   "strainer":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline"
     ],
@@ -7766,7 +7766,7 @@
   },
   "streetlight-electrical":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "streetlight electrical",
       "street light"
@@ -7776,7 +7776,7 @@
   },
   "substation":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7785,7 +7785,7 @@
   },
   "switch":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7814,7 +7814,7 @@
   },
   "tank":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline"
     ],
@@ -7823,7 +7823,7 @@
   },
   "temp-source-location-compressor-station":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "temp source location compressor station",
       "utility and pipeline"
@@ -7833,7 +7833,7 @@
   },
   "temp-source-location-meter-setting":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "temp source location meter setting",
       "utility and pipeline"
@@ -7843,7 +7843,7 @@
   },
   "temp-source-location-regulator-station":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "temp source location regulator station",
       "utility and pipeline"
@@ -7853,7 +7853,7 @@
   },
   "temp-source-location-rural-tap":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "temp source location rural tap",
       "utility and pipeline"
@@ -7863,7 +7863,7 @@
   },
   "temp-source-location-town-border-station":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "temp source location town border station",
       "utility and pipeline"
@@ -7873,7 +7873,7 @@
   },
   "temp-source-location-wellhead":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "temp source location wellhead",
       "utility and pipeline"
@@ -7883,7 +7883,7 @@
   },
   "temperature-sensor":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "temperature sensor",
       "water and sewer"
@@ -7893,7 +7893,7 @@
   },
   "tower":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7902,7 +7902,7 @@
   },
   "town-border-station":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "town border station",
       "utility and pipeline"
@@ -7912,7 +7912,7 @@
   },
   "transformer":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
@@ -7921,7 +7921,7 @@
   },
   "transformer-bank":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "transformer bank",
       "electrical"
@@ -7942,7 +7942,7 @@
   },
   "utility-meter":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility meter",
       "utility and pipeline"
@@ -7972,7 +7972,7 @@
   },
   "vacuum-station":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "vacuum station",
       "water and sewer"
@@ -7982,7 +7982,7 @@
   },
   "valve-closed":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "valve closed",
       "water and sewer"
@@ -7992,7 +7992,7 @@
   },
   "valve-inspection":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "valve inspection",
       "utility and pipeline"
@@ -8002,7 +8002,7 @@
   },
   "valve-open":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "valve open",
       "utility and pipeline"
@@ -8021,7 +8021,7 @@
   },
   "vent":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "water and sewer"
     ],
@@ -8030,7 +8030,7 @@
   },
   "voltage-regulator":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "voltage regulator",
       "electrical"
@@ -8040,7 +8040,7 @@
   },
   "wellhead":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline"
     ],
@@ -8049,7 +8049,7 @@
   },
   "wellhead-source-flange":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "wellhead source flange",
       "utility and pipeline"
@@ -10994,7 +10994,7 @@
     "category":"Transportation",
     "release":"2.1.7"
   }, 
-  "severe-thunderstorm-incident-2":{
+  "severe-thunderstorm-incident":{
     "alias":[
       "2.1.7",
       "emergency management",
