@@ -6798,63 +6798,63 @@
   },
   "cp-rectifier":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline",
       "CP rectifier"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "cp-test-point":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline",
       "CP test point"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "custody-transfer-to-distribution-meter":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline",
       "custody transfer to distribution meter"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "custody-transfer-to-gathering-meter":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline",
       "custody transfer to gathering meter"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "custody-transfer-to-transmission-meter":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline",
       "custody transfer to transmission meter"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "customer-meter":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline",
       "customer meter"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "da-survey-readings":{
     "alias":[
@@ -6868,13 +6868,13 @@
   },
   "dehydration-equipment":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline",
       "dehydration equipment"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "traffic-cone":{
     "alias":[
@@ -6902,50 +6902,50 @@
   },
   "drip":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       ""
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "droplet":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "elbow":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "electro-stop":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electro stop",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "excess-flow-valve":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "excess flow valve",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "flow-device":{
     "alias":[
@@ -6979,42 +6979,42 @@
   },
   "fuse":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "fuse-bank":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "fuse bank",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "gas-leak-inspection":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "gas leak inspection",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "gate-bank":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "gate bank",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "gate":{
     "alias":[
@@ -7027,12 +7027,12 @@
   },
   "generation":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "generator":{
     "alias":[
@@ -7045,21 +7045,21 @@
   },
   "ground":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "guy":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "handhole":{
     "alias":[
@@ -7107,53 +7107,53 @@
   },
   "identified-issue-corrosion":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "identified issue corrosion",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "identified-issue-damaged-meter":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "identified issue damaged meter",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "identified-issue-odor":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "identified issue odor",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "ili-ground-ref-marker":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "ILI ground ref markers",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "ili-survey-reading":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "ILI survey readings",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "inter-basin-water-transfer":{
     "alias":[
@@ -7167,31 +7167,31 @@
   },
   "inverter":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "joint":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "junction-box":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "junction box",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "leak-severity-critical":{
     "alias":[
@@ -7215,23 +7215,23 @@
   },
   "line-end":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "line end",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "line-heater":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "line heater",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "line-monitor":{
     "alias":[
@@ -7245,13 +7245,13 @@
   },
   "manhole":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "electrical",
       "water and sewer"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "meter-setting":{
     "alias":[
@@ -7265,126 +7265,126 @@
   },
   "network-protector":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "network protector",
       "electrical"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-coupling":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting coupling",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-elbow":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting elbow",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-end-cap":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting end cap",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-expansion-joint":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting expansion joint",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-flange":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting flange",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-reducer":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting reducer",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-screw":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting screw",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-tee":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting tee",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-transition":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting transition",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "non-controllable-fitting-weld":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "non controllable fitting weld",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "odorizer":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "utility and pipeline"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "one-call-ticket":{
     "alias":[
-      "2.1.0",
+      "2.1.9",
       "Public Works",
       "one call ticket",
       "utility and pipeline",
@@ -7392,7 +7392,7 @@
       "call before you dig"
     ],
     "category":"Public Works",
-    "release":"2.1.0"
+    "release":"2.1.9"
   },
   "pedestal":{
     "alias":[

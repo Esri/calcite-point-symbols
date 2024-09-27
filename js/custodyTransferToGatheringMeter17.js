@@ -1,0 +1,1 @@
+export const custodyTransferToGatheringMeter17 = "M12 12h3v1h-3l-.5-.5.5-.5zm-1 1H9v2h6v-1h-3l-1-1zm1-5l-3 2.333V12h2l1-1h3v-.667L12 8zM9 9.066l-.614.478a1 1 0 0 0-.386.789V11H4v-1H2l-1 1V8l1 1h2V7h2V5.95a2.5 2.5 0 1 1 1 0V7h2v2.066zM8 4V3H5v1h3z";
