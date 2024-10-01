@@ -12658,5 +12658,162 @@
     ],
     "category":"Fire Service",
     "release":"2.1.8"
+  }, 
+  "vehicle-checkpoint":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "vehicle", 
+      "car", 
+      "stop", 
+      "security", 
+      "control", 
+      "gate"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "metal-barrier":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "metal", 
+      "gate", 
+      "separate", 
+      "security"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "sound-board":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "sound", 
+      "controls", 
+      "music", 
+      "production", 
+      "entertainment"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "bag-check":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "bag", 
+      "security", 
+      "entrance", 
+      "x-ray"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "security-sign":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "security", 
+      "information"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "muster-point":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "gather", 
+      "location", 
+      "security", 
+      "people"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "water-truck":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "vehicle", 
+      "beverage", 
+      "emergency"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "highway-message-board":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "sign", 
+      "freeway", 
+      "highway", 
+      "interstate"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "ticket-check":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "ticket", 
+      "security", 
+      "entrance"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "vendor":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "food", 
+      "drink", 
+      "tent", 
+      "truck", 
+      "seller"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "route-from":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "direction", 
+      "arrow", 
+      "circle", 
+      "location", 
+      "tracking"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "drone-quadcopter":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "electronic", 
+      "camera", 
+      "surveillance"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
+  }, 
+  "route-to":{
+    "alias":[
+      "2.2.0",
+      "community events",
+      "direction", 
+      "arrow", 
+      "circle", 
+      "location", 
+      "tracking"
+    ],
+    "category":"Community Events",
+    "release":"2.2.0"
   }
 }
