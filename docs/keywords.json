@@ -1987,29 +1987,6 @@
     "category":"Health And Human Services",
     "release":"2.1.0"
   },
-  "baby":{
-    "alias":[
-      "2.1.0",
-      "Health And Human Services",
-      "birth services",
-      "nursery",
-      "newborns",
-      "child care",
-      "NICU",
-      "neonatal intensive care unit",
-      "delivery room",
-      "day care",
-      "children's hospital",
-      "changing room",
-      "baby diaper station",
-      "mothers room",
-      "baby station",
-      "children",
-      "child"
-    ],
-    "category":"Health And Human Services",
-    "release":"2.1.0"
-  },
   "cocaine":{
     "alias":[
       "2.1.0",
@@ -2494,7 +2471,7 @@
   },
   "overdose-treatment":{
     "alias":[
-      "2.1.0",
+      "2.2.1",
       "Health And Human Services",
       "naloxone distribution",
       "naloxone treatment",
@@ -2505,7 +2482,7 @@
       "narcotic overdose treatment"
     ],
     "category":"Health And Human Services",
-    "release":"2.1.0"
+    "release":"2.2.1"
   },
   "opiates":{
     "alias":[
@@ -4768,26 +4745,6 @@
       "hydrology",
       "water cycle",
       "liquid"
-    ],
-    "category":"Planning And Development",
-    "release":"2.1.0"
-  },
-  "water-source":{
-    "alias":[
-      "2.1.0",
-      "Planning And Development",
-      "water quality advisory",
-      "water source",
-      "reservoir",
-      "ocean",
-      "lake",
-      "stream",
-      "creek",
-      "body of water",
-      "river",
-      "pond",
-      "rainwater",
-      "irrigation"
     ],
     "category":"Planning And Development",
     "release":"2.1.0"
@@ -10521,20 +10478,6 @@
       "play", 
       "ball", 
       "recreation"
-    ],
-    "category":"Planning and Development",
-    "release":"2.1.7"
-  }, 
-  "garage":{
-    "alias":[
-      "2.1.7",
-      "planning and development",
-      "infrastructure", 
-      "car", 
-      "transportation", 
-      "parking", 
-      "space", 
-      "parking lot"
     ],
     "category":"Planning and Development",
     "release":"2.1.7"
