@@ -10022,43 +10022,43 @@
   "accessibility-parking-space":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "wheelchair", 
       "disabled", 
       "sign"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "atoll-pool":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "water", 
       "activity", 
       "park", 
       "infrastructure"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "auditorium":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "amphitheater", 
       "music", 
       "concert", 
       "playhouse", 
       "hall"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "baseball":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10066,13 +10066,13 @@
       "play", 
       "ball"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "basketball":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10080,7 +10080,7 @@
       "play", 
       "ball"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "bike-lane":{
@@ -10106,27 +10106,27 @@
   "bike-park":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
       "field", 
       "play"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "bike-repair":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Points Of Interest",
       "park", 
       "sport", 
       "infrastructure", 
       "field", 
       "fix"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "ahead-text":{
@@ -10164,38 +10164,38 @@
   "bollard":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "block", 
       "stop", 
       "traffic control"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "braille":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "blind", 
       "sign", 
       "visually impaired", 
       "park", 
       "infrastructure"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "breastfeeding-station":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "mother", 
       "child", 
       "parent"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "bump-text":{
@@ -10221,7 +10221,7 @@
   "cabana":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "field", 
@@ -10235,7 +10235,7 @@
   "campfire":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "field", 
@@ -10243,42 +10243,42 @@
       "camping", 
       "campground"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "canopy":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "rest", 
       "gathering"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "carousel":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "children", 
       "play"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "changing-room":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "fitting room"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "chemical-incident":{
@@ -10305,7 +10305,7 @@
   "culvert":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "water", 
@@ -10313,26 +10313,26 @@
       "drain", 
       "canal"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "disc-golf":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
       "field", 
       "play"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "disc-golf-baskets":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10340,13 +10340,13 @@
       "play", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "disc-golf-tees":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10354,7 +10354,7 @@
       "play", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "do-not-block-text":{
@@ -10379,18 +10379,18 @@
       "marina", 
       "harbor"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "dominos":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "game", 
       "recreation", 
       "play"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "east-text":{
@@ -10406,7 +10406,7 @@
   "exposition-center":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "activity", 
       "park", 
       "infrastructure", 
@@ -10414,26 +10414,26 @@
       "building", 
       "hall"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "fishing-pier":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "activity", 
       "dock", 
       "sport", 
       "infrastructure", 
       "park"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "football":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10442,7 +10442,7 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "fountain":{
@@ -10454,7 +10454,7 @@
       "infrastructure", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "freeway-expressway-ramp-arrow":{
@@ -10470,7 +10470,7 @@
   "futsal":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10479,25 +10479,25 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "gazebo":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "water", 
       "infrastructure", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "golf-bag-drop":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10506,13 +10506,13 @@
       "recreation", 
       "golf course"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "golf-clubhouse":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10521,13 +10521,13 @@
       "golf course", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "golf-driving-range":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10536,13 +10536,13 @@
       "golf course", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "golf-fairway":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10551,13 +10551,13 @@
       "golf course", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "golf-green":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10566,13 +10566,13 @@
       "golf course", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "golf-practice-green":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10581,13 +10581,13 @@
       "golf course", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "golf-sand-bunker":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10596,13 +10596,13 @@
       "gold course", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "golf-tee":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10612,13 +10612,13 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "greenhouse":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "plant", 
@@ -10627,13 +10627,13 @@
       "conservatory", 
       "house"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "handball-racquetball":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10642,7 +10642,7 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "hump-text":{
@@ -10658,7 +10658,7 @@
   "ice-skating":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10667,7 +10667,7 @@
       "recreation", 
       "ice"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "interstate-shield":{
@@ -10744,7 +10744,7 @@
   "multipurpose-field":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10753,7 +10753,7 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "north-text":{
@@ -10779,7 +10779,7 @@
   "park-office":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "activity", 
       "park", 
       "infrastructure", 
@@ -10788,13 +10788,13 @@
       "woods", 
       "national park"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "pickleball":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10803,20 +10803,20 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "pool":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "water", 
       "activity", 
       "park", 
       "infrastructure", 
       "swim"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "preferential-lane":{
@@ -10832,7 +10832,7 @@
   "recreation-fixtures":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Points Of Interest",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10841,7 +10841,7 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "right-or-left-turn-arrow":{
@@ -10867,20 +10867,20 @@
   "road-closures":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "sign", 
       "traffic", 
       "control", 
       "closed", 
       "stop"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "rollerskating":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10888,13 +10888,13 @@
       "play", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "rugby":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -10903,7 +10903,7 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "rxr-text":{
@@ -10953,13 +10953,13 @@
   "shed":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "activity", 
       "park", 
       "infrastructure", 
       "gathering"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "shelters-2":{
@@ -10979,32 +10979,32 @@
   "shooting-range":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "activity", 
       "recreational", 
       "infrastructure", 
       "park"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "shower":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "clean", 
       "hygiene", 
       "public health"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "shuffleboard":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11012,7 +11012,7 @@
       "play", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "signal-text":{
@@ -11028,7 +11028,7 @@
   "skiing":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11038,13 +11038,13 @@
       "ice", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "sledding":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11054,7 +11054,7 @@
       "cold", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "slow-text":{
@@ -11070,7 +11070,7 @@
   "snow-mobile-trail":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11080,13 +11080,13 @@
       "ice", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "soccer":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11095,13 +11095,13 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "softball":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11110,7 +11110,7 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "south-text":{
@@ -11144,13 +11144,13 @@
       "infrastructure", 
       "cool"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "staff-housing":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "ranger", 
       "activity", 
       "park", 
@@ -11158,7 +11158,7 @@
       "employee", 
       "national park"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "state-route-shield":{
@@ -11187,7 +11187,7 @@
   "swimming":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11197,13 +11197,13 @@
       "recreation", 
       "swim"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "table":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "field", 
@@ -11212,13 +11212,13 @@
       "national park", 
       "camp"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "tennis":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11227,7 +11227,7 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "text-text":{
@@ -11309,7 +11309,7 @@
   "toddler-pool":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "water", 
       "activity", 
       "park", 
@@ -11317,13 +11317,13 @@
       "cool", 
       "swim"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "track-and-field":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11332,26 +11332,26 @@
       "run", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "trailer":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
       "camping", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "trailer-parking":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "camping", 
       "camp", 
       "infrastructure", 
@@ -11359,7 +11359,7 @@
       "national park", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "us-route-shield":{
@@ -11377,20 +11377,20 @@
   "vault-toilet":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "camp", 
       "camping", 
       "national park"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "volleyball":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "sport", 
       "infrastructure", 
@@ -11399,13 +11399,13 @@
       "ball", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "wakeboarding":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "water", 
       "sport", 
@@ -11415,13 +11415,13 @@
       "swim", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "waste-disposal":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "dog", 
@@ -11429,33 +11429,33 @@
       "trash", 
       "garbage"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "waterfall":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "park", 
       "infrastructure", 
       "water", 
       "national park", 
       "nature"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "waterslide":{
     "alias":[
       "2.1.7",
-      "planning and development",
+      "Planning And Development",
       "water", 
       "activity", 
       "park", 
       "infrastructure", 
       "swim"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "west-text":{
@@ -11481,7 +11481,7 @@
       "swim", 
       "recreation"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "workshop":{
@@ -11493,7 +11493,7 @@
       "studio", 
       "house"
     ],
-    "category":"Planning and Development",
+    "category":"Planning And Development",
     "release":"2.1.7"
   }, 
   "wrong-way-arrow":{
