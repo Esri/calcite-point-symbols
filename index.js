@@ -32,7 +32,7 @@ export {anchor21} from "./js/anchor21.js";
 export {animalCruelty21} from "./js/animalCruelty21.js";
 export {animalSafety21} from "./js/animalSafety21.js";
 export {animalTreatment21} from "./js/animalTreatment21.js";
-export {annicniatorPanel21} from "./js/annicniatorPanel21.js";
+export {annunciatorPanel21} from "./js/annunciatorPanel21.js";
 export {anomaly17} from "./js/anomaly17.js";
 export {area21} from "./js/area21.js";
 export {arena13} from "./js/arena13.js";

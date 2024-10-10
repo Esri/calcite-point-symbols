@@ -39,7 +39,7 @@ export const anchor21: string;
 export const animalCruelty21: string;
 export const animalSafety21: string;
 export const animalTreatment21: string;
-export const annicniatorPanel21: string;
+export const annunciatorPanel21: string;
 export const anomaly17: string;
 export const area21: string;
 export const arena13: string;
