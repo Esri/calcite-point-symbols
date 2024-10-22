@@ -12758,5 +12758,61 @@
     ],
     "category":"Community Events",
     "release":"2.2.0"
+  }, 
+  "compass":{
+    "alias":[
+      "2.2.5",
+      "generic",
+      "direction", 
+      "gps", 
+      "travel", 
+      "arrow", 
+      "north"
+    ],
+    "category":"Generic",
+    "release":"2.2.5"
+  }, 
+  "compass-north-circle":{
+    "alias":[
+      "2.2.5",
+      "generic",
+      "direction", 
+      "gps", 
+      "travel", 
+      "arrow", 
+      "north "
+    ],
+    "category":"Generic",
+    "release":"2.2.5"
+  }, 
+  "aerial-car":{
+    "alias":[
+      "2.2.5",
+      "transportation",
+      "vehicle", 
+      "travel", 
+      "air", 
+      "vertical", 
+      "upright", 
+      "perpendicular"
+    ],
+    "category":"Transportation",
+    "release":"2.2.5"
+  }, 
+  "aerial-truck":{
+    "alias":[
+      "2.2.5",
+      "transportation",
+      "vehicle", 
+      "rig", 
+      "pickup", 
+      "travel", 
+      "air", 
+      "vertical", 
+      "upright", 
+      "perpendicular"
+    ],
+    "category":"Transportation",
+    "release":"2.2.5"
   }
 }
