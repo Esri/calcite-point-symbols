@@ -12814,5 +12814,41 @@
     ],
     "category":"Transportation",
     "release":"2.2.5"
+  }, 
+  "electric-charging-station":{
+    "alias":[
+      "2.2.7",
+      "planning and development",
+      "charge-point", 
+      "charging-dock", 
+      "ev"
+    ],
+    "category":"Planning And Development",
+    "release":"2.2.7"
+  }, 
+  "ice-cube":{
+    "alias":[
+      "2.2.7",
+      "emergency management",
+      "disaster", 
+      "relief", 
+      "aid", 
+      "emergency"
+    ],
+    "category":"Emergency Management",
+    "release":"2.2.7"
+  }, 
+  "electric-vehicle":{
+    "alias":[
+      "2.2.7",
+      "transportation",
+      "electric", 
+      "car", 
+      "battery", 
+      "automobile", 
+      "hybrid"
+    ],
+    "category":"Transportation",
+    "release":"2.2.7"
   }
 }
