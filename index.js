@@ -387,6 +387,9 @@ export {electricChargingStation13} from "./js/electricChargingStation13.js";
 export {electricChargingStation17} from "./js/electricChargingStation17.js";
 export {electricChargingStation21} from "./js/electricChargingStation21.js";
 export {electricShuntSwitch21} from "./js/electricShuntSwitch21.js";
+export {electricVehicle13} from "./js/electricVehicle13.js";
+export {electricVehicle17} from "./js/electricVehicle17.js";
+export {electricVehicle21} from "./js/electricVehicle21.js";
 export {electricalShutOff21} from "./js/electricalShutOff21.js";
 export {electroStop17} from "./js/electroStop17.js";
 export {electronics21} from "./js/electronics21.js";
@@ -612,6 +615,7 @@ export {humanTraffickingCommercialSexActs21} from "./js/humanTraffickingCommerci
 export {humpText21} from "./js/humpText21.js";
 export {hurricane21} from "./js/hurricane21.js";
 export {hydrant21} from "./js/hydrant21.js";
+export {iceCube21} from "./js/iceCube21.js";
 export {iceSkating21} from "./js/iceSkating21.js";
 export {id21} from "./js/id21.js";
 export {identifiedIssueCorrosion17} from "./js/identifiedIssueCorrosion17.js";
