@@ -1,1 +1,1 @@
-export const boxVan21: CalciteMultiPathEntry;
+export const boxVan21: string;
