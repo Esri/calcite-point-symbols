@@ -1,1 +1,1 @@
-export const naturalDisaster21: CalciteMultiPathEntry;
+export const naturalDisaster21: string;
