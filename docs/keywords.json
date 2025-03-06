@@ -5720,7 +5720,7 @@
   },
   "camera":{
     "alias":[
-      "2.1.0",
+      "2.2.9",
       "Points Of Interest",
       "landmark",
       "photography",
@@ -5743,11 +5743,11 @@
       "monument"
     ],
     "category":"Points Of Interest",
-    "release":"2.1.0"
+    "release":"2.2.9"
   },
   "book":{
     "alias":[
-      "2.1.0",
+      "2.2.9",
       "Points Of Interest",
       "library",
       "bookstore",
@@ -5772,7 +5772,7 @@
       "university"
     ],
     "category":"Points Of Interest",
-    "release":"2.1.0"
+    "release":"2.2.9"
   },
   "microphone":{
     "alias":[
