@@ -1100,19 +1100,6 @@
     "category":"Environment And Natural Resources",
     "release":"2.1.0"
   },
-  "thunderstorm":{
-    "alias":[
-      "2.1.0",
-      "Environment And Natural Resources",
-      "rain",
-      "downpour",
-      "lightning storm",
-      "severe weather",
-      "weather"
-    ],
-    "category":"Environment And Natural Resources",
-    "release":"2.1.0"
-  },
   "reeds":{
     "alias":[
       "2.1.0",
@@ -12850,5 +12837,18 @@
     ],
     "category":"Transportation",
     "release":"2.2.7"
+  },
+  "thunderstorm":{
+    "alias":[
+      "2.3.0",
+      "Environment And Natural Resources",
+      "rain",
+      "downpour",
+      "lightning storm",
+      "severe weather",
+      "weather"
+    ],
+    "category":"Environment And Natural Resources",
+    "release":"2.3.0"
   }
 }
