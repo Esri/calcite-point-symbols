@@ -12850,5 +12850,29 @@
     ],
     "category":"Environment And Natural Resources",
     "release":"2.3.0"
+  }, 
+  "mentally-ill":{
+    "alias":[
+      "2.3.1",
+      "law enforcement",
+      "subject matter expert support", 
+      "irrational", 
+      "crazy", 
+      "insane"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.3.1"
+  }, 
+  "utility-truck":{
+    "alias":[
+      "2.3.1",
+      "law enforcement",
+      "vehicle", 
+      "personal", 
+      "equipment support"
+    ],
+    "category":"Law Enforcement",
+    "release":"2.3.1"
   }
 }
+
