@@ -12855,7 +12855,7 @@
     "alias":[
       "2.3.1",
       "law enforcement",
-      "unbalanced", 
+      "subject matter expert support", 
       "irrational", 
       "crazy", 
       "insane"
@@ -12868,10 +12868,11 @@
       "2.3.1",
       "law enforcement",
       "vehicle", 
-      "pickup", 
-      "cargo"
+      "personal", 
+      "equipment support"
     ],
     "category":"Law Enforcement",
     "release":"2.3.1"
   }
 }
+
