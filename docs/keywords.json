@@ -12873,6 +12873,82 @@
     ],
     "category":"Law Enforcement",
     "release":"2.3.1"
+  }, 
+  "battery":{
+    "alias":[
+      "2.3.2",
+      "planning and development",
+      "power", 
+      "cell", 
+      "bank", 
+      "batch"
+    ],
+    "category":"Planning And Development",
+    "release":"2.3.2"
+  }, 
+  "biomass":{
+    "alias":[
+      "2.3.2",
+      "planning and development",
+      "fuel", 
+      "organic matter", 
+      "energy", 
+      "power"
+    ],
+    "category":"Planning And Development",
+    "release":"2.3.2"
+  }, 
+  "geothermal":{
+    "alias":[
+      "2.3.2",
+      "planning and development",
+      "energy", 
+      "heat", 
+      "electric", 
+      "solar"
+    ],
+    "category":"Planning And Development",
+    "release":"2.3.2"
+  }, 
+  "hydro":{
+    "alias":[
+      "2.3.2",
+      "planning and development",
+      "water", 
+      "hydraulic", 
+      "electricity", 
+      "energy", 
+      "gas"
+    ],
+    "category":"Planning And Development",
+    "release":"2.3.2"
+  }, 
+  "solar":{
+    "alias":[
+      "2.3.2",
+      "planning and development",
+      "sun", 
+      "heat", 
+      "lunar", 
+      "energy", 
+      "astral", 
+      "celestial"
+    ],
+    "category":"Planning And Development",
+    "release":"2.3.2"
+  }, 
+  "tidal":{
+    "alias":[
+      "2.3.2",
+      "planning and development",
+      "wave", 
+      "electricity", 
+      "water", 
+      "liquid", 
+      "fluid"
+    ],
+    "category":"Planning And Development",
+    "release":"2.3.2"
   }
 }
 
