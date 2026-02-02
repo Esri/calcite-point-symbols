@@ -1,0 +1,1 @@
+export const battery17 = "M10 3V2H7v1H5v11h7V3h-2zm-2 9V9H7l1.036-3H9.75L8.607 8H10l-2 4z";
