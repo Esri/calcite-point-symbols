@@ -12949,6 +12949,19 @@
     ],
     "category":"Planning And Development",
     "release":"2.3.2"
+  }, 
+  "broken-lock":{
+    "alias":[
+      "2.3.3",
+      "generic",
+      "ruin", 
+      "faulty", 
+      "inoperative", 
+      "damaged", 
+      "malfunctioning"
+    ],
+    "category":"Generic",
+    "release":"2.3.3"
   }
 }
 
