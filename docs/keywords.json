@@ -12962,6 +12962,61 @@
     ],
     "category":"Generic",
     "release":"2.3.3"
+  }, 
+  "egress":{
+    "alias":[
+      "2.3.4",
+      "fire service 25px",
+      "exit", 
+      "leave", 
+      "depart", 
+      "safety", 
+      "path", 
+      "hallways"
+    ],
+    "category":"Fire Service 25px",
+    "release":"2.3.4"
+  }, 
+  "escalator":{
+    "alias":[
+      "2.3.4",
+      "fire service 25px",
+      "moving staricase", 
+      "transport", 
+      "people mover", 
+      "incline", 
+      "fire department"
+    ],
+    "category":"Fire Service 25px",
+    "release":"2.3.4"
+  }, 
+  "hazmat-placard":{
+    "alias":[
+      "2.3.4",
+      "fire service 25px",
+      "diamond-shaped", 
+      "signs", 
+      "communicate", 
+      "warning", 
+      "danger", 
+      "safety"
+    ],
+    "category":"Fire Service 25px",
+    "release":"2.3.4"
+  }, 
+  "roof-access":{
+    "alias":[
+      "2.3.4",
+      "fire service 25px",
+      "entry", 
+      "pathway", 
+      "climb", 
+      "building", 
+      "hatch", 
+      "safety"
+    ],
+    "category":"Fire Service 25px",
+    "release":"2.3.4"
   }
 }
 
